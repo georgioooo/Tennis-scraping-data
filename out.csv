@@ -1,0 +1,902 @@
+Date,Tournament,Court,Surface,Wrank,Lrank,Wage,Lage,Wheight,Lheight,Wtitles,Ltitles,Wh2h,Lh2h,winner_hand,loser_hand,winner_weight,loser_weight,winner_YTD_Won_Lost,loser_YTD_Won_Lost,winner_YTD_Titles,loser_YTD_Titles,winner_CAREER_W_L,loser_CAREER_W_L,winner_Career_Prize_Money,loser_Career_Prize_Money,Winner,Loser
+2019.07.01,London,Outdoor,Grass,622,159,32,29,183,196,0,0,0,0,L,R,175,190,0/0,4/8,0,0,124/190,62/58,"$4,675,907","$1,898,609",Donald Young,Egor Gerasimov
+2019.07.01,London,Outdoor,Grass,243,87,29,20,183,193,0,0,0,0,R,L,172,187,0/0,7/5,0,0,11/26,9/8,"$1,338,486","$483,923",Yasutaka Uchiyama,Jack Draper
+2019.07.01,London,Outdoor,Grass,454,155,28,27,193,188,0,0,0,0,R,R,185,168,0/1,1/2,0,0,5/7,6/8,"$338,544","$984,031",Mikael Torpegaard,Nikola Milojevic
+2019.07.01,London,Outdoor,Grass,320,0,33,(1,175,183,1,2,0,0,R,R,159,178,0/0,0/0,0,0,55/90,134/193,"$2,975,689","$4,253,764",Yuichi Sugita,Carlos Berlocq
+2019.07.01,London,Outdoor,Grass,365,502,37,26,178,180,0,0,0,0,R,R,160,176,0/0,0/0,0,0,56/92,0/3,"$2,370,392","$318,911",Go Soeda,Filippo Baldi
+2019.07.01,London,Outdoor,Grass,858,135,34,28,175,188,0,0,0,0,R,R,160,180,0/0,3/5,0,0,43/85,6/16,"$2,067,979","$1,083,859",Tim Smyczek,Mitchell Krueger
+2019.07.01,London,Outdoor,Grass,1108,1450,33,40,188,191,0,4,0,0,L,R,185,181,0/0,0/0,0,0,5/22,181/225,"$1,566,128","$12,231,140",John-Patrick Smith,Nicolas Mahut
+2019.07.01,London,Outdoor,Grass,357,148,25,23,180,191,0,0,0,0,R,L,172,184,0/0,1/3,0,0,2/7,7/15,"$446,494","$615,156",Akira Santillan,Jurij Rodionov
+2019.07.01,London,Outdoor,Grass,529,162,26,24,175,188,0,0,0,0,R,R,155,198,0/0,1/2,0,0,8/21,11/25,"$805,480","$1,337,202",Noah Rubin,Michael Mmoh
+2019.07.01,London,Outdoor,Grass,196,314,27,34,188,188,0,0,0,0,R,R,178,192,2/1,0/0,0,0,24/32,98/148,"$1,068,221","$3,601,834",Ramkumar Ramanathan,Lukas Lacko
+2019.07.01,London,Outdoor,Grass,388,633,25,31,188,180,0,0,0,0,R,R,172,182,0/0,2/0,0,0,5/14,11/23,"$1,236,373","$846,390",Marc Polmans,Mohamed Safwat
+2019.07.01,London,Outdoor,Grass,142,268,30,30,198,178,0,0,0,0,L,R,185,182,0/0,0/1,0,0,1/2,3/15,"$553,329","$922,248",Mats Moraing,Federico Gaio
+2019.07.01,London,Outdoor,Grass,381,1031,36,37,183,175,0,0,0,0,R,R,165,144,0/0,0/0,0,0,6/18,143/195,"$1,283,774","$3,982,731",Adrian Menendez-Maceiras,Dudi Sela
+2019.07.01,London,Outdoor,Grass,288,229,34,32,185,178,0,0,0,0,R,R,191,176,1/0,0/1,0,0,68/95,13/18,"$2,335,783","$1,387,412",Illya Marchenko,Marco Trungelliti
+2019.07.01,London,Outdoor,Grass,1227,0,35,29,188,178,0,0,0,0,R,R,172,170,0/0,0/0,0,0,57/89,1/16,"$2,017,578","$594,280",Blaz Kavcic,Facundo Arguello
+2019.07.01,London,Outdoor,Grass,251,331,27,28,191,180,0,0,0,0,R,R,190,150,0/0,0/0,0,0,0/1,3/15,"$353,019","$861,526",Evgeny Karlovskiy,Kimmer Coppejans
+2019.07.01,London,Outdoor,Grass,603,0,28,(1,183,180,0,0,0,0,R,R,179,168,0/0,0/0,0,0,1/2,0/1,"$350,005","$501,753",Andrew Harris,Enrique Lopez Perez
+2019.07.01,London,Outdoor,Grass,152,206,30,32,193,185,0,0,0,0,R,L,190,180,3/4,0/1,0,0,27/32,13/22,"$1,326,118","$1,282,417",Yannick Hanfmann,Alessandro Giannessi
+2019.07.01,London,Outdoor,Grass,79,948,25,34,191,191,0,0,0,0,R,R,187,194,3/5,1/0,0,0,9/29,27/39,"$1,620,974","$1,120,622",Quentin Halys,Jurgen Zopp
+2019.07.01,London,Outdoor,Grass,47,90,26,27,188,185,0,0,0,0,R,R,187,167,13/15,1/1,0,0,20/30,4/5,"$1,363,293","$487,666",Tallon Griekspoor,Pedro Cachin
+2019.07.01,London,Outdoor,Grass,116,137,31,25,193,183,0,0,0,0,R,R,187,174,1/6,1/2,0,0,27/56,1/3,"$1,990,353","$749,572",Norbert Gombos,Zdenek Kolar
+2019.07.01,London,Outdoor,Grass,54,0,28,(1,180,183,0,0,0,0,R,R,170,161,11/19,0/0,0,0,46/55,3/7,"$2,311,726","$450,036",Marcos Giron,Arthur De Greef
+2019.07.01,London,Outdoor,Grass,945,841,39,34,185,193,5,0,0,0,R,R,176,187,0/0,0/0,0,0,297/354,2/3,"$8,451,851","$385,736",Guillermo Garcia-Lopez,Saketh Myneni
+2019.07.01,London,Outdoor,Grass,153,979,26,37,201,198,0,0,0,0,R,R,180,207,2/3,0/0,0,0,7/20,5/18,"$975,573","$796,517",Christopher Eubanks,Luca Vanni
+2019.07.01,London,Outdoor,Grass,734,1127,38,27,178,185,0,0,0,0,R,R,161,183,0/0,0/0,0,0,30/65,0/0,"$1,854,319","$97,564",Rogerio Dutra Silva,Evan Hoyt
+2019.07.01,London,Outdoor,Grass,66,561,30,26,183,196,0,0,0,0,R,R,181,176,2/9,0/0,0,0,49/82,0/1,"$2,992,263","$157,805",James Duckworth,Jan Choinski
+2019.07.01,London,Outdoor,Grass,379,479,31,34,175,180,0,0,0,0,R,R,160,165,0/3,0/0,0,0,2/12,36/66,"$936,926","$1,766,191",Steven Diez,Tatsuma Ito
+2019.07.01,London,Outdoor,Grass,222,227,27,26,183,191,0,0,0,0,R,R,172,179,0/1,0/1,0,0,1/4,10/13,"$737,056","$867,559",Enzo Couacaud,Sebastian Ofner
+2019.07.01,London,Outdoor,Grass,0,573,37,35,196,185,0,0,0,0,R,R,172,169,0/0,0/0,0,0,62/99,6/13,"$3,052,751","$748,947",Dustin Brown,Zhe Li
+2019.07.01,London,Outdoor,Grass,0,647,(1,29,196,188,0,0,0,0,R,R,203,176,0/0,0/0,0,0,60/93,0/0,"$2,181,301","$64,200",Daniel Brands,Mark Whitehouse
+2019.07.01,London,Outdoor,Grass,416,10,29,20,183,188,0,5,0,0,L,R,185,167,0/3,31/9,0,0,13/26,110/52,"$1,392,059","$5,667,668",Alex Bolt,Jannik Sinner
+2019.07.01,London,Outdoor,Grass,198,123,34,26,180,183,0,0,0,0,L,L,158,165,0/0,5/3,0,0,4/10,5/3,"$969,054","$347,387",Andrea Arnaboldi,Ryan Peniston
+2019.07.01,London,Outdoor,Grass,113,261,26,30,191,180,0,0,0,0,R,R,159,182,4/6,0/0,0,0,27/29,1/6,"$1,226,701","$789,714",Daniel Elahi Galan,Lorenzo Giustino
+2019.07.01,London,Outdoor,Grass,611,505,33,34,180,183,0,0,0,0,R,R,172,176,0/2,0/0,0,0,28/26,19/45,"$946,784","$1,729,767",Attila Balazs,Peter Polansky
+2019.07.01,London,Outdoor,Grass,34,86,25,20,185,175,1,0,0,0,R,R,180,143,23/17,2/3,0,0,74/68,5/6,"$3,092,308","$380,424",Tommy Paul,Chun-hsin Tseng
+2019.07.01,London,Outdoor,Grass,315,0,36,(1,193,,2,0,0,0,R,R,182,kg,0/1,0/0,0,0,123/159,2/2,"$4,658,071","$260,207",Lukas Rosol,Sergio Gutierrez-Ferrol
+2019.07.01,London,Outdoor,Grass,1325,121,31,32,193,183,0,0,0,0,R,L,194,180,0/0,4/12,0,0,3/6,34/71,"$386,886","$2,430,669",Viktor Galovic,Facundo Bagnis
+2019.07.01,London,Outdoor,Grass,184,304,28,29,183,178,0,0,1,0,R,R,175,152,0/1,0/0,0,0,22/39,2/4,"$1,562,054","$534,139",Bjorn Fratangelo,Alexey Vatutin
+2019.07.01,London,Outdoor,Grass,236,35,24,23,180,183,0,0,0,0,R,R,139,176,3/2,16/18,0,0,7/6,59/61,"$326,067","$3,085,619",Yosuke Watanuki,Alejandro Davidovich Fokina
+2019.07.01,London,Outdoor,Grass,38,0,29,34,193,188,0,0,0,0,R,R,174,166,17/14,0/0,0,0,25/25,168/205,"$1,764,854","$4,541,251",Oscar Otte,Santiago Giraldo
+2019.07.01,London,Outdoor,Grass,77,313,24,28,180,,1,0,0,0,R,R,159,154,12/16,0/0,0,0,49/48,9/7,"$1,985,610","$490,519",Soonwoo Kwon,Joao Domingues
+2019.07.01,London,Outdoor,Grass,301,250,32,31,185,188,0,1,0,0,R,R,165,193,0/0,1/2,0,0,55/117,32/39,"$3,321,210","$1,230,177",Evgeny Donskoy,Mirza Basic
+2019.07.01,London,Outdoor,Grass,141,1163,27,35,188,193,0,0,0,0,R,R,170,179,2/4,0/0,0,0,25/35,6/26,"$1,488,658","$1,149,834",Gianluca Mager,Aleksandr Nedovyesov
+2019.07.01,London,Outdoor,Grass,52,178,25,29,185,191,1,0,0,0,R,R,168,170,14/16,1/1,1,0,40/47,2/9,"$2,466,327","$535,695",Pedro Martinez,Filip Horansky
+2019.07.01,London,Outdoor,Grass,133,191,28,32,183,183,0,0,0,0,L,R,172,183,3/7,0/1,0,0,12/23,27/38,"$1,369,163","$1,583,660",Liam Broady,Andrej Martin
+2019.07.01,London,Outdoor,Grass,91,333,23,22,183,178,0,0,0,0,R,R,165,155,8/8,0/0,0,0,48/55,0/0,"$1,902,096","$135,114",Mikael Ymer,Aidan McHugh
+2019.07.01,London,Outdoor,Grass,263,867,29,32,185,188,0,0,0,0,R,R,176,187,0/1,0/0,0,0,19/44,19/41,"$1,919,295","$1,106,276",Salvatore Caruso,Ze Zhang
+2019.07.01,London,Outdoor,Grass,514,649,36,30,193,188,4,0,0,0,R,R,176,170,0/0,0/1,0,0,177/215,29/18,"$5,606,768","$643,282",Sergiy Stakhovsky,Darian King
+2019.07.01,London,Outdoor,Grass,390,131,34,26,183,185,0,0,0,0,L,R,165,171,0/0,8/5,0,0,30/61,32/60,"$2,231,442","$1,432,926",Ruben Bemelmans,Elias Ymer
+2019.07.01,London,Outdoor,Grass,575,420,27,35,196,188,0,0,0,0,R,R,198,190,0/0,0/0,0,0,1/2,31/55,"$515,552","$1,696,974",Stefano Napolitano,Matthias Bachinger
+2019.07.01,London,Outdoor,Grass,154,0,28,33,183,193,0,0,0,0,R,R,178,182,2/4,0/0,0,0,26/49,70/94,"$1,636,709","$1,828,800",Dennis Novak,Thiemo de Bakker
+2019.07.01,London,Outdoor,Grass,271,339,30,33,193,180,0,0,0,0,L,R,193,152,0/1,0/0,0,0,10/10,11/22,"$387,622","$1,072,466",Roberto Quiroz,Jason Jung
+2019.07.01,London,Outdoor,Grass,192,138,28,30,183,185,0,0,0,0,R,R,176,179,1/2,0/4,0,0,12/30,17/22,"$1,607,003","$761,144",Gregoire Barrere,Emilio Gomez
+2019.07.01,London,Outdoor,Grass,89,119,26,30,180,180,0,0,0,0,R,R,173,170,12/11,0/0,0,0,25/37,1/6,"$1,792,016","$686,435",Kamil Majchrzak,Constant Lestienne
+2019.07.01,London,Outdoor,Grass,460,172,26,27,183,,0,0,0,0,R,R,168,kg,0/0,0/0,0,0,6/13,1/0,"$1,063,485","$246,539",Antoine Hoang,Kaichi Uchida
+2019.07.01,London,Outdoor,Grass,809,393,36,27,191,183,4,0,0,0,R,R,176,176,0/0,0/0,0,0,202/250,3/4,"$11,983,770","$465,904",Marcel Granollers,Pedja Krstin
+2019.07.01,London,Outdoor,Grass,374,289,27,25,193,196,0,0,0,0,R,R,186,187,0/1,0/0,0,0,4/19,0/5,"$874,128","$680,319",Brayden Schnur,Maxime Janvier
+2019.07.01,London,Outdoor,Grass,71,0,29,36,198,183,2,0,0,0,L,R,207,182,8/10,0/0,0,0,140/163,123/165,"$5,460,875","$5,938,143",Jiri Vesely,Simone Bolelli
+2019.07.01,London,Outdoor,Grass,72,500,28,32,183,193,0,0,0,0,L,R,172,187,11/11,0/0,0,0,66/90,3/4,"$2,483,692","$494,129",Thiago Monteiro,Roberto Marcora
+2019.07.01,London,Outdoor,Grass,465,136,31,30,193,185,0,0,0,0,L,R,187,176,0/1,3/6,0,0,15/23,30/54,"$1,101,471","$2,118,427",Blaz Rola,Stefano Travaglia
+2019.07.01,London,Outdoor,Grass,82,78,22,30,196,180,1,0,0,0,R,R,172,161,3/12,13/14,0,0,40/62,36/42,"$2,389,960","$1,767,496",Alexei Popyrin,Federico Coria
+2019.07.01,London,Outdoor,Grass,267,1012,31,32,168,185,0,0,0,0,R,R,143,155,0/0,0/0,0,0,2/9,9/17,"$936,779","$760,330",Hiroki Moriya,Yannick Maden
+2019.07.01,London,Outdoor,Grass,96,108,29,30,178,185,0,0,0,0,R,R,163,172,7/3,5/10,0,0,10/11,51/70,"$1,066,903","$2,204,392",Jason Kubler,Henri Laaksonen
+2019.07.01,London,Outdoor,Grass,112,309,23,26,175,183,0,0,0,0,L,R,156,172,6/6,0/0,0,0,36/50,0/3,"$2,192,336","$342,106",Corentin Moutet,Lucas Miedler
+2019.07.01,London,Outdoor,Grass,622,113,32,26,183,191,0,0,0,0,L,R,175,159,0/0,4/6,0,0,124/190,27/29,"$4,675,907","$1,226,701",Donald Young,Daniel Elahi Galan
+2019.07.01,London,Outdoor,Grass,236,365,24,37,180,178,0,0,0,0,R,R,139,160,3/2,0/0,0,0,7/6,56/92,"$326,067","$2,370,392",Yosuke Watanuki,Go Soeda
+2019.07.01,London,Outdoor,Grass,320,575,33,27,175,196,1,0,0,0,R,R,159,198,0/0,0/0,0,0,55/90,1/2,"$2,975,689","$515,552",Yuichi Sugita,Stefano Napolitano
+2019.07.01,London,Outdoor,Grass,529,271,26,30,175,193,0,0,0,1,R,L,155,193,0/0,0/1,0,0,8/21,10/10,"$805,480","$387,622",Noah Rubin,Roberto Quiroz
+2019.07.01,London,Outdoor,Grass,96,116,29,31,178,193,0,0,0,0,R,R,163,187,7/3,1/6,0,0,10/11,27/56,"$1,066,903","$1,990,353",Jason Kubler,Norbert Gombos
+2019.07.01,London,Outdoor,Grass,1325,66,31,30,193,183,0,0,0,0,R,R,194,181,0/0,2/9,0,0,3/6,49/82,"$386,886","$2,992,263",Viktor Galovic,James Duckworth
+2019.07.01,London,Outdoor,Grass,133,47,28,26,183,188,0,0,0,0,L,R,172,187,3/7,13/15,0,0,12/23,20/30,"$1,369,163","$1,363,293",Liam Broady,Tallon Griekspoor
+2019.07.01,London,Outdoor,Grass,0,465,(1,31,196,193,0,0,0,0,R,L,203,187,0/0,0/1,0,0,60/93,15/23,"$2,181,301","$1,101,471",Daniel Brands,Blaz Rola
+2019.07.01,London,Outdoor,Grass,390,357,34,25,183,180,0,0,0,0,L,R,165,172,0/0,0/0,0,0,30/61,2/7,"$2,231,442","$446,494",Ruben Bemelmans,Akira Santillan
+2019.07.01,London,Outdoor,Grass,611,288,33,34,180,185,0,0,1,0,R,R,172,191,0/2,1/0,0,0,28/26,68/95,"$946,784","$2,335,783",Attila Balazs,Illya Marchenko
+2019.07.01,London,Outdoor,Grass,198,267,34,31,180,168,0,0,0,0,L,R,158,143,0/0,0/0,0,0,4/10,2/9,"$969,054","$936,779",Andrea Arnaboldi,Hiroki Moriya
+2019.07.01,London,Outdoor,Grass,34,454,25,28,185,193,1,0,0,0,R,R,180,185,23/17,0/1,0,0,74/68,5/7,"$3,092,308","$338,544",Tommy Paul,Mikael Torpegaard
+2019.07.01,London,Outdoor,Grass,315,945,36,39,193,185,2,5,3,2,R,R,182,176,0/1,0/0,0,0,123/159,297/354,"$4,658,071","$8,451,851",Lukas Rosol,Guillermo Garcia-Lopez
+2019.07.01,London,Outdoor,Grass,184,79,28,25,183,191,0,0,0,0,R,R,175,187,0/1,3/5,0,0,22/39,9/29,"$1,562,054","$1,620,974",Bjorn Fratangelo,Quentin Halys
+2019.07.01,London,Outdoor,Grass,152,38,30,29,193,193,0,0,0,0,R,R,190,174,3/4,17/14,0,0,27/32,25/25,"$1,326,118","$1,764,854",Yannick Hanfmann,Oscar Otte
+2019.07.01,London,Outdoor,Grass,77,388,24,25,180,188,1,0,0,0,R,R,159,172,12/16,0/0,0,0,49/48,5/14,"$1,985,610","$1,236,373",Soonwoo Kwon,Marc Polmans
+2019.07.01,London,Outdoor,Grass,243,301,29,32,183,185,0,0,0,0,R,R,172,165,0/0,0/0,0,0,11/26,55/117,"$1,338,486","$3,321,210",Yasutaka Uchiyama,Evgeny Donskoy
+2019.07.01,London,Outdoor,Grass,222,141,27,27,183,188,0,0,0,0,R,R,172,170,0/1,2/4,0,0,1/4,25/35,"$737,056","$1,488,658",Enzo Couacaud,Gianluca Mager
+2019.07.01,London,Outdoor,Grass,251,52,27,25,191,185,0,1,0,0,R,R,190,168,0/0,14/16,0,1,0/1,40/47,"$353,019","$2,466,327",Evgeny Karlovskiy,Pedro Martinez
+2019.07.01,London,Outdoor,Grass,91,0,23,37,183,196,0,0,0,0,R,R,165,172,8/8,0/0,0,0,48/55,62/99,"$1,902,096","$3,052,751",Mikael Ymer,Dustin Brown
+2019.07.01,London,Outdoor,Grass,263,1108,29,33,185,188,0,0,0,0,R,L,176,185,0/1,0/0,0,0,19/44,5/22,"$1,919,295","$1,566,128",Salvatore Caruso,John-Patrick Smith
+2019.07.01,London,Outdoor,Grass,603,514,28,36,183,193,0,4,0,0,R,R,179,176,0/0,0/0,0,0,1/2,177/215,"$350,005","$5,606,768",Andrew Harris,Sergiy Stakhovsky
+2019.07.01,London,Outdoor,Grass,154,416,28,29,183,183,0,0,0,0,R,L,178,185,2/4,0/3,0,0,26/49,13/26,"$1,636,709","$1,392,059",Dennis Novak,Alex Bolt
+2019.07.01,London,Outdoor,Grass,192,734,28,38,183,178,0,0,0,0,R,R,176,161,1/2,0/0,0,0,12/30,30/65,"$1,607,003","$1,854,319",Gregoire Barrere,Rogerio Dutra Silva
+2019.07.01,London,Outdoor,Grass,89,196,26,27,180,188,0,0,0,0,R,R,173,178,12/11,2/1,0,0,25/37,24/32,"$1,792,016","$1,068,221",Kamil Majchrzak,Ramkumar Ramanathan
+2019.07.01,London,Outdoor,Grass,54,460,28,26,180,183,0,0,1,0,R,R,170,168,11/19,0/0,0,0,46/55,6/13,"$2,311,726","$1,063,485",Marcos Giron,Antoine Hoang
+2019.07.01,London,Outdoor,Grass,809,1227,36,35,191,188,4,0,1,0,R,R,176,172,0/0,0/0,0,0,202/250,57/89,"$11,983,770","$2,017,578",Marcel Granollers,Blaz Kavcic
+2019.07.01,London,Outdoor,Grass,374,379,27,31,193,175,0,0,0,0,R,R,186,160,0/1,0/3,0,0,4/19,2/12,"$874,128","$936,926",Brayden Schnur,Steven Diez
+2019.07.01,London,Outdoor,Grass,71,381,29,36,198,183,2,0,0,0,L,R,207,165,8/10,0/0,0,0,140/163,6/18,"$5,460,875","$1,283,774",Jiri Vesely,Adrian Menendez-Maceiras
+2019.07.01,London,Outdoor,Grass,72,153,28,26,183,201,0,0,0,0,L,R,172,180,11/11,2/3,0,0,66/90,7/20,"$2,483,692","$975,573",Thiago Monteiro,Christopher Eubanks
+2019.07.01,London,Outdoor,Grass,82,142,22,30,196,198,1,0,0,0,R,L,172,185,3/12,0/0,0,0,40/62,1/2,"$2,389,960","$553,329",Alexei Popyrin,Mats Moraing
+2019.07.01,London,Outdoor,Grass,112,858,23,34,175,175,0,0,0,0,L,R,156,160,6/6,0/0,0,0,36/50,43/85,"$2,192,336","$2,067,979",Corentin Moutet,Tim Smyczek
+2019.07.01,London,Outdoor,Grass,243,96,29,29,183,178,0,0,0,0,R,R,172,163,0/0,7/3,0,0,11/26,10/11,"$1,338,486","$1,066,903",Yasutaka Uchiyama,Jason Kubler
+2019.07.01,London,Outdoor,Grass,529,152,26,30,175,193,0,0,0,0,R,R,155,190,0/0,3/4,0,0,8/21,27/32,"$805,480","$1,326,118",Noah Rubin,Yannick Hanfmann
+2019.07.01,London,Outdoor,Grass,54,1325,28,31,180,193,0,0,0,0,R,R,170,194,11/19,0/0,0,0,46/55,3/6,"$2,311,726","$386,886",Marcos Giron,Viktor Galovic
+2019.07.01,London,Outdoor,Grass,390,622,34,32,183,183,0,0,0,0,L,L,165,175,0/0,0/0,0,0,30/61,124/190,"$2,231,442","$4,675,907",Ruben Bemelmans,Donald Young
+2019.07.01,London,Outdoor,Grass,198,251,34,27,180,191,0,0,0,0,L,R,158,190,0/0,0/0,0,0,4/10,0/1,"$969,054","$353,019",Andrea Arnaboldi,Evgeny Karlovskiy
+2019.07.01,London,Outdoor,Grass,320,315,33,36,175,193,1,2,0,1,R,R,159,182,0/0,0/1,0,0,55/90,123/159,"$2,975,689","$4,658,071",Yuichi Sugita,Lukas Rosol
+2019.07.01,London,Outdoor,Grass,77,0,24,(1,180,196,1,0,0,0,R,R,159,203,12/16,0/0,0,0,49/48,60/93,"$1,985,610","$2,181,301",Soonwoo Kwon,Daniel Brands
+2019.07.01,London,Outdoor,Grass,154,91,28,23,183,183,0,0,0,0,R,R,178,165,2/4,8/8,0,0,26/49,48/55,"$1,636,709","$1,902,096",Dennis Novak,Mikael Ymer
+2019.07.01,London,Outdoor,Grass,192,133,28,28,183,183,0,0,0,0,R,L,176,172,1/2,3/7,0,0,12/30,12/23,"$1,607,003","$1,369,163",Gregoire Barrere,Liam Broady
+2019.07.01,London,Outdoor,Grass,89,222,26,27,180,183,0,0,0,0,R,R,173,172,12/11,0/1,0,0,25/37,1/4,"$1,792,016","$737,056",Kamil Majchrzak,Enzo Couacaud
+2019.07.01,London,Outdoor,Grass,809,611,36,33,191,180,4,0,0,0,R,R,176,172,0/0,0/2,0,0,202/250,28/26,"$11,983,770","$946,784",Marcel Granollers,Attila Balazs
+2019.07.01,London,Outdoor,Grass,263,374,29,27,185,193,0,0,0,0,R,R,176,186,0/1,0/1,0,0,19/44,4/19,"$1,919,295","$874,128",Salvatore Caruso,Brayden Schnur
+2019.07.01,London,Outdoor,Grass,71,34,29,25,198,185,2,1,0,3,L,R,207,180,8/10,23/17,0,0,140/163,74/68,"$5,460,875","$3,092,308",Jiri Vesely,Tommy Paul
+2019.07.01,London,Outdoor,Grass,72,236,28,24,183,180,0,0,0,0,L,R,172,139,11/11,3/2,0,0,66/90,7/6,"$2,483,692","$326,067",Thiago Monteiro,Yosuke Watanuki
+2019.07.01,London,Outdoor,Grass,82,184,22,28,196,183,1,0,0,0,R,R,172,175,3/12,0/1,0,0,40/62,22/39,"$2,389,960","$1,562,054",Alexei Popyrin,Bjorn Fratangelo
+2019.07.01,London,Outdoor,Grass,112,603,23,28,175,183,0,0,0,0,L,R,156,179,6/6,0/0,0,0,36/50,1/2,"$2,192,336","$350,005",Corentin Moutet,Andrew Harris
+2019.07.01,London,Outdoor,Grass,126,89,38,26,188,180,7,0,1,0,L,R,198,173,4/7,12/11,0,0,558/438,25/37,"$18,136,660","$1,792,016",Fernando Verdasco,Kamil Majchrzak
+2019.07.01,London,Outdoor,Grass,0,518,(1,29,188,196,18,4,4,0,R,R,205,201,2/6,0/0,0,0,467/237,186/182,"$22,458,018","$6,291,443",Jo-Wilfried Tsonga,Bernard Tomic
+2019.07.01,London,Outdoor,Grass,0,97,38,26,180,170,4,1,1,0,R,L,176,141,0/0,5/10,0,0,288/257,80/103,"$8,616,024","$3,805,379",Janko Tipsarevic,Yoshihito Nishioka
+2019.07.01,London,Outdoor,Grass,58,207,33,22,185,180,4,0,1,0,R,R,163,153,12/12,0/2,1,0,212/250,0/4,"$7,851,170","$231,769",Joao Sousa,Paul Jubb
+2019.07.01,London,Outdoor,Grass,173,118,38,26,191,198,3,1,1,1,R,R,172,198,2/5,1/3,0,0,386/422,53/62,"$11,763,421","$2,282,706",Andreas Seppi,Nicolas Jarry
+2019.07.01,London,Outdoor,Grass,343,243,30,29,188,183,1,0,1,0,R,R,195,172,0/3,0/0,0,0,47/75,11/26,"$3,454,806","$1,338,486",Tennys Sandgren,Yasutaka Uchiyama
+2019.07.01,London,Outdoor,Grass,8,70,24,26,188,185,11,5,3,0,R,R,165,187,31/10,16/16,3,0,216/122,97/86,"$12,102,889","$4,824,894",Andrey Rublev,Cristian Garin
+2019.07.01,London,Outdoor,Grass,82,23,22,31,196,188,1,6,1,0,R,R,172,172,3/12,21/16,0,0,40/62,251/200,"$2,389,960","$13,678,168",Alexei Popyrin,Pablo Carreno Busta
+2019.07.01,London,Outdoor,Grass,17,202,24,31,211,180,4,0,2,0,R,L,225,154,20/14,1/1,2,0,88/83,32/50,"$4,198,775","$1,541,967",Reilly Opelka,Cedrik-Marcel Stebe
+2019.07.01,London,Outdoor,Grass,11,449,26,35,188,185,4,2,1,0,L,R,181,189,32/16,1/1,2,0,135/101,230/266,"$7,012,074","$6,319,460",Cameron Norrie,Denis Istomin
+2019.07.01,London,Outdoor,Grass,112,18,23,31,175,191,0,8,2,0,L,R,156,179,6/6,18/13,0,0,36/50,364/243,"$2,192,336","$21,498,490",Corentin Moutet,Grigor Dimitrov
+2019.07.01,London,Outdoor,Grass,84,74,33,29,183,180,1,0,1,0,R,R,174,165,7/14,5/11,0,0,117/144,33/47,"$5,185,800","$1,554,024",John Millman,Hugo Dellien
+2019.07.01,London,Outdoor,Grass,0,375,35,33,191,191,2,6,2,1,R,R,176,187,0/0,2/0,0,0,179/197,247/239,"$7,035,294","$7,649,959",Leonardo Mayer,Ernests Gulbis
+2019.07.01,London,Outdoor,Grass,246,54,40,28,188,180,7,0,1,0,L,R,194,170,0/9,11/19,0,0,503/484,46/55,"$18,585,117","$2,311,726",Feliciano Lopez,Marcos Giron
+2019.07.01,London,Outdoor,Grass,45,95,27,28,193,183,6,0,1,0,R,R,187,181,21/7,8/14,0,0,189/110,83/109,"$11,194,480","$4,027,008",Nick Kyrgios,Jordan Thompson
+2019.07.01,London,Outdoor,Grass,213,94,34,36,183,180,1,4,1,1,R,R,159,176,1/7,7/11,0,0,172/229,161/236,"$6,720,550","$6,931,384",Mikhail Kukushkin,Pablo Andujar
+2019.07.01,London,Outdoor,Grass,83,321,29,38,180,185,0,0,1,0,R,R,175,182,4/11,2/4,0,0,65/119,104/144,"$3,999,705","$4,016,044",Denis Kudla,Malek Jaziri
+2019.07.01,London,Outdoor,Grass,149,43,28,30,180,185,0,0,2,0,L,R,175,165,2/7,17/13,0,0,36/46,118/115,"$2,247,470","$5,670,895",Dominik Koepfer,Filip Krajinovic
+2019.07.01,London,Outdoor,Grass,31,88,22,29,183,183,1,1,1,0,R,R,165,170,27/15,5/13,0,0,82/77,68/91,"$3,702,937","$3,099,905",Miomir Kecmanovic,Roberto Carballes Baena
+2019.07.01,London,Outdoor,Grass,560,198,43,34,211,180,8,0,1,0,R,L,230,158,0/0,0/0,0,0,371/346,4/10,"$10,160,232","$969,054",Ivo Karlovic,Andrea Arnaboldi
+2019.07.01,London,Outdoor,Grass,85,40,32,34,188,188,4,4,1,0,R,L,190,168,11/10,15/16,0,1,190/191,256/285,"$7,628,987","$9,448,129",Steve Johnson,Albert Ramos-Vinolas
+2019.07.01,London,Outdoor,Grass,253,186,35,29,191,183,2,0,1,0,R,R,170,181,1/1,0/2,0,0,233/271,22/44,"$7,781,785","$1,478,946",Robin Haase,Jozef Kovalik
+2019.07.01,London,Outdoor,Grass,809,60,36,27,191,191,4,2,1,1,R,R,176,168,0/0,17/19,0,0,202/250,84/87,"$11,983,770","$3,990,596",Marcel Granollers,Lorenzo Sonego
+2019.07.01,London,Outdoor,Grass,98,154,30,28,188,183,1,0,2,0,R,R,181,178,13/15,2/4,0,0,122/120,26/49,"$5,266,060","$1,636,709",Marton Fucsovics,Dennis Novak
+2019.07.01,London,Outdoor,Grass,13,0,24,(1,196,196,3,13,1,0,R,R,190,200,29/11,0/0,2,0,160/134,640/342,"$8,193,645","$29,491,328",Taylor Fritz,Tomas Berdych
+2019.07.01,London,Outdoor,Grass,36,125,32,31,175,193,1,2,2,0,R,L,165,198,13/16,9/19,0,0,111/121,162/196,"$5,429,957","$5,904,021",Daniel Evans,Federico Delbonis
+2019.07.01,London,Outdoor,Grass,0,920,38,34,175,191,2,1,1,0,R,L,171,195,0/0,0/0,0,0,118/134,133/199,"$3,445,948","$5,737,833",Steve Darcis,Mischa Zverev
+2019.07.01,London,Outdoor,Grass,225,185,36,30,180,175,6,3,1,1,R,R,173,150,4/7,4/4,0,0,242/224,124/136,"$9,643,411","$4,662,152",Pablo Cuevas,Damir Dzumhur
+2019.07.01,London,Outdoor,Grass,177,529,23,26,183,175,0,0,1,0,R,R,184,155,0/3,0/0,0,0,2/11,8/21,"$745,386","$805,480",Jay Clarke,Noah Rubin
+2019.07.01,London,Outdoor,Grass,977,0,35,33,188,191,1,6,2,1,R,L,165,187,0/0,0/0,0,0,297/303,149/153,"$10,535,763","$5,524,410",Jeremy Chardy,Martin Klizan
+2019.07.01,London,Outdoor,Grass,192,39,28,25,183,196,0,1,1,1,R,R,176,180,1/2,22/18,0,1,12/30,92/88,"$1,607,003","$3,901,007",Gregoire Barrere,Alexander Bublik
+2019.07.01,London,Outdoor,Grass,0,374,(1,27,178,193,4,0,1,0,R,R,181,186,0/0,0/1,0,0,349/274,4/19,"$8,918,917","$874,128",Marcos Baghdatis,Brayden Schnur
+2019.07.01,London,Outdoor,Grass,122,109,32,32,193,175,0,1,2,0,R,R,202,152,2/11,5/7,0,0,166/202,91/125,"$7,597,772","$4,436,940",Jan-Lennard Struff,Radu Albot
+2019.07.01,London,Outdoor,Grass,12,75,25,32,196,183,5,1,2,0,R,R,179,183,28/12,8/18,1,0,112/90,160/212,"$7,367,623","$7,697,271",Hubert Hurkacz,Dusan Lajovic
+2019.07.01,London,Outdoor,Grass,69,769,27,30,188,183,2,0,2,0,R,R,181,172,14/16,0/0,0,0,89/98,11/25,"$3,698,136","$1,314,595",Laslo Djere,Guido Andreozzi
+2019.07.01,London,Outdoor,Grass,497,63,27,25,188,183,2,0,1,0,R,R,183,168,0/0,12/14,0,0,117/115,55/81,"$5,765,703","$2,741,436",Kyle Edmund,Jaume Munar
+2019.07.01,London,Outdoor,Grass,107,21,32,23,175,185,0,1,1,3,R,L,170,165,7/7,17/15,0,0,128/148,151/125,"$4,631,891","$9,303,108",Ricardas Berankis,Denis Shapovalov
+2019.07.01,London,Outdoor,Grass,92,170,33,28,196,180,3,1,2,0,R,R,176,154,3/17,4/5,0,0,240/286,35/50,"$9,836,848","$2,101,811",Benoit Paire,Juan Ignacio Londero
+2019.07.01,London,Outdoor,Grass,210,64,28,36,185,183,5,15,5,1,R,R,185,174,3/6,14/11,0,0,139/128,576/357,"$8,105,164","$19,538,187",Lucas Pouille,Richard Gasquet
+2019.07.01,London,Outdoor,Grass,204,326,32,31,183,191,1,0,1,0,L,R,174,195,0/0,0/2,0,0,119/138,66/91,"$5,731,930","$2,676,041",Guido Pella,Marius Copil
+2019.07.01,London,Outdoor,Grass,24,147,23,29,183,185,5,3,3,3,R,R,152,171,28/16,2/6,0,0,137/99,65/111,"$7,228,398","$4,438,907",Alex de Minaur,Marco Cecchinato
+2019.07.01,London,Outdoor,Grass,14,539,29,34,170,188,4,0,1,0,R,R,141,176,26/16,0/1,0,0,232/182,79/128,"$12,477,487","$4,293,922",Diego Schwartzman,Matthew Ebden
+2019.07.01,London,Outdoor,Grass,19,93,34,33,183,188,10,1,5,0,R,R,165,183,23/10,2/10,1,0,359/215,74/95,"$16,083,239","$3,598,235",Roberto Bautista Agut,Peter Gojowczyk
+2019.07.01,London,Outdoor,Grass,290,390,37,34,183,183,16,0,2,0,R,L,179,165,3/6,0/0,0,0,536/315,30/61,"$35,058,754","$2,231,442",Stan Wawrinka,Ruben Bemelmans
+2019.07.01,London,Outdoor,Grass,67,702,31,31,180,183,6,0,1,0,R,L,154,165,22/16,0/0,1,0,314/213,13/41,"$16,255,861","$1,666,323",David Goffin,Bradley Klahn
+2019.07.01,London,Outdoor,Grass,175,263,37,29,183,185,14,0,1,1,R,R,154,176,4/6,0/1,0,0,501/392,19/44,"$15,918,767","$1,919,295",Gilles Simon,Salvatore Caruso
+2019.07.01,London,Outdoor,Grass,9,139,21,32,193,193,1,0,3,1,R,R,194,194,30/17,2/1,1,0,130/93,131/169,"$7,443,072","$6,845,063",Felix Auger-Aliassime,Vasek Pospisil
+2019.07.01,London,Outdoor,Grass,28,1113,30,35,185,188,5,0,1,0,R,R,174,171,12/21,0/0,0,0,143/159,25/61,"$8,371,034","$1,544,846",Nikoloz Basilashvili,James Ward
+2019.07.01,London,Outdoor,Grass,15,285,26,32,196,183,7,0,3,1,R,R,209,161,18/6,3/7,2,0,130/69,139/157,"$9,911,546","$5,043,225",Matteo Berrettini,Aljaz Bedene
+2019.07.01,London,Outdoor,Grass,157,20,24,35,188,193,3,11,1,0,L,R,160,187,7/17,12/6,0,1,69/74,523/301,"$3,203,437","$20,890,958",Ugo Humbert,Gael Monfils
+2019.07.01,London,Outdoor,Grass,576,295,31,32,196,188,8,0,1,0,R,L,216,176,0/0,0/1,0,0,372/175,10/27,"$20,218,982","$938,291",Milos Raonic,Prajnesh Gunneswaran
+2019.07.01,London,Outdoor,Grass,16,80,33,34,198,180,20,1,2,1,R,L,196,174,21/13,15/16,0,0,570/319,232/278,"$30,588,972","$9,175,704",Marin Cilic,Adrian Mannarino
+2019.07.01,London,Outdoor,Grass,61,29,35,24,178,188,9,1,2,0,R,R,174,190,13/13,15/14,0,0,399/352,117/133,"$17,144,018","$5,970,770",Fabio Fognini,Frances Tiafoe
+2019.07.01,London,Outdoor,Grass,1,551,26,40,198,183,13,1,2,0,R,R,182,172,27/10,0/0,0,0,249/109,110/185,"$24,151,740","$5,208,086",Daniil Medvedev,Paolo Lorenzi
+2019.07.01,London,Outdoor,Grass,26,77,26,24,198,180,4,1,1,0,R,R,192,159,22/16,12/16,0,0,196/152,49/48,"$11,161,554","$1,985,610",Karen Khachanov,Soonwoo Kwon
+2019.07.01,London,Outdoor,Grass,22,5,37,23,208,183,16,8,1,1,R,R,238,170,17/14,31/13,0,2,474/300,150/83,"$21,433,777","$7,726,248",John Isner,Casper Ruud
+2019.07.01,London,Outdoor,Grass,158,72,32,28,178,183,12,0,1,0,R,L,161,172,0/0,11/11,0,0,431/211,66/90,"$25,065,492","$2,483,692",Kei Nishikori,Thiago Monteiro
+2019.07.01,London,Outdoor,Grass,223,4,33,23,173,193,0,9,1,1,R,R,154,198,0/1,42/14,0,2,27/63,230/109,"$2,429,482","$19,838,180",Thomas Fabbiano,Stefanos Tsitsipas
+2019.07.01,London,Outdoor,Grass,71,2,29,25,198,198,2,19,1,0,L,R,207,198,8/10,29/10,0,0,140/163,339/150,"$5,460,875","$32,407,055",Jiri Vesely,Alexander Zverev
+2019.07.01,London,Outdoor,Grass,282,274,34,28,198,185,10,17,2,3,R,R,209,174,4/9,2/7,0,0,385/329,311/173,"$13,588,615","$29,015,317",Sam Querrey,Dominic Thiem
+2019.07.01,London,Outdoor,Grass,0,215,(1,31,203,188,7,0,2,0,R,R,208,165,1/5,2/3,0,0,354/253,97/123,"$17,728,382","$8,972,885",Kevin Anderson,Pierre-Hugues Herbert
+2019.07.01,London,Outdoor,Grass,3,320,36,33,185,175,92,1,1,0,L,R,187,159,35/3,0/0,4,0,1063/212,55/90,"$131,338,131","$2,975,689",Rafael Nadal,Yuichi Sugita
+2019.07.01,London,Outdoor,Grass,0,46,(1,25,185,193,103,0,1,0,R,R,187,176,0/0,7/14,0,0,1251/275,69/69,"$130,594,339","$3,114,801",Roger Federer,Lloyd Harris
+2019.07.01,London,Outdoor,Grass,7,262,35,38,188,178,88,8,1,2,R,R,170,154,23/5,1/3,2,0,1012/204,478/387,"$158,996,253","$13,749,731",Novak Djokovic,Philipp Kohlschreiber
+2019.07.01,London,Outdoor,Grass,71,225,29,36,198,180,2,6,1,1,L,R,207,173,8/10,4/7,0,0,140/163,242/224,"$5,460,875","$9,643,411",Jiri Vesely,Pablo Cuevas
+2019.07.01,London,Outdoor,Grass,0,107,(1,32,188,175,18,0,1,0,R,R,205,170,2/6,7/7,0,0,467/237,128/148,"$22,458,018","$4,631,891",Jo-Wilfried Tsonga,Ricardas Berankis
+2019.07.01,London,Outdoor,Grass,282,8,34,24,198,188,10,11,1,3,R,R,209,165,4/9,31/10,0,3,385/329,216/122,"$13,588,615","$12,102,889",Sam Querrey,Andrey Rublev
+2019.07.01,London,Outdoor,Grass,12,0,25,35,196,191,5,2,1,1,R,R,179,176,28/12,0/0,1,0,112/90,179/197,"$7,367,623","$7,035,294",Hubert Hurkacz,Leonardo Mayer
+2019.07.01,London,Outdoor,Grass,157,809,24,36,188,191,3,4,1,0,L,R,160,176,7/17,0/0,0,0,69/74,202/250,"$3,203,437","$11,983,770",Ugo Humbert,Marcel Granollers
+2019.07.01,London,Outdoor,Grass,223,560,33,43,173,211,0,8,1,0,R,R,154,230,0/1,0/0,0,0,27/63,371/346,"$2,429,482","$10,160,232",Thomas Fabbiano,Ivo Karlovic
+2019.07.01,London,Outdoor,Grass,122,13,32,24,193,196,0,3,1,1,R,R,202,190,2/11,29/11,0,2,166/202,160/134,"$7,597,772","$8,193,645",Jan-Lennard Struff,Taylor Fritz
+2019.07.01,London,Outdoor,Grass,84,69,33,27,183,188,1,2,1,1,R,R,174,181,7/14,14/16,0,0,117/144,89/98,"$5,185,800","$3,698,136",John Millman,Laslo Djere
+2019.07.01,London,Outdoor,Grass,126,497,38,27,188,188,7,2,3,0,L,R,198,183,4/7,0/0,0,0,558/438,117/115,"$18,136,660","$5,765,703",Fernando Verdasco,Kyle Edmund
+2019.07.01,London,Outdoor,Grass,92,31,33,22,196,183,3,1,2,0,R,R,176,165,3/17,27/15,0,0,240/286,82/77,"$9,836,848","$3,702,937",Benoit Paire,Miomir Kecmanovic
+2019.07.01,London,Outdoor,Grass,210,192,28,28,185,183,5,0,1,0,R,R,185,176,3/6,1/2,0,0,139/128,12/30,"$8,105,164","$1,607,003",Lucas Pouille,Gregoire Barrere
+2019.07.01,London,Outdoor,Grass,204,173,32,38,183,191,1,3,1,0,L,R,174,172,0/0,2/5,0,0,119/138,386/422,"$5,731,930","$11,763,421",Guido Pella,Andreas Seppi
+2019.07.01,London,Outdoor,Grass,85,24,32,23,188,183,4,5,2,2,R,R,190,152,11/10,28/16,0,0,190/191,137/99,"$7,628,987","$7,228,398",Steve Johnson,Alex de Minaur
+2019.07.01,London,Outdoor,Grass,14,149,29,28,170,180,4,0,1,0,R,L,141,175,26/16,2/7,0,0,232/182,36/46,"$12,477,487","$2,247,470",Diego Schwartzman,Dominik Koepfer
+2019.07.01,London,Outdoor,Grass,19,0,34,38,183,175,10,2,1,0,R,R,165,171,23/10,0/0,1,0,359/215,118/134,"$16,083,239","$3,445,948",Roberto Bautista Agut,Steve Darcis
+2019.07.01,London,Outdoor,Grass,17,290,24,37,211,183,4,16,1,1,R,R,225,179,20/14,3/6,2,0,88/83,536/315,"$4,198,775","$35,058,754",Reilly Opelka,Stan Wawrinka
+2019.07.01,London,Outdoor,Grass,67,977,31,35,180,188,6,1,2,2,R,R,154,165,22/16,0/0,1,0,314/213,297/303,"$16,255,861","$10,535,763",David Goffin,Jeremy Chardy
+2019.07.01,London,Outdoor,Grass,343,175,30,37,188,183,1,14,1,2,R,R,195,154,0/3,4/6,0,0,47/75,501/392,"$3,454,806","$15,918,767",Tennys Sandgren,Gilles Simon
+2019.07.01,London,Outdoor,Grass,9,112,21,23,193,175,1,0,3,0,R,L,194,156,30/17,6/6,1,0,130/93,36/50,"$7,443,072","$2,192,336",Felix Auger-Aliassime,Corentin Moutet
+2019.07.01,London,Outdoor,Grass,36,28,32,30,175,185,1,5,1,1,R,R,165,174,13/16,12/21,0,0,111/121,143/159,"$5,429,957","$8,371,034",Daniel Evans,Nikoloz Basilashvili
+2019.07.01,London,Outdoor,Grass,15,0,26,(1,196,178,7,4,1,0,R,R,209,181,18/6,0/0,2,0,130/69,349/274,"$9,911,546","$8,918,917",Matteo Berrettini,Marcos Baghdatis
+2019.07.01,London,Outdoor,Grass,576,253,31,35,196,191,8,2,2,0,R,R,216,170,0/0,1/1,0,0,372/175,233/271,"$20,218,982","$7,781,785",Milos Raonic,Robin Haase
+2019.07.01,London,Outdoor,Grass,58,16,33,33,185,198,4,20,1,4,R,R,163,196,12/12,21/13,1,0,212/250,570/319,"$7,851,170","$30,588,972",Joao Sousa,Marin Cilic
+2019.07.01,London,Outdoor,Grass,61,98,35,30,178,188,9,1,3,2,R,R,174,181,13/13,13/15,0,0,399/352,122/120,"$17,144,018","$5,266,060",Fabio Fognini,Marton Fucsovics
+2019.07.01,London,Outdoor,Grass,1,82,26,22,198,196,13,1,3,0,R,R,182,172,27/10,3/12,0,0,249/109,40/62,"$24,151,740","$2,389,960",Daniil Medvedev,Alexei Popyrin
+2019.07.01,London,Outdoor,Grass,26,246,26,40,198,188,4,7,3,1,R,L,192,194,22/16,0/9,0,0,196/152,503/484,"$11,161,554","$18,585,117",Karen Khachanov,Feliciano Lopez
+2019.07.01,London,Outdoor,Grass,213,22,34,37,183,208,1,16,1,4,R,R,159,238,1/7,17/14,0,0,172/229,474/300,"$6,720,550","$21,433,777",Mikhail Kukushkin,John Isner
+2019.07.01,London,Outdoor,Grass,158,11,32,26,178,188,12,4,2,0,R,L,161,181,0/0,32/16,0,2,431/211,135/101,"$25,065,492","$7,012,074",Kei Nishikori,Cameron Norrie
+2019.07.01,London,Outdoor,Grass,0,0,(1,38,203,180,7,4,2,1,R,R,208,176,1/5,0/0,0,0,354/253,288/257,"$17,728,382","$8,616,024",Kevin Anderson,Janko Tipsarevic
+2019.07.01,London,Outdoor,Grass,3,45,36,27,185,193,92,6,6,3,L,R,187,187,35/3,21/7,4,0,1063/212,189/110,"$131,338,131","$11,194,480",Rafael Nadal,Nick Kyrgios
+2019.07.01,London,Outdoor,Grass,0,177,(1,23,185,183,103,0,1,0,R,R,187,184,0/0,0/3,0,0,1251/275,2/11,"$130,594,339","$745,386",Roger Federer,Jay Clarke
+2019.07.01,London,Outdoor,Grass,7,83,35,29,188,180,88,0,3,0,R,R,170,175,23/5,4/11,2,0,1012/204,65/119,"$158,996,253","$3,999,705",Novak Djokovic,Denis Kudla
+2019.07.01,London,Outdoor,Grass,126,223,38,33,188,173,7,0,2,0,L,R,198,154,4/7,0/1,0,0,558/438,27/63,"$18,136,660","$2,429,482",Fernando Verdasco,Thomas Fabbiano
+2019.07.01,London,Outdoor,Grass,58,36,33,32,185,175,4,1,1,0,R,R,163,165,12/12,13/16,1,0,212/250,111/121,"$7,851,170","$5,429,957",Joao Sousa,Daniel Evans
+2019.07.01,London,Outdoor,Grass,282,84,34,33,198,183,10,1,1,0,R,R,209,174,4/9,7/14,0,0,385/329,117/144,"$13,588,615","$5,185,800",Sam Querrey,John Millman
+2019.07.01,London,Outdoor,Grass,213,122,34,32,183,193,1,0,1,2,R,R,159,202,1/7,2/11,0,0,172/229,166/202,"$6,720,550","$7,597,772",Mikhail Kukushkin,Jan-Lennard Struff
+2019.07.01,London,Outdoor,Grass,92,71,33,29,196,198,3,2,2,0,R,L,176,207,3/17,8/10,0,0,240/286,140/163,"$9,836,848","$5,460,875",Benoit Paire,Jiri Vesely
+2019.07.01,London,Outdoor,Grass,157,9,24,21,188,193,3,1,2,1,L,R,160,194,7/17,30/17,0,1,69/74,130/93,"$3,203,437","$7,443,072",Ugo Humbert,Felix Auger-Aliassime
+2019.07.01,London,Outdoor,Grass,15,14,26,29,196,170,7,4,1,1,R,R,209,141,18/6,26/16,2,0,130/69,232/182,"$9,911,546","$12,477,487",Matteo Berrettini,Diego Schwartzman
+2019.07.01,London,Outdoor,Grass,576,17,31,24,196,211,8,4,1,1,R,R,216,225,0/0,20/14,0,2,372/175,88/83,"$20,218,982","$4,198,775",Milos Raonic,Reilly Opelka
+2019.07.01,London,Outdoor,Grass,343,61,30,35,188,178,1,9,2,2,R,R,195,174,0/3,13/13,0,0,47/75,399/352,"$3,454,806","$17,144,018",Tennys Sandgren,Fabio Fognini
+2019.07.01,London,Outdoor,Grass,67,1,31,26,180,198,6,13,1,3,R,R,154,182,22/16,27/10,1,0,314/213,249/109,"$16,255,861","$24,151,740",David Goffin,Daniil Medvedev
+2019.07.01,London,Outdoor,Grass,19,26,34,26,183,198,10,4,6,2,R,R,165,192,23/10,22/16,1,0,359/215,196/152,"$16,083,239","$11,161,554",Roberto Bautista Agut,Karen Khachanov
+2019.07.01,London,Outdoor,Grass,158,85,32,32,178,188,12,4,5,0,R,R,161,190,0/0,11/10,0,0,431/211,190/191,"$25,065,492","$7,628,987",Kei Nishikori,Steve Johnson
+2019.07.01,London,Outdoor,Grass,204,0,32,(1,183,203,1,7,1,0,L,R,174,208,0/0,1/5,0,0,119/138,354/253,"$5,731,930","$17,728,382",Guido Pella,Kevin Anderson
+2019.07.01,London,Outdoor,Grass,3,0,36,(1,185,188,92,18,1,4,L,R,187,205,35/3,2/6,4,0,1063/212,467/237,"$131,338,131","$22,458,018",Rafael Nadal,Jo-Wilfried Tsonga
+2019.07.01,London,Outdoor,Grass,0,210,(1,28,185,185,103,5,2,0,R,R,187,185,0/0,3/6,0,0,1251/275,139/128,"$130,594,339","$8,105,164",Roger Federer,Lucas Pouille
+2019.07.01,London,Outdoor,Grass,7,12,35,25,188,196,88,5,4,0,R,R,170,179,23/5,28/12,2,1,1012/204,112/90,"$158,996,253","$7,367,623",Novak Djokovic,Hubert Hurkacz
+2019.07.01,London,Outdoor,Grass,282,343,34,30,198,188,10,1,1,1,R,R,209,195,4/9,0/3,0,0,385/329,47/75,"$13,588,615","$3,454,806",Sam Querrey,Tennys Sandgren
+2019.07.01,London,Outdoor,Grass,19,92,34,33,183,196,10,3,7,0,R,R,165,176,23/10,3/17,1,0,359/215,240/286,"$16,083,239","$9,836,848",Roberto Bautista Agut,Benoit Paire
+2019.07.01,London,Outdoor,Grass,67,126,31,38,180,188,6,7,4,3,R,L,154,198,22/16,4/7,1,0,314/213,558/438,"$16,255,861","$18,136,660",David Goffin,Fernando Verdasco
+2019.07.01,London,Outdoor,Grass,204,576,32,31,183,196,1,8,1,0,L,R,174,216,0/0,0/0,0,0,119/138,372/175,"$5,731,930","$20,218,982",Guido Pella,Milos Raonic
+2019.07.01,London,Outdoor,Grass,158,213,32,34,178,183,12,1,9,0,R,R,161,159,0/0,1/7,0,0,431/211,172/229,"$25,065,492","$6,720,550",Kei Nishikori,Mikhail Kukushkin
+2019.07.01,London,Outdoor,Grass,3,58,36,33,185,185,92,4,3,0,L,R,187,163,35/3,12/12,4,1,1063/212,212/250,"$131,338,131","$7,851,170",Rafael Nadal,Joao Sousa
+2019.07.01,London,Outdoor,Grass,0,15,(1,26,185,196,103,7,2,0,R,R,187,209,0/0,18/6,0,2,1251/275,130/69,"$130,594,339","$9,911,546",Roger Federer,Matteo Berrettini
+2019.07.01,London,Outdoor,Grass,7,157,35,24,188,188,88,3,1,0,R,L,170,160,23/5,7/17,2,0,1012/204,69/74,"$158,996,253","$3,203,437",Novak Djokovic,Ugo Humbert
+2019.07.01,London,Outdoor,Grass,19,204,34,32,183,183,10,1,4,0,R,L,165,174,23/10,0/0,1,0,359/215,119/138,"$16,083,239","$5,731,930",Roberto Bautista Agut,Guido Pella
+2019.07.01,London,Outdoor,Grass,3,282,36,34,185,198,92,10,5,1,L,R,187,209,35/3,4/9,4,0,1063/212,385/329,"$131,338,131","$13,588,615",Rafael Nadal,Sam Querrey
+2019.07.01,London,Outdoor,Grass,0,158,(1,32,185,178,103,12,8,3,R,R,187,161,0/0,0/0,0,0,1251/275,431/211,"$130,594,339","$25,065,492",Roger Federer,Kei Nishikori
+2019.07.01,London,Outdoor,Grass,7,67,35,31,188,180,88,6,7,1,R,R,170,154,23/5,22/16,2,1,1012/204,314/213,"$158,996,253","$16,255,861",Novak Djokovic,David Goffin
+2019.07.01,London,Outdoor,Grass,0,3,(1,36,185,185,103,92,1,2,R,L,187,187,0/0,35/3,0,4,1251/275,1063/212,"$130,594,339","$131,338,131",Roger Federer,Rafael Nadal
+2019.07.01,London,Outdoor,Grass,7,19,35,34,188,183,88,10,9,3,R,R,170,165,23/5,23/10,2,1,1012/204,359/215,"$158,996,253","$16,083,239",Novak Djokovic,Roberto Bautista Agut
+2019.07.01,London,Outdoor,Grass,7,0,35,(1,188,185,88,103,2,2,R,R,170,187,23/5,0/0,2,0,1012/204,1251/275,"$158,996,253","$130,594,339",Novak Djokovic,Roger Federer
+2019.07.14,Newport,Outdoor,Grass,858,135,34,28,175,188,0,0,0,0,R,R,160,180,0/0,3/5,0,0,43/85,6/16,"$2,067,979","$1,083,859",Tim Smyczek,Mitchell Krueger
+2019.07.14,Newport,Outdoor,Grass,529,0,26,35,175,185,0,0,0,0,R,R,155,176,0/0,0/0,0,0,8/21,11/11,"$805,480","$478,456",Noah Rubin,Amir Weintraub
+2019.07.14,Newport,Outdoor,Grass,1450,0,36,22,193,185,3,0,0,0,R,L,189,168,0/0,0/0,0,0,294/273,0/0,"$9,265,938","$3,962",Viktor Troicki,Karl Poling
+2019.07.14,Newport,Outdoor,Grass,320,79,33,25,175,191,1,0,1,0,R,R,159,187,0/0,3/5,0,0,55/90,9/29,"$2,975,689","$1,620,974",Yuichi Sugita,Quentin Halys
+2019.07.14,Newport,Outdoor,Grass,1108,479,33,34,188,180,0,0,1,0,L,R,185,165,0/0,0/0,0,0,5/22,36/66,"$1,566,128","$1,766,191",John-Patrick Smith,Tatsuma Ito
+2019.07.14,Newport,Outdoor,Grass,196,33,27,25,188,198,0,1,0,0,R,R,178,185,2/1,19/16,0,1,24/32,26/23,"$1,068,221","$1,433,057",Ramkumar Ramanathan,Maxime Cressy
+2019.07.14,Newport,Outdoor,Grass,416,251,29,27,183,191,0,0,0,0,L,R,185,190,0/3,0/0,0,0,13/26,0/1,"$1,392,059","$353,019",Alex Bolt,Evgeny Karlovskiy
+2019.07.14,Newport,Outdoor,Grass,184,552,28,27,183,188,0,0,0,0,R,R,175,179,0/1,0/0,0,0,22/39,0/6,"$1,562,054","$448,763",Bjorn Fratangelo,Thai-Son Kwiatkowski
+2019.07.14,Newport,Outdoor,Grass,858,1108,34,33,175,188,0,0,0,0,R,L,160,185,0/0,0/0,0,0,43/85,5/22,"$2,067,979","$1,566,128",Tim Smyczek,John-Patrick Smith
+2019.07.14,Newport,Outdoor,Grass,196,320,27,33,188,175,0,1,0,0,R,R,178,159,2/1,0/0,0,0,24/32,55/90,"$1,068,221","$2,975,689",Ramkumar Ramanathan,Yuichi Sugita
+2019.07.14,Newport,Outdoor,Grass,416,529,29,26,183,175,0,0,0,0,L,R,185,155,0/3,0/0,0,0,13/26,8/21,"$1,392,059","$805,480",Alex Bolt,Noah Rubin
+2019.07.14,Newport,Outdoor,Grass,1450,184,36,28,193,183,3,0,0,0,R,R,189,175,0/0,0/1,0,0,294/273,22/39,"$9,265,938","$1,562,054",Viktor Troicki,Bjorn Fratangelo
+2019.07.14,Newport,Outdoor,Grass,920,858,34,34,191,175,1,0,3,0,L,R,195,160,0/0,0/0,0,0,133/199,43/85,"$5,737,833","$2,067,979",Mischa Zverev,Tim Smyczek
+2019.07.14,Newport,Outdoor,Grass,1450,339,36,33,193,180,3,0,1,0,R,R,189,152,0/0,0/0,0,0,294/273,11/22,"$9,265,938","$1,072,466",Viktor Troicki,Jason Jung
+2019.07.14,Newport,Outdoor,Grass,343,449,30,35,188,185,1,2,1,0,R,R,195,189,0/3,1/1,0,0,47/75,230/266,"$3,454,806","$6,319,460",Tennys Sandgren,Denis Istomin
+2019.07.14,Newport,Outdoor,Grass,196,514,27,36,188,193,0,4,1,0,R,R,178,176,2/1,0/0,0,0,24/32,177/215,"$1,068,221","$5,606,768",Ramkumar Ramanathan,Sergiy Stakhovsky
+2019.07.14,Newport,Outdoor,Grass,89,278,26,24,180,193,0,0,1,0,R,R,173,185,12/11,1/1,0,0,25/37,1/3,"$1,792,016","$190,594",Kamil Majchrzak,Alastair Gray
+2019.07.14,Newport,Outdoor,Grass,53,518,28,29,191,196,1,4,1,0,R,R,189,201,12/14,0/0,0,0,70/64,186/182,"$2,240,209","$6,291,443",Ilya Ivashka,Bernard Tomic
+2019.07.14,Newport,Outdoor,Grass,809,295,36,32,191,188,4,0,1,0,R,L,176,176,0/0,0/1,0,0,202/250,10/27,"$11,983,770","$938,291",Marcel Granollers,Prajnesh Gunneswaran
+2019.07.14,Newport,Outdoor,Grass,539,374,34,27,188,193,0,0,1,0,R,R,176,186,0/1,0/1,0,0,79/128,4/19,"$4,293,922","$874,128",Matthew Ebden,Brayden Schnur
+2019.07.14,Newport,Outdoor,Grass,83,702,29,31,180,183,0,0,1,0,R,L,175,165,4/11,0/0,0,0,65/119,13/41,"$3,999,705","$1,666,323",Denis Kudla,Bradley Klahn
+2019.07.14,Newport,Outdoor,Grass,39,416,25,29,196,183,1,0,1,0,R,L,180,185,22/18,0/3,1,0,92/88,13/26,"$3,901,007","$1,392,059",Alexander Bublik,Alex Bolt
+2019.07.14,Newport,Outdoor,Grass,769,560,30,43,183,211,0,8,1,0,R,R,172,230,0/0,0/0,0,0,11/25,371/346,"$1,314,595","$10,160,232",Guido Andreozzi,Ivo Karlovic
+2019.07.14,Newport,Outdoor,Grass,153,85,26,32,201,188,0,4,1,0,R,R,180,190,2/3,11/10,0,0,7/20,190/191,"$975,573","$7,628,987",Christopher Eubanks,Steve Johnson
+2019.07.14,Newport,Outdoor,Grass,157,0,24,(),188,,3,0,0,0,L,U,160,kg,7/17,0/212,0,0,69/74,0/13739,"$3,203,437",,Ugo Humbert, Bye
+2019.07.14,Newport,Outdoor,Grass,95,0,28,(),183,,0,0,0,0,R,U,181,kg,8/14,0/212,0,0,83/109,0/13739,"$4,027,008",,Jordan Thompson, Bye
+2019.07.14,Newport,Outdoor,Grass,80,0,34,(),180,,1,0,0,0,L,U,174,kg,15/16,0/212,0,0,232/278,0/13739,"$9,175,704",,Adrian Mannarino, Bye
+2019.07.14,Newport,Outdoor,Grass,22,0,37,(),208,,16,0,0,0,R,U,238,kg,17/14,0/212,0,0,474/300,0/13739,"$21,433,777",,John Isner, Bye
+2019.07.14,Newport,Outdoor,Grass,920,769,34,30,191,183,1,0,1,0,L,R,195,172,0/0,0/0,0,0,133/199,11/25,"$5,737,833","$1,314,595",Mischa Zverev,Guido Andreozzi
+2019.07.14,Newport,Outdoor,Grass,53,153,28,26,191,201,1,0,1,0,R,R,189,180,12/14,2/3,0,0,70/64,7/20,"$2,240,209","$975,573",Ilya Ivashka,Christopher Eubanks
+2019.07.14,Newport,Outdoor,Grass,539,83,34,29,188,180,0,0,1,0,R,R,176,175,0/1,4/11,0,0,79/128,65/119,"$4,293,922","$3,999,705",Matthew Ebden,Denis Kudla
+2019.07.14,Newport,Outdoor,Grass,39,1450,25,36,196,193,1,3,1,0,R,R,180,189,22/18,0/0,1,0,92/88,294/273,"$3,901,007","$9,265,938",Alexander Bublik,Viktor Troicki
+2019.07.14,Newport,Outdoor,Grass,157,196,24,27,188,188,3,0,1,0,L,R,160,178,7/17,2/1,0,0,69/74,24/32,"$3,203,437","$1,068,221",Ugo Humbert,Ramkumar Ramanathan
+2019.07.14,Newport,Outdoor,Grass,809,95,36,28,191,183,4,0,1,1,R,R,176,181,0/0,8/14,0,0,202/250,83/109,"$11,983,770","$4,027,008",Marcel Granollers,Jordan Thompson
+2019.07.14,Newport,Outdoor,Grass,343,80,30,34,188,180,1,1,1,1,R,L,195,174,0/3,15/16,0,0,47/75,232/278,"$3,454,806","$9,175,704",Tennys Sandgren,Adrian Mannarino
+2019.07.14,Newport,Outdoor,Grass,22,89,37,26,208,180,16,0,1,0,R,R,238,173,17/14,12/11,0,0,474/300,25/37,"$21,433,777","$1,792,016",John Isner,Kamil Majchrzak
+2019.07.14,Newport,Outdoor,Grass,809,920,36,34,191,191,4,1,3,1,R,L,176,195,0/0,0/0,0,0,202/250,133/199,"$11,983,770","$5,737,833",Marcel Granollers,Mischa Zverev
+2019.07.14,Newport,Outdoor,Grass,39,343,25,30,196,188,1,1,2,0,R,R,180,195,22/18,0/3,1,0,92/88,47/75,"$3,901,007","$3,454,806",Alexander Bublik,Tennys Sandgren
+2019.07.14,Newport,Outdoor,Grass,157,53,24,28,188,191,3,1,1,0,L,R,160,189,7/17,12/14,0,0,69/74,70/64,"$3,203,437","$2,240,209",Ugo Humbert,Ilya Ivashka
+2019.07.14,Newport,Outdoor,Grass,22,539,37,34,208,188,16,0,5,1,R,R,238,176,17/14,0/1,0,0,474/300,79/128,"$21,433,777","$4,293,922",John Isner,Matthew Ebden
+2019.07.14,Newport,Outdoor,Grass,39,809,25,36,196,191,1,4,1,0,R,R,180,176,22/18,0/0,1,0,92/88,202/250,"$3,901,007","$11,983,770",Alexander Bublik,Marcel Granollers
+2019.07.14,Newport,Outdoor,Grass,22,157,37,24,208,188,16,3,1,1,R,L,238,160,17/14,7/17,0,0,474/300,69/74,"$21,433,777","$3,203,437",John Isner,Ugo Humbert
+2019.07.14,Newport,Outdoor,Grass,22,39,37,25,208,196,16,1,1,0,R,R,238,180,17/14,22/18,0,1,474/300,92/88,"$21,433,777","$3,901,007",John Isner,Alexander Bublik
+2019.07.15,Bastad,Outdoor,Clay,271,820,30,35,193,185,0,0,0,0,L,R,193,156,0/1,0/0,0,0,10/10,1/2,"$387,622","$521,947",Roberto Quiroz,Yannick Mertens
+2019.07.15,Bastad,Outdoor,Clay,379,99,31,26,175,196,0,0,0,0,R,L,160,189,0/3,1/3,0,0,2/12,7/11,"$936,926","$521,289",Steven Diez,Marc-Andrea Huesler
+2019.07.15,Bastad,Outdoor,Clay,304,679,29,24,178,191,"$534,139","$111,510",0,0,R,R,152,198,0,0,2/4,0/0,0,0,2019,Outdoor Clay,Alexey Vatutin,Julian Ocleppo
+2019.07.15,Bastad,Outdoor,Clay,119,0,30,20,180,,0,0,0,0,R,U,170,kg,0/0,0/0,0,0,1/6,0/0,"$686,435","$2,478",Constant Lestienne,John Hallquist Lithen
+2019.07.15,Bastad,Outdoor,Clay,81,178,25,29,183,191,0,0,0,0,R,R,174,170,6/9,1/1,0,0,12/22,2/9,"$1,059,368","$535,695",Bernabe Zapata Miralles,Filip Horansky
+2019.07.15,Bastad,Outdoor,Clay,0,577,29,32,178,188,"$594,280","$230,264",0,0,R,R,170,176,0,0,1/16,6/13,0,0,2019,Outdoor Clay,Facundo Arguello,Markus Eriksson
+2019.07.15,Bastad,Outdoor,Clay,0,313,30,28,183,,0,0,0,0,R,R,171,154,0/1,0/0,0,0,13/20,9/7,"$350,010","$490,519",Laurynas Grigelis,Joao Domingues
+2019.07.15,Bastad,Outdoor,Clay,23,0,31,25,188,188,6,0,0,0,R,R,172,176,21/16,0/0,0,0,251/200,1/1,"$13,678,168","$35,801",Pablo Carreno Busta,Carl Soderlund
+2019.07.15,Bastad,Outdoor,Clay,81,304,25,29,183,178,0,0,0,0,R,R,174,152,6/9,0/0,0,0,12/22,2/4,"$1,059,368","$534,139",Bernabe Zapata Miralles,Alexey Vatutin
+2019.07.15,Bastad,Outdoor,Clay,119,0,30,30,180,183,0,0,0,0,R,R,170,171,0/0,0/1,0,0,1/6,13/20,"$686,435","$350,010",Constant Lestienne,Laurynas Grigelis
+2019.07.15,Bastad,Outdoor,Clay,0,379,29,31,178,175,0,0,0,0,R,R,170,160,0/0,0/3,0,0,1/16,2/12,"$594,280","$936,926",Facundo Arguello,Steven Diez
+2019.07.15,Bastad,Outdoor,Clay,23,271,31,30,188,193,6,0,0,0,R,L,172,193,21/16,0/1,0,0,251/200,10/10,"$13,678,168","$387,622",Pablo Carreno Busta,Roberto Quiroz
+2019.07.15,Bastad,Outdoor,Clay,91,35,23,23,183,183,0,0,1,1,R,R,165,176,8/8,16/18,0,0,48/55,59/61,"$1,902,096","$3,085,619",Mikael Ymer,Alejandro Davidovich Fokina
+2019.07.15,Bastad,Outdoor,Clay,131,72,26,28,185,183,0,0,1,1,R,L,171,172,8/5,11/11,0,0,32/60,66/90,"$1,432,926","$2,483,692",Elias Ymer,Thiago Monteiro
+2019.07.15,Bastad,Outdoor,Clay,40,119,34,30,188,180,4,0,1,0,L,R,168,170,15/16,0/0,1,0,256/285,1/6,"$9,448,129","$686,435",Albert Ramos-Vinolas,Constant Lestienne
+2019.07.15,Bastad,Outdoor,Clay,154,0,28,38,183,175,0,2,1,0,R,R,178,171,2/4,0/0,0,0,26/49,118/134,"$1,636,709","$3,445,948",Dennis Novak,Steve Darcis
+2019.07.15,Bastad,Outdoor,Clay,74,375,29,33,180,191,0,6,1,0,R,R,165,187,5/11,2/0,0,0,33/47,247/239,"$1,554,024","$7,649,959",Hugo Dellien,Ernests Gulbis
+2019.07.15,Bastad,Outdoor,Clay,125,81,31,25,193,183,2,0,1,0,L,R,198,174,9/19,6/9,0,0,162/196,12/22,"$5,904,021","$1,059,368",Federico Delbonis,Bernabe Zapata Miralles
+2019.07.15,Bastad,Outdoor,Clay,977,23,35,31,188,188,1,6,4,2,R,R,165,172,0/0,21/16,0,0,297/303,251/200,"$10,535,763","$13,678,168",Jeremy Chardy,Pablo Carreno Busta
+2019.07.15,Bastad,Outdoor,Clay,88,63,29,25,183,183,1,0,2,0,R,R,170,168,5/13,12/14,0,0,68/91,55/81,"$3,099,905","$2,741,436",Roberto Carballes Baena,Jaume Munar
+2019.07.15,Bastad,Outdoor,Clay,58,186,33,29,185,183,4,0,2,0,R,R,163,181,12/12,0/2,1,0,212/250,22/44,"$7,851,170","$1,478,946",Joao Sousa,Jozef Kovalik
+2019.07.15,Bastad,Outdoor,Clay,185,5,30,23,175,183,3,8,1,0,R,R,150,170,4/4,31/13,0,2,124/136,150/83,"$4,662,152","$7,726,248",Damir Dzumhur,Casper Ruud
+2019.07.15,Bastad,Outdoor,Clay,170,0,28,29,180,178,1,0,1,0,R,R,154,170,4/5,0/0,0,0,35/50,1/16,"$2,101,811","$594,280",Juan Ignacio Londero,Facundo Arguello
+2019.07.15,Bastad,Outdoor,Clay,118,108,26,30,198,185,1,0,1,0,R,R,198,172,1/3,5/10,0,0,53/62,51/70,"$2,282,706","$2,204,392",Nicolas Jarry,Henri Laaksonen
+2019.07.15,Bastad,Outdoor,Clay,64,0,36,(),183,,15,0,0,0,R,U,174,kg,14/11,0/212,0,0,576/357,0/13739,"$19,538,187",,Richard Gasquet, Bye
+2019.07.15,Bastad,Outdoor,Clay,225,0,36,(),180,,6,0,0,0,R,U,173,kg,4/7,0/212,0,0,242/224,0/13739,"$9,643,411",,Pablo Cuevas, Bye
+2019.07.15,Bastad,Outdoor,Clay,126,0,38,(),188,,7,0,0,0,L,U,198,kg,4/7,0/212,0,0,558/438,0/13739,"$18,136,660",,Fernando Verdasco, Bye
+2019.07.15,Bastad,Outdoor,Clay,70,0,26,(),185,,5,0,0,0,R,U,187,kg,16/16,0/212,0,0,97/86,0/13739,"$4,824,894",,Cristian Garin, Bye
+2019.07.15,Bastad,Outdoor,Clay,88,185,29,30,183,175,1,3,1,0,R,R,170,150,5/13,4/4,0,0,68/91,124/136,"$3,099,905","$4,662,152",Roberto Carballes Baena,Damir Dzumhur
+2019.07.15,Bastad,Outdoor,Clay,58,131,33,26,185,185,4,0,4,1,R,R,163,171,12/12,8/5,1,0,212/250,32/60,"$7,851,170","$1,432,926",Joao Sousa,Elias Ymer
+2019.07.15,Bastad,Outdoor,Clay,170,74,28,29,180,180,1,0,1,1,R,R,154,165,4/5,5/11,0,0,35/50,33/47,"$2,101,811","$1,554,024",Juan Ignacio Londero,Hugo Dellien
+2019.07.15,Bastad,Outdoor,Clay,118,91,26,23,198,183,1,0,1,0,R,R,198,165,1/3,8/8,0,0,53/62,48/55,"$2,282,706","$1,902,096",Nicolas Jarry,Mikael Ymer
+2019.07.15,Bastad,Outdoor,Clay,64,154,36,28,183,183,15,0,1,0,R,R,174,178,14/11,2/4,0,0,576/357,26/49,"$19,538,187","$1,636,709",Richard Gasquet,Dennis Novak
+2019.07.15,Bastad,Outdoor,Clay,125,225,31,36,193,180,2,6,2,3,L,R,198,173,9/19,4/7,0,0,162/196,242/224,"$5,904,021","$9,643,411",Federico Delbonis,Pablo Cuevas
+2019.07.15,Bastad,Outdoor,Clay,40,126,34,38,188,188,4,7,6,5,L,L,168,198,15/16,4/7,1,0,256/285,558/438,"$9,448,129","$18,136,660",Albert Ramos-Vinolas,Fernando Verdasco
+2019.07.15,Bastad,Outdoor,Clay,977,70,35,26,188,185,1,5,3,2,R,R,165,187,0/0,16/16,0,0,297/303,97/86,"$10,535,763","$4,824,894",Jeremy Chardy,Cristian Garin
+2019.07.15,Bastad,Outdoor,Clay,40,88,34,29,188,183,4,1,4,2,L,R,168,170,15/16,5/13,1,0,256/285,68/91,"$9,448,129","$3,099,905",Albert Ramos-Vinolas,Roberto Carballes Baena
+2019.07.15,Bastad,Outdoor,Clay,125,58,31,33,193,185,2,4,4,4,L,R,198,163,9/19,12/12,0,1,162/196,212/250,"$5,904,021","$7,851,170",Federico Delbonis,Joao Sousa
+2019.07.15,Bastad,Outdoor,Clay,118,977,26,35,198,188,1,1,1,2,R,R,198,165,1/3,0/0,0,0,53/62,297/303,"$2,282,706","$10,535,763",Nicolas Jarry,Jeremy Chardy
+2019.07.15,Bastad,Outdoor,Clay,170,64,28,36,180,183,1,15,2,2,R,R,154,174,4/5,14/11,0,0,35/50,576/357,"$2,101,811","$19,538,187",Juan Ignacio Londero,Richard Gasquet
+2019.07.15,Bastad,Outdoor,Clay,170,40,28,34,180,188,1,4,1,3,R,L,154,168,4/5,15/16,0,1,35/50,256/285,"$2,101,811","$9,448,129",Juan Ignacio Londero,Albert Ramos-Vinolas
+2019.07.15,Bastad,Outdoor,Clay,118,125,26,31,198,193,1,2,1,0,R,L,198,198,1/3,9/19,0,0,53/62,162/196,"$2,282,706","$5,904,021",Nicolas Jarry,Federico Delbonis
+2019.07.15,Bastad,Outdoor,Clay,118,170,26,28,198,180,1,1,1,1,R,R,198,154,1/3,4/5,0,0,53/62,35/50,"$2,282,706","$2,101,811",Nicolas Jarry,Juan Ignacio Londero
+2019.07.15,Umag,Outdoor,Clay,611,2019,33,21,180,,0,0,0,0,R,R,172,kg,0/2,0/0,0,0,28/26,0/0,"$946,784","$13,061",Attila Balazs,Admir Kalender
+2019.07.15,Umag,Outdoor,Clay,56,0,23,(1,188,183,0,2,0,0,R,R,176,178,5/17,0/0,0,0,17/32,134/193,"$1,053,085","$4,253,764",Daniel Altmaier,Carlos Berlocq
+2019.07.15,Umag,Outdoor,Clay,575,294,27,23,196,178,0,0,0,0,R,L,198,154,0/0,0/0,0,0,1/2,0/0,"$515,552","$168,108",Stefano Napolitano,Javier Barranco Cosano
+2019.07.15,Umag,Outdoor,Clay,1007,234,40,34,180,185,12,0,0,0,R,R,165,174,0/1,0/0,0,0,533/358,1/2,"$13,467,681","$333,444",Tommy Robredo,Miljan Zekic
+2019.07.15,Umag,Outdoor,Clay,229,1161,32,30,178,178,0,0,0,0,R,L,176,173,0/1,0/0,0,0,13/18,0/0,"$1,387,412","$92,670",Marco Trungelliti,Alexander Zhurbin
+2019.07.15,Umag,Outdoor,Clay,1512,502,34,26,185,180,0,0,0,0,R,R,185,176,0/0,0/0,0,0,0/2,0/3,"$253,068","$318,911",Peter Torebko,Filippo Baldi
+2019.07.15,Umag,Outdoor,Clay,483,1042,21,30,185,191,0,0,0,0,R,R,165,183,0/0,0/0,0,0,4/10,0/0,"$429,807","$87,728",Rudolf Molleker,Fabrizio Ornago
+2019.07.15,Umag,Outdoor,Clay,263,1512,29,28,185,173,0,0,0,0,R,L,176,154,0/1,0/0,0,0,19/44,1/3,"$1,919,295","$56,835",Salvatore Caruso,Nik Razborsek
+2019.07.15,Umag,Outdoor,Clay,1512,56,34,23,185,188,0,0,0,0,R,R,185,176,0/0,5/17,0,0,0/2,17/32,"$253,068","$1,053,085",Peter Torebko,Daniel Altmaier
+2019.07.15,Umag,Outdoor,Clay,229,575,32,27,178,196,0,0,0,0,R,R,176,198,0/1,0/0,0,0,13/18,1/2,"$1,387,412","$515,552",Marco Trungelliti,Stefano Napolitano
+2019.07.15,Umag,Outdoor,Clay,611,483,33,21,180,185,0,0,0,0,R,R,172,165,0/2,0/0,0,0,28/26,4/10,"$946,784","$429,807",Attila Balazs,Rudolf Molleker
+2019.07.15,Umag,Outdoor,Clay,263,1007,29,40,185,180,0,12,0,0,R,R,176,165,0/1,0/1,0,0,19/44,533/358,"$1,919,295","$13,467,681",Salvatore Caruso,Tommy Robredo
+2019.07.15,Umag,Outdoor,Clay,71,202,29,31,198,180,2,0,1,1,L,L,207,154,8/10,1/1,0,0,140/163,32/50,"$5,460,875","$1,541,967",Jiri Vesely,Cedrik-Marcel Stebe
+2019.07.15,Umag,Outdoor,Clay,136,223,30,33,185,173,0,0,1,0,R,R,176,154,3/6,0/1,0,0,30/54,27/63,"$2,118,427","$2,429,482",Stefano Travaglia,Thomas Fabbiano
+2019.07.15,Umag,Outdoor,Clay,10,396,20,34,188,180,5,0,1,0,R,R,167,154,31/9,0/1,0,0,110/52,18/32,"$5,667,668","$1,056,080",Jannik Sinner,Pedro Sousa
+2019.07.15,Umag,Outdoor,Clay,171,229,25,32,191,178,0,0,1,0,R,R,187,176,0/0,0/1,0,0,2/7,13/18,"$370,571","$1,387,412",Nino Serdarusic,Marco Trungelliti
+2019.07.15,Umag,Outdoor,Clay,8,253,24,35,188,191,11,2,4,1,R,R,165,170,31/10,1/1,3,0,216/122,233/271,"$12,102,889","$7,781,785",Andrey Rublev,Robin Haase
+2019.07.15,Umag,Outdoor,Clay,551,1512,40,34,183,185,1,0,1,0,R,R,172,185,0/0,0/0,0,0,110/185,0/2,"$5,208,086","$253,068",Paolo Lorenzi,Peter Torebko
+2019.07.15,Umag,Outdoor,Clay,263,112,29,23,185,175,0,0,1,1,R,L,176,156,0/1,6/6,0,0,19/44,36/50,"$1,919,295","$2,192,336",Salvatore Caruso,Corentin Moutet
+2019.07.15,Umag,Outdoor,Clay,611,1325,33,31,180,193,0,0,1,0,R,R,172,194,0/2,0/0,0,0,28/26,3/6,"$946,784","$386,886",Attila Balazs,Viktor Galovic
+2019.07.15,Umag,Outdoor,Clay,0,94,35,36,191,180,2,4,3,3,R,R,176,176,0/0,7/11,0,0,179/197,161/236,"$7,035,294","$6,931,384",Leonardo Mayer,Pablo Andujar
+2019.07.15,Umag,Outdoor,Clay,121,0,32,33,183,191,0,6,1,0,L,L,180,187,4/12,0/0,0,0,34/71,149/153,"$2,430,669","$5,524,410",Facundo Bagnis,Martin Klizan
+2019.07.15,Umag,Outdoor,Clay,43,102,30,29,185,191,0,1,2,0,R,R,165,185,17/13,8/11,0,0,118/115,62/101,"$5,670,895","$2,803,802",Filip Krajinovic,Taro Daniel
+2019.07.15,Umag,Outdoor,Clay,285,147,32,29,183,185,0,3,3,2,R,R,161,171,3/7,2/6,0,0,139/157,65/111,"$5,043,225","$4,438,907",Aljaz Bedene,Marco Cecchinato
+2019.07.15,Umag,Outdoor,Clay,75,0,32,(),183,,1,0,0,0,R,U,183,kg,8/18,0/212,0,0,160/212,0/13739,"$7,697,271",,Dusan Lajovic, Bye
+2019.07.15,Umag,Outdoor,Clay,69,0,27,(),188,,2,0,0,0,R,U,181,kg,14/16,0/212,0,0,89/98,0/13739,"$3,698,136",,Laslo Djere, Bye
+2019.07.15,Umag,Outdoor,Clay,183,0,25,(),188,,2,0,0,0,R,U,187,kg,2/6,0/212,0,0,170/149,0/13739,"$8,749,826",,Borna Coric, Bye
+2019.07.15,Umag,Outdoor,Clay,61,0,35,(),178,,9,0,0,0,R,U,174,kg,13/13,0/212,0,0,399/352,0/13739,"$17,144,018",,Fabio Fognini, Bye
+2019.07.15,Umag,Outdoor,Clay,285,10,32,20,183,188,0,5,2,1,R,R,161,167,3/7,31/9,0,0,139/157,110/52,"$5,043,225","$5,667,668",Aljaz Bedene,Jannik Sinner
+2019.07.15,Umag,Outdoor,Clay,121,171,32,25,183,191,0,0,1,0,L,R,180,187,4/12,0/0,0,0,34/71,2/7,"$2,430,669","$370,571",Facundo Bagnis,Nino Serdarusic
+2019.07.15,Umag,Outdoor,Clay,0,71,35,29,191,198,2,2,7,1,R,L,176,207,0/0,8/10,0,0,179/197,140/163,"$7,035,294","$5,460,875",Leonardo Mayer,Jiri Vesely
+2019.07.15,Umag,Outdoor,Clay,611,43,33,30,180,185,0,0,1,0,R,R,172,165,0/2,17/13,0,0,28/26,118/115,"$946,784","$5,670,895",Attila Balazs,Filip Krajinovic
+2019.07.15,Umag,Outdoor,Clay,75,8,32,24,183,188,1,11,1,0,R,R,183,165,8/18,31/10,0,3,160/212,216/122,"$7,697,271","$12,102,889",Dusan Lajovic,Andrey Rublev
+2019.07.15,Umag,Outdoor,Clay,69,551,27,40,188,183,2,1,4,1,R,R,181,172,14/16,0/0,0,0,89/98,110/185,"$3,698,136","$5,208,086",Laslo Djere,Paolo Lorenzi
+2019.07.15,Umag,Outdoor,Clay,263,183,29,25,185,188,0,2,1,0,R,R,176,187,0/1,2/6,0,0,19/44,170/149,"$1,919,295","$8,749,826",Salvatore Caruso,Borna Coric
+2019.07.15,Umag,Outdoor,Clay,136,61,30,35,185,178,0,9,2,1,R,R,176,174,3/6,13/13,0,0,30/54,399/352,"$2,118,427","$17,144,018",Stefano Travaglia,Fabio Fognini
+2019.07.15,Umag,Outdoor,Clay,263,121,29,32,185,183,0,0,1,0,R,L,176,180,0/1,4/12,0,0,19/44,34/71,"$1,919,295","$2,430,669",Salvatore Caruso,Facundo Bagnis
+2019.07.15,Umag,Outdoor,Clay,611,136,33,30,180,185,0,0,1,0,R,R,172,176,0/2,3/6,0,0,28/26,30/54,"$946,784","$2,118,427",Attila Balazs,Stefano Travaglia
+2019.07.15,Umag,Outdoor,Clay,75,285,32,32,183,183,1,0,1,0,R,R,183,161,8/18,3/7,0,0,160/212,139/157,"$7,697,271","$5,043,225",Dusan Lajovic,Aljaz Bedene
+2019.07.15,Umag,Outdoor,Clay,69,0,27,35,188,191,2,2,2,0,R,R,181,176,14/16,0/0,0,0,89/98,179/197,"$3,698,136","$7,035,294",Laslo Djere,Leonardo Mayer
+2019.07.15,Umag,Outdoor,Clay,75,263,32,29,183,185,1,0,1,0,R,R,183,176,8/18,0/1,0,0,160/212,19/44,"$7,697,271","$1,919,295",Dusan Lajovic,Salvatore Caruso
+2019.07.15,Umag,Outdoor,Clay,611,69,33,27,180,188,0,2,1,0,R,R,172,181,0/2,14/16,0,0,28/26,89/98,"$946,784","$3,698,136",Attila Balazs,Laslo Djere
+2019.07.15,Umag,Outdoor,Clay,75,611,32,33,183,180,1,0,1,0,R,R,183,172,8/18,0/2,0,0,160/212,28/26,"$7,697,271","$946,784",Dusan Lajovic,Attila Balazs
+2019.07.22,Hamburg,Outdoor,Clay,0,186,(1,29,183,183,2,0,1,0,R,R,178,181,0/0,0/2,0,0,134/193,22/44,"$4,253,764","$1,478,946",Carlos Berlocq,Jozef Kovalik
+2019.07.22,Hamburg,Outdoor,Clay,312,313,29,28,188,,0,0,0,0,R,R,180,154,0/0,0/0,0,0,0/2,9/7,"$213,372","$490,519",Julian Lenz,Joao Domingues
+2019.07.22,Hamburg,Outdoor,Clay,304,52,29,25,178,185,0,1,0,0,R,R,152,168,0/0,14/16,0,1,2/4,40/47,"$534,139","$2,466,327",Alexey Vatutin,Pedro Martinez
+2019.07.22,Hamburg,Outdoor,Clay,565,227,24,26,178,191,0,0,0,0,R,R,152,179,0/0,0/1,0,0,6/17,10/13,"$579,874","$867,559",Sumit Nagal,Sebastian Ofner
+2019.07.22,Hamburg,Outdoor,Clay,141,411,27,36,188,178,0,0,0,0,R,R,170,167,2/4,0/0,0,0,25/35,63/103,"$1,488,658","$2,572,138",Gianluca Mager,Tobias Kamke
+2019.07.22,Hamburg,Outdoor,Clay,35,537,23,26,183,196,0,0,0,0,R,L,176,198,16/18,0/0,0,0,59/61,0/0,"$3,085,619","$103,842",Alejandro Davidovich Fokina,Johannes Haerteis
+2019.07.22,Hamburg,Outdoor,Clay,74,211,29,27,180,183,0,0,0,0,R,R,165,172,5/11,0/0,0,0,33/47,1/5,"$1,554,024","$580,573",Hugo Dellien,Daniel Masur
+2019.07.22,Hamburg,Outdoor,Clay,312,141,29,27,188,188,0,0,0,0,R,R,180,170,0/0,2/4,0,0,0/2,25/35,"$213,372","$1,488,658",Julian Lenz,Gianluca Mager
+2019.07.22,Hamburg,Outdoor,Clay,565,35,24,23,178,183,0,0,0,0,R,R,152,176,0/0,16/18,0,0,6/17,59/61,"$579,874","$3,085,619",Sumit Nagal,Alejandro Davidovich Fokina
+2019.07.22,Hamburg,Outdoor,Clay,74,304,29,29,180,178,0,0,0,0,R,R,165,152,5/11,0/0,0,0,33/47,2/4,"$1,554,024","$534,139",Hugo Dellien,Alexey Vatutin
+2019.07.22,Hamburg,Outdoor,Clay,72,0,28,(1,183,183,0,2,0,2,L,R,172,178,11/11,0/0,0,0,66/90,134/193,"$2,483,692","$4,253,764",Thiago Monteiro,Carlos Berlocq
+2019.07.22,Hamburg,Outdoor,Clay,5,253,23,35,183,191,8,2,1,1,R,R,170,170,31/13,1/1,2,0,150/83,233/271,"$7,726,248","$7,781,785",Casper Ruud,Robin Haase
+2019.07.22,Hamburg,Outdoor,Clay,483,0,21,35,185,191,0,2,1,0,R,R,165,176,0/0,0/0,0,0,4/10,179/197,"$429,807","$7,035,294",Rudolf Molleker,Leonardo Mayer
+2019.07.22,Hamburg,Outdoor,Clay,170,35,28,23,180,183,1,0,1,0,R,R,154,176,4/5,16/18,0,0,35/50,59/61,"$2,101,811","$3,085,619",Juan Ignacio Londero,Alejandro Davidovich Fokina
+2019.07.22,Hamburg,Outdoor,Clay,0,56,33,23,191,188,6,0,1,0,L,R,187,176,0/0,5/17,0,0,149/153,17/32,"$5,524,410","$1,053,085",Martin Klizan,Daniel Altmaier
+2019.07.22,Hamburg,Outdoor,Clay,64,565,36,24,183,178,15,0,1,0,R,R,174,152,14/11,0/0,0,0,576/357,6/17,"$19,538,187","$579,874",Richard Gasquet,Sumit Nagal
+2019.07.22,Hamburg,Outdoor,Clay,98,262,30,38,188,178,1,8,1,1,R,R,181,154,13/15,1/3,0,0,122/120,478/387,"$5,266,060","$13,749,731",Marton Fucsovics,Philipp Kohlschreiber
+2019.07.22,Hamburg,Outdoor,Clay,125,147,31,29,193,185,2,3,2,0,L,R,198,171,9/19,2/6,0,0,162/196,65/111,"$5,904,021","$4,438,907",Federico Delbonis,Marco Cecchinato
+2019.07.22,Hamburg,Outdoor,Clay,23,152,31,30,188,193,6,0,1,0,R,R,172,190,21/16,3/4,0,0,251/200,27/32,"$13,678,168","$1,326,118",Pablo Carreno Busta,Yannick Hanfmann
+2019.07.22,Hamburg,Outdoor,Clay,8,70,24,26,188,185,11,5,3,0,R,R,165,187,31/10,16/16,3,0,216/122,97/86,"$12,102,889","$4,824,894",Andrey Rublev,Cristian Garin
+2019.07.22,Hamburg,Outdoor,Clay,122,72,32,28,193,183,0,0,2,2,R,L,202,172,2/11,11/11,0,0,166/202,66/90,"$7,597,772","$2,483,692",Jan-Lennard Struff,Thiago Monteiro
+2019.07.22,Hamburg,Outdoor,Clay,43,69,30,27,185,188,0,2,4,0,R,R,165,181,17/13,14/16,0,0,118/115,89/98,"$5,670,895","$3,698,136",Filip Krajinovic,Laslo Djere
+2019.07.22,Hamburg,Outdoor,Clay,977,92,35,33,188,196,1,3,1,0,R,R,165,176,0/0,3/17,0,0,297/303,240/286,"$10,535,763","$9,836,848",Jeremy Chardy,Benoit Paire
+2019.07.22,Hamburg,Outdoor,Clay,28,74,30,29,185,180,5,0,1,0,R,R,174,165,12/21,5/11,0,0,143/159,33/47,"$8,371,034","$1,554,024",Nikoloz Basilashvili,Hugo Dellien
+2019.07.22,Hamburg,Outdoor,Clay,61,312,35,29,178,188,9,0,1,0,R,R,174,180,13/13,0/0,0,0,399/352,0/2,"$17,144,018","$213,372",Fabio Fognini,Julian Lenz
+2019.07.22,Hamburg,Outdoor,Clay,2,118,25,26,198,198,19,1,2,1,R,R,198,198,29/10,1/3,0,0,339/150,53/62,"$32,407,055","$2,282,706",Alexander Zverev,Nicolas Jarry
+2019.07.22,Hamburg,Outdoor,Clay,274,225,28,36,185,180,17,6,5,2,R,R,174,173,2/7,4/7,0,0,311/173,242/224,"$29,015,317","$9,643,411",Dominic Thiem,Pablo Cuevas
+2019.07.22,Hamburg,Outdoor,Clay,8,5,24,23,188,183,11,8,4,1,R,R,165,170,31/10,31/13,3,2,216/122,150/83,"$12,102,889","$7,726,248",Andrey Rublev,Casper Ruud
+2019.07.22,Hamburg,Outdoor,Clay,43,0,30,33,185,191,0,6,1,0,R,L,165,187,17/13,0/0,0,0,118/115,149/153,"$5,670,895","$5,524,410",Filip Krajinovic,Martin Klizan
+2019.07.22,Hamburg,Outdoor,Clay,977,64,35,36,188,183,1,15,3,5,R,R,165,174,0/0,14/11,0,0,297/303,576/357,"$10,535,763","$19,538,187",Jeremy Chardy,Richard Gasquet
+2019.07.22,Hamburg,Outdoor,Clay,23,122,31,32,188,193,6,0,3,1,R,R,172,202,21/16,2/11,0,0,251/200,166/202,"$13,678,168","$7,597,772",Pablo Carreno Busta,Jan-Lennard Struff
+2019.07.22,Hamburg,Outdoor,Clay,28,170,30,28,185,180,5,1,1,1,R,R,174,154,12/21,4/5,0,0,143/159,35/50,"$8,371,034","$2,101,811",Nikoloz Basilashvili,Juan Ignacio Londero
+2019.07.22,Hamburg,Outdoor,Clay,61,483,35,21,178,185,9,0,1,0,R,R,174,165,13/13,0/0,0,0,399/352,4/10,"$17,144,018","$429,807",Fabio Fognini,Rudolf Molleker
+2019.07.22,Hamburg,Outdoor,Clay,2,125,25,31,198,193,19,2,3,0,R,L,198,198,29/10,9/19,0,0,339/150,162/196,"$32,407,055","$5,904,021",Alexander Zverev,Federico Delbonis
+2019.07.22,Hamburg,Outdoor,Clay,274,98,28,30,185,188,17,1,2,0,R,R,174,181,2/7,13/15,0,0,311/173,122/120,"$29,015,317","$5,266,060",Dominic Thiem,Marton Fucsovics
+2019.07.22,Hamburg,Outdoor,Clay,28,977,30,35,185,188,5,1,1,2,R,R,174,165,12/21,0/0,0,0,143/159,297/303,"$8,371,034","$10,535,763",Nikoloz Basilashvili,Jeremy Chardy
+2019.07.22,Hamburg,Outdoor,Clay,23,61,31,35,188,178,6,9,7,2,R,R,172,174,21/16,13/13,0,0,251/200,399/352,"$13,678,168","$17,144,018",Pablo Carreno Busta,Fabio Fognini
+2019.07.22,Hamburg,Outdoor,Clay,2,43,25,30,198,185,19,0,2,0,R,R,198,165,29/10,17/13,0,0,339/150,118/115,"$32,407,055","$5,670,895",Alexander Zverev,Filip Krajinovic
+2019.07.22,Hamburg,Outdoor,Clay,8,274,24,28,188,185,11,17,3,2,R,R,165,174,31/10,2/7,3,0,216/122,311/173,"$12,102,889","$29,015,317",Andrey Rublev,Dominic Thiem
+2019.07.22,Hamburg,Outdoor,Clay,8,23,24,31,188,188,11,6,2,0,R,R,165,172,31/10,21/16,3,0,216/122,251/200,"$12,102,889","$13,678,168",Andrey Rublev,Pablo Carreno Busta
+2019.07.22,Hamburg,Outdoor,Clay,28,2,30,25,185,198,5,19,1,3,R,R,174,198,12/21,29/10,0,0,143/159,339/150,"$8,371,034","$32,407,055",Nikoloz Basilashvili,Alexander Zverev
+2019.07.22,Hamburg,Outdoor,Clay,28,8,30,24,185,188,5,11,3,3,R,R,174,165,12/21,31/10,0,3,143/159,216/122,"$8,371,034","$12,102,889",Nikoloz Basilashvili,Andrey Rublev
+2019.07.22,Atlanta,Outdoor,Hard,650,1450,30,36,185,193,1,3,3,1,R,R,185,189,0/0,0/0,0,0,118/159,294/273,"$4,802,803","$9,265,938",Ryan Harrison,Viktor Troicki
+2019.07.22,Atlanta,Outdoor,Hard,34,162,25,24,185,188,1,0,0,0,R,R,180,198,23/17,1/2,0,0,74/68,11/25,"$3,092,308","$1,337,202",Tommy Paul,Michael Mmoh
+2019.07.22,Atlanta,Outdoor,Hard,339,416,33,29,180,183,0,0,0,0,R,L,152,185,0/0,0/3,0,0,11/22,13/26,"$1,072,466","$1,392,059",Jason Jung,Alex Bolt
+2019.07.22,Atlanta,Outdoor,Hard,93,454,33,28,188,193,1,0,0,0,R,R,183,185,2/10,0/1,0,0,74/95,5/7,"$3,598,235","$338,544",Peter Gojowczyk,Mikael Torpegaard
+2019.07.22,Atlanta,Outdoor,Hard,622,149,32,28,183,180,0,0,0,0,L,L,175,175,0/0,2/7,0,0,124/190,36/46,"$4,675,907","$2,247,470",Donald Young,Dominik Koepfer
+2019.07.22,Atlanta,Outdoor,Hard,77,53,24,28,180,191,1,1,2,2,R,R,159,189,12/16,12/14,0,0,49/48,70/64,"$1,985,610","$2,240,209",Soonwoo Kwon,Ilya Ivashka
+2019.07.22,Atlanta,Outdoor,Hard,808,769,31,30,191,183,0,0,0,0,L,R,190,172,0/0,0/0,0,0,1/6,11/25,"$311,198","$1,314,595",Kevin King,Guido Andreozzi
+2019.07.22,Atlanta,Outdoor,Hard,89,1512,26,22,180,183,0,0,0,0,R,R,173,173,12/11,0/0,0,0,25/37,0/1,"$1,792,016","$25,587",Kamil Majchrzak,Trent Bryde
+2019.07.22,Atlanta,Outdoor,Hard,808,650,31,30,191,185,0,1,0,0,L,R,190,185,0/0,0/0,0,0,1/6,118/159,"$311,198","$4,802,803",Kevin King,Ryan Harrison
+2019.07.22,Atlanta,Outdoor,Hard,339,622,33,32,180,183,0,0,0,0,R,L,152,175,0/0,0/0,0,0,11/22,124/190,"$1,072,466","$4,675,907",Jason Jung,Donald Young
+2019.07.22,Atlanta,Outdoor,Hard,77,93,24,33,180,188,1,1,0,0,R,R,159,183,12/16,2/10,0,0,49/48,74/95,"$1,985,610","$3,598,235",Soonwoo Kwon,Peter Gojowczyk
+2019.07.22,Atlanta,Outdoor,Hard,89,34,26,25,180,185,0,1,0,0,R,R,173,180,12/11,23/17,0,0,25/37,74/68,"$1,792,016","$3,092,308",Kamil Majchrzak,Tommy Paul
+2019.07.22,Atlanta,Outdoor,Hard,82,83,22,29,196,180,1,0,1,0,R,R,172,175,3/12,4/11,0,0,40/62,65/119,"$2,389,960","$3,999,705",Alexei Popyrin,Denis Kudla
+2019.07.22,Atlanta,Outdoor,Hard,17,39,24,25,211,196,4,1,1,0,R,R,225,180,20/14,22/18,2,1,88/83,92/88,"$4,198,775","$3,901,007",Reilly Opelka,Alexander Bublik
+2019.07.22,Atlanta,Outdoor,Hard,77,295,24,32,180,188,1,0,2,0,R,L,159,176,12/16,0/1,0,0,49/48,10/27,"$1,985,610","$938,291",Soonwoo Kwon,Prajnesh Gunneswaran
+2019.07.22,Atlanta,Outdoor,Hard,702,326,31,31,183,191,0,0,2,0,L,R,165,195,0/0,0/2,0,0,13/41,66/91,"$1,666,323","$2,676,041",Bradley Klahn,Marius Copil
+2019.07.22,Atlanta,Outdoor,Hard,808,18,31,31,191,191,0,8,1,0,L,R,190,179,0/0,18/13,0,0,1/6,364/243,"$311,198","$21,498,490",Kevin King,Grigor Dimitrov
+2019.07.22,Atlanta,Outdoor,Hard,31,104,22,29,183,191,1,4,2,0,R,R,165,195,27/15,6/7,0,0,82/77,178/146,"$3,702,937","$11,630,641",Miomir Kecmanovic,Jack Sock
+2019.07.22,Atlanta,Outdoor,Hard,36,339,32,33,175,180,1,0,1,0,R,R,165,152,13/16,0/0,0,0,111/121,11/22,"$5,429,957","$1,072,466",Daniel Evans,Jason Jung
+2019.07.22,Atlanta,Outdoor,Hard,539,89,34,26,188,180,0,0,1,0,R,R,176,173,0/1,12/11,0,0,79/128,25/37,"$4,293,922","$1,792,016",Matthew Ebden,Kamil Majchrzak
+2019.07.22,Atlanta,Outdoor,Hard,157,0,24,(),188,,3,0,1,0,L,,160,kg,7/17,0/0,0,0,69/74,0/1,"$3,203,437","$7,000",Ugo Humbert,Cole Gromley
+2019.07.22,Atlanta,Outdoor,Hard,11,95,26,28,188,183,4,0,2,2,L,R,181,181,32/16,8/14,2,0,135/101,83/109,"$7,012,074","$4,027,008",Cameron Norrie,Jordan Thompson
+2019.07.22,Atlanta,Outdoor,Hard,109,343,32,30,175,188,1,1,2,0,R,R,152,195,5/7,0/3,0,0,91/125,47/75,"$4,436,940","$3,454,806",Radu Albot,Tennys Sandgren
+2019.07.22,Atlanta,Outdoor,Hard,518,29,29,24,196,188,4,1,1,0,R,R,201,190,0/0,15/14,0,0,186/182,117/133,"$6,291,443","$5,970,770",Bernard Tomic,Frances Tiafoe
+2019.07.22,Atlanta,Outdoor,Hard,215,0,31,(),188,,0,0,0,0,R,U,165,kg,2/3,0/212,0,0,97/123,0/13739,"$8,972,885",,Pierre-Hugues Herbert, Bye
+2019.07.22,Atlanta,Outdoor,Hard,24,0,23,(),183,,5,0,0,0,R,U,152,kg,28/16,0/212,0,0,137/99,0/13739,"$7,228,398",,Alex de Minaur, Bye
+2019.07.22,Atlanta,Outdoor,Hard,13,0,24,(),196,,3,0,0,0,R,U,190,kg,29/11,0/212,2,0,160/134,0/13739,"$8,193,645",,Taylor Fritz, Bye
+2019.07.22,Atlanta,Outdoor,Hard,22,0,37,(),208,,16,0,0,0,R,U,238,kg,17/14,0/212,0,0,474/300,0/13739,"$21,433,777",,John Isner, Bye
+2019.07.22,Atlanta,Outdoor,Hard,518,539,29,34,196,188,4,0,1,0,R,R,201,176,0/0,0/1,0,0,186/182,79/128,"$6,291,443","$4,293,922",Bernard Tomic,Matthew Ebden
+2019.07.22,Atlanta,Outdoor,Hard,11,77,26,24,188,180,4,1,2,0,L,R,181,159,32/16,12/16,2,0,135/101,49/48,"$7,012,074","$1,985,610",Cameron Norrie,Soonwoo Kwon
+2019.07.22,Atlanta,Outdoor,Hard,31,157,22,24,183,188,1,3,3,3,R,L,165,160,27/15,7/17,0,0,82/77,69/74,"$3,702,937","$3,203,437",Miomir Kecmanovic,Ugo Humbert
+2019.07.22,Atlanta,Outdoor,Hard,36,109,32,32,175,175,1,1,3,1,R,R,165,152,13/16,5/7,0,0,111/121,91/125,"$5,429,957","$4,436,940",Daniel Evans,Radu Albot
+2019.07.22,Atlanta,Outdoor,Hard,82,215,22,31,196,188,1,0,1,0,R,R,172,165,3/12,2/3,0,0,40/62,97/123,"$2,389,960","$8,972,885",Alexei Popyrin,Pierre-Hugues Herbert
+2019.07.22,Atlanta,Outdoor,Hard,24,702,23,31,183,183,5,0,2,0,R,L,152,165,28/16,0/0,0,0,137/99,13/41,"$7,228,398","$1,666,323",Alex de Minaur,Bradley Klahn
+2019.07.22,Atlanta,Outdoor,Hard,13,808,24,31,196,191,3,0,1,0,R,L,190,190,29/11,0/0,2,0,160/134,1/6,"$8,193,645","$311,198",Taylor Fritz,Kevin King
+2019.07.22,Atlanta,Outdoor,Hard,17,22,24,37,211,208,4,16,5,1,R,R,225,238,20/14,17/14,2,0,88/83,474/300,"$4,198,775","$21,433,777",Reilly Opelka,John Isner
+2019.07.22,Atlanta,Outdoor,Hard,17,36,24,32,211,175,4,1,1,0,R,R,225,165,20/14,13/16,2,0,88/83,111/121,"$4,198,775","$5,429,957",Reilly Opelka,Daniel Evans
+2019.07.22,Atlanta,Outdoor,Hard,11,82,26,22,188,196,4,1,1,0,L,R,181,172,32/16,3/12,2,0,135/101,40/62,"$7,012,074","$2,389,960",Cameron Norrie,Alexei Popyrin
+2019.07.22,Atlanta,Outdoor,Hard,24,518,23,29,183,196,5,4,1,0,R,R,152,201,28/16,0/0,0,0,137/99,186/182,"$7,228,398","$6,291,443",Alex de Minaur,Bernard Tomic
+2019.07.22,Atlanta,Outdoor,Hard,13,31,24,22,196,183,3,1,2,1,R,R,190,165,29/11,27/15,2,0,160/134,82/77,"$8,193,645","$3,702,937",Taylor Fritz,Miomir Kecmanovic
+2019.07.22,Atlanta,Outdoor,Hard,24,17,23,24,183,211,5,4,5,0,R,R,152,225,28/16,20/14,0,2,137/99,88/83,"$7,228,398","$4,198,775",Alex de Minaur,Reilly Opelka
+2019.07.22,Atlanta,Outdoor,Hard,13,11,24,26,196,188,3,4,5,4,R,L,190,181,29/11,32/16,2,2,160/134,135/101,"$8,193,645","$7,012,074",Taylor Fritz,Cameron Norrie
+2019.07.22,Atlanta,Outdoor,Hard,24,13,23,24,183,196,5,3,3,3,R,R,152,190,28/16,29/11,0,2,137/99,160/134,"$7,228,398","$8,193,645",Alex de Minaur,Taylor Fritz
+2019.07.22,Gstaad,Outdoor,Clay,212,0,24,30,185,183,0,0,0,0,R,R,179,178,0/2,0/0,0,0,1/3,0/0,"$312,120","$178,987",Gian Marco Moroni,Luca Margaroli
+2019.07.22,Gstaad,Outdoor,Clay,1325,575,31,27,193,196,0,0,0,0,R,R,194,198,0/0,0/0,0,0,3/6,1/2,"$386,886","$515,552",Viktor Galovic,Stefano Napolitano
+2019.07.22,Gstaad,Outdoor,Clay,113,452,26,23,191,193,0,0,0,0,R,R,159,194,4/6,0/2,0,0,27/29,2/8,"$1,226,701","$533,834",Daniel Elahi Galan,Elliot Benchetrit
+2019.07.22,Gstaad,Outdoor,Clay,945,0,39,33,185,178,5,0,0,0,R,L,176,175,0/0,0/0,0,0,297/354,4/5,"$8,451,851","$567,642",Guillermo Garcia-Lopez,Gonzalo Escobar
+2019.07.22,Gstaad,Outdoor,Clay,229,0,32,24,178,185,0,0,0,0,R,R,176,172,0/1,0/0,0,0,13/18,0/0,"$1,387,412","$30,578",Marco Trungelliti,Raphael Baltensperger
+2019.07.22,Gstaad,Outdoor,Clay,502,266,26,25,180,173,0,0,0,0,R,R,176,149,0/0,1/1,0,0,0/3,1/3,"$318,911","$122,680",Filippo Baldi,Johan Nikles
+2019.07.22,Gstaad,Outdoor,Clay,154,0,28,42,183,185,0,0,0,0,R,R,178,170,2/4,0/0,0,0,26/49,38/75,"$1,636,709","$2,448,915",Dennis Novak,Stephane Robert
+2019.07.22,Gstaad,Outdoor,Clay,113,457,26,23,191,180,0,0,0,0,R,R,159,160,4/6,0/0,0,0,27/29,0/0,"$1,226,701","$79,735",Daniel Elahi Galan,Jakub Paul
+2019.07.22,Gstaad,Outdoor,Clay,212,229,24,32,185,178,0,0,0,0,R,R,179,176,0/2,0/1,0,0,1/3,13/18,"$312,120","$1,387,412",Gian Marco Moroni,Marco Trungelliti
+2019.07.22,Gstaad,Outdoor,Clay,502,945,26,39,180,185,0,5,0,0,R,R,176,176,0/0,0/0,0,0,0/3,297/354,"$318,911","$8,451,851",Filippo Baldi,Guillermo Garcia-Lopez
+2019.07.22,Gstaad,Outdoor,Clay,154,1325,28,31,183,193,0,0,0,0,R,R,178,194,2/4,0/0,0,0,26/49,3/6,"$1,636,709","$386,886",Dennis Novak,Viktor Galovic
+2019.07.22,Gstaad,Outdoor,Clay,71,375,29,33,198,191,2,6,4,0,L,R,207,187,8/10,2/0,0,0,140/163,247/239,"$5,460,875","$7,649,959",Jiri Vesely,Ernests Gulbis
+2019.07.22,Gstaad,Outdoor,Clay,136,113,30,26,185,191,0,0,1,0,R,R,176,159,3/6,4/6,0,0,30/54,27/29,"$2,118,427","$1,226,701",Stefano Travaglia,Daniel Elahi Galan
+2019.07.22,Gstaad,Outdoor,Clay,40,108,34,30,188,185,4,0,1,0,L,R,168,172,15/16,5/10,1,0,256/285,51/70,"$9,448,129","$2,204,392",Albert Ramos-Vinolas,Henri Laaksonen
+2019.07.22,Gstaad,Outdoor,Clay,63,321,25,38,183,185,0,0,1,0,R,R,168,182,12/14,2/4,0,0,55/81,104/144,"$2,741,436","$4,016,044",Jaume Munar,Malek Jaziri
+2019.07.22,Gstaad,Outdoor,Clay,212,1007,24,40,185,180,0,12,1,0,R,R,179,165,0/2,0/1,0,0,1/3,533/358,"$312,120","$13,467,681",Gian Marco Moroni,Tommy Robredo
+2019.07.22,Gstaad,Outdoor,Clay,449,99,35,26,185,196,2,0,1,0,R,L,189,189,1/1,1/3,0,0,230/266,7/11,"$6,319,460","$521,289",Denis Istomin,Marc-Andrea Huesler
+2019.07.22,Gstaad,Outdoor,Clay,223,916,33,31,173,180,0,0,1,0,R,R,154,kg,0/1,0/0,0,0,27/63,1/5,"$2,429,482","$147,448",Thomas Fabbiano,Sandro Ehrat
+2019.07.22,Gstaad,Outdoor,Clay,102,502,29,26,191,180,1,0,1,0,R,R,185,176,8/11,0/0,0,0,62/101,0/3,"$2,803,802","$318,911",Taro Daniel,Filippo Baldi
+2019.07.22,Gstaad,Outdoor,Clay,202,112,31,23,180,175,0,0,1,0,L,L,154,156,1/1,6/6,0,0,32/50,36/50,"$1,541,967","$2,192,336",Cedrik-Marcel Stebe,Corentin Moutet
+2019.07.22,Gstaad,Outdoor,Clay,94,154,36,28,180,183,4,0,1,0,R,R,176,178,7/11,2/4,0,0,161/236,26/49,"$6,931,384","$1,636,709",Pablo Andujar,Dennis Novak
+2019.07.22,Gstaad,Outdoor,Clay,88,551,29,40,183,183,1,1,2,1,R,R,170,172,5/13,0/0,0,0,68/91,110/185,"$3,099,905","$5,208,086",Roberto Carballes Baena,Paolo Lorenzi
+2019.07.22,Gstaad,Outdoor,Clay,58,0,33,38,185,175,4,2,1,0,R,R,163,171,12/12,0/0,1,0,212/250,118/134,"$7,851,170","$3,445,948",Joao Sousa,Steve Darcis
+2019.07.22,Gstaad,Outdoor,Clay,60,0,27,(),191,,2,0,0,0,R,U,168,kg,17/19,0/212,0,0,84/87,0/13739,"$3,990,596",,Lorenzo Sonego, Bye
+2019.07.22,Gstaad,Outdoor,Clay,75,0,32,(),183,,1,0,0,0,R,U,183,kg,8/18,0/212,0,0,160/212,0/13739,"$7,697,271",,Dusan Lajovic, Bye
+2019.07.22,Gstaad,Outdoor,Clay,126,0,38,(),188,,7,0,0,0,L,U,198,kg,4/7,0/212,0,0,558/438,0/13739,"$18,136,660",,Fernando Verdasco, Bye
+2019.07.22,Gstaad,Outdoor,Clay,19,0,34,(),183,,10,0,0,0,R,U,165,kg,23/10,0/212,1,0,359/215,0/13739,"$16,083,239",,Roberto Bautista Agut, Bye
+2019.07.22,Gstaad,Outdoor,Clay,202,71,31,29,180,198,0,2,1,1,L,L,154,207,1/1,8/10,0,0,32/50,140/163,"$1,541,967","$5,460,875",Cedrik-Marcel Stebe,Jiri Vesely
+2019.07.22,Gstaad,Outdoor,Clay,94,102,36,29,180,191,4,1,1,0,R,R,176,185,7/11,8/11,0,0,161/236,62/101,"$6,931,384","$2,803,802",Pablo Andujar,Taro Daniel
+2019.07.22,Gstaad,Outdoor,Clay,88,136,29,30,183,185,1,0,1,1,R,R,170,176,5/13,3/6,0,0,68/91,30/54,"$3,099,905","$2,118,427",Roberto Carballes Baena,Stefano Travaglia
+2019.07.22,Gstaad,Outdoor,Clay,58,212,33,24,185,185,4,0,1,0,R,R,163,179,12/12,0/2,1,0,212/250,1/3,"$7,851,170","$312,120",Joao Sousa,Gian Marco Moroni
+2019.07.22,Gstaad,Outdoor,Clay,223,60,33,27,173,191,0,2,1,0,R,R,154,168,0/1,17/19,0,0,27/63,84/87,"$2,429,482","$3,990,596",Thomas Fabbiano,Lorenzo Sonego
+2019.07.22,Gstaad,Outdoor,Clay,75,449,32,35,183,185,1,2,1,1,R,R,183,189,8/18,1/1,0,0,160/212,230/266,"$7,697,271","$6,319,460",Dusan Lajovic,Denis Istomin
+2019.07.22,Gstaad,Outdoor,Clay,40,126,34,38,188,188,4,7,6,5,L,L,168,198,15/16,4/7,1,0,256/285,558/438,"$9,448,129","$18,136,660",Albert Ramos-Vinolas,Fernando Verdasco
+2019.07.22,Gstaad,Outdoor,Clay,19,63,34,25,183,183,10,0,2,0,R,R,165,168,23/10,12/14,1,0,359/215,55/81,"$16,083,239","$2,741,436",Roberto Bautista Agut,Jaume Munar
+2019.07.22,Gstaad,Outdoor,Clay,202,223,31,33,180,173,0,0,1,0,L,R,154,154,1/1,0/1,0,0,32/50,27/63,"$1,541,967","$2,429,482",Cedrik-Marcel Stebe,Thomas Fabbiano
+2019.07.22,Gstaad,Outdoor,Clay,40,88,34,29,188,183,4,1,4,2,L,R,168,170,15/16,5/13,1,0,256/285,68/91,"$9,448,129","$3,099,905",Albert Ramos-Vinolas,Roberto Carballes Baena
+2019.07.22,Gstaad,Outdoor,Clay,94,75,36,32,180,183,4,1,4,1,R,R,176,183,7/11,8/18,0,0,161/236,160/212,"$6,931,384","$7,697,271",Pablo Andujar,Dusan Lajovic
+2019.07.22,Gstaad,Outdoor,Clay,58,19,33,34,185,183,4,10,3,3,R,R,163,165,12/12,23/10,1,1,212/250,359/215,"$7,851,170","$16,083,239",Joao Sousa,Roberto Bautista Agut
+2019.07.22,Gstaad,Outdoor,Clay,40,94,34,36,188,180,4,4,3,7,L,R,168,176,15/16,7/11,1,0,256/285,161/236,"$9,448,129","$6,931,384",Albert Ramos-Vinolas,Pablo Andujar
+2019.07.22,Gstaad,Outdoor,Clay,202,58,31,33,180,185,0,4,2,0,L,R,154,163,1/1,12/12,0,1,32/50,212/250,"$1,541,967","$7,851,170",Cedrik-Marcel Stebe,Joao Sousa
+2019.07.22,Gstaad,Outdoor,Clay,40,202,34,31,188,180,4,0,1,0,L,L,168,154,15/16,1/1,1,0,256/285,32/50,"$9,448,129","$1,541,967",Albert Ramos-Vinolas,Cedrik-Marcel Stebe
+2019.07.27,Washington,Outdoor,Hard,622,1762,32,27,183,188,0,0,0,0,L,R,175,184,0/0,0/0,0,0,124/190,0/0,"$4,675,907","$13,284",Donald Young,Nicholas Reyes
+2019.07.27,Washington,Outdoor,Hard,858,196,34,27,175,188,0,0,0,1,R,R,160,178,0/0,2/1,0,0,43/85,24/32,"$2,067,979","$1,068,221",Tim Smyczek,Ramkumar Ramanathan
+2019.07.27,Washington,Outdoor,Hard,388,0,25,40,188,185,0,0,0,0,R,L,172,177,0/0,0/0,0,0,5/14,0/0,"$1,236,373","$947,363",Marc Polmans,Jamie Cerretani
+2019.07.27,Washington,Outdoor,Hard,454,280,28,23,193,180,0,0,0,0,R,R,185,175,0/1,0/1,0,0,5/7,0/1,"$338,544","$71,068",Mikael Torpegaard,Alexis Galarneau
+2019.07.27,Washington,Outdoor,Hard,552,529,27,26,188,175,0,0,0,0,R,R,179,155,0/0,0/0,0,0,0/6,8/21,"$448,763","$805,480",Thai-Son Kwiatkowski,Noah Rubin
+2019.07.27,Washington,Outdoor,Hard,868,162,34,24,185,188,0,0,0,0,R,R,176,198,0/0,1/2,0,0,1/3,11/25,"$350,760","$1,337,202",Gleb Sakharov,Michael Mmoh
+2019.07.27,Washington,Outdoor,Hard,1450,0,40,(),191,,4,0,0,0,R,,181,kg,0/0,0/0,0,0,181/225,0/0,"$12,231,140","$1,355",Nicolas Mahut,Robert Maciag
+2019.07.27,Washington,Outdoor,Hard,1450,1341,36,22,193,,3,0,0,0,R,R,189,kg,0/0,0/0,0,0,294/273,0/0,"$9,265,938","$8,372",Viktor Troicki,Andrew Fenty
+2019.07.27,Washington,Outdoor,Hard,388,1450,25,40,188,191,0,4,0,0,R,R,172,181,0/0,0/0,0,0,5/14,181/225,"$1,236,373","$12,231,140",Marc Polmans,Nicolas Mahut
+2019.07.27,Washington,Outdoor,Hard,552,1450,27,36,188,193,0,3,0,0,R,R,179,189,0/0,0/0,0,0,0/6,294/273,"$448,763","$9,265,938",Thai-Son Kwiatkowski,Viktor Troicki
+2019.07.27,Washington,Outdoor,Hard,858,116,34,31,175,193,0,0,0,0,R,R,160,187,0/0,1/6,0,0,43/85,27/56,"$2,067,979","$1,990,353",Tim Smyczek,Norbert Gombos
+2019.07.27,Washington,Outdoor,Hard,454,53,28,28,193,191,0,1,0,0,R,R,185,189,0/1,12/14,0,0,5/7,70/64,"$338,544","$2,240,209",Mikael Torpegaard,Ilya Ivashka
+2019.07.27,Washington,Outdoor,Hard,622,93,32,33,183,188,0,1,1,0,L,R,175,183,0/0,2/10,0,0,124/190,74/95,"$4,675,907","$3,598,235",Donald Young,Peter Gojowczyk
+2019.07.27,Washington,Outdoor,Hard,374,868,27,34,193,185,0,0,0,0,R,R,186,176,0/1,0/0,0,0,4/19,1/3,"$874,128","$350,760",Brayden Schnur,Gleb Sakharov
+2019.07.27,Washington,Outdoor,Hard,0,374,(1,27,188,193,18,0,1,0,R,R,205,186,2/6,0/1,0,0,467/237,4/19,"$22,458,018","$874,128",Jo-Wilfried Tsonga,Brayden Schnur
+2019.07.27,Washington,Outdoor,Hard,95,104,28,29,183,191,0,4,3,0,R,R,181,195,8/14,6/7,0,0,83/109,178/146,"$4,027,008","$11,630,641",Jordan Thompson,Jack Sock
+2019.07.27,Washington,Outdoor,Hard,858,539,34,34,175,188,0,0,2,1,R,R,160,176,0/0,0/1,0,0,43/85,79/128,"$2,067,979","$4,293,922",Tim Smyczek,Matthew Ebden
+2019.07.27,Washington,Outdoor,Hard,388,321,25,38,188,185,0,0,1,0,R,R,172,182,0/0,2/4,0,0,5/14,104/144,"$1,236,373","$4,016,044",Marc Polmans,Malek Jaziri
+2019.07.27,Washington,Outdoor,Hard,34,83,25,29,185,180,1,0,1,0,R,R,180,175,23/17,4/11,0,0,74/68,65/119,"$3,092,308","$3,999,705",Tommy Paul,Denis Kudla
+2019.07.27,Washington,Outdoor,Hard,17,153,24,26,211,201,4,0,2,0,R,R,225,180,20/14,2/3,2,0,88/83,7/20,"$4,198,775","$975,573",Reilly Opelka,Christopher Eubanks
+2019.07.27,Washington,Outdoor,Hard,97,36,26,32,170,175,1,1,4,0,L,R,141,165,5/10,13/16,0,0,80/103,111/121,"$3,805,379","$5,429,957",Yoshihito Nishioka,Daniel Evans
+2019.07.27,Washington,Outdoor,Hard,80,53,34,28,180,191,1,1,1,1,L,R,174,189,15/16,12/14,0,0,232/278,70/64,"$9,175,704","$2,240,209",Adrian Mannarino,Ilya Ivashka
+2019.07.27,Washington,Outdoor,Hard,45,552,27,27,193,188,6,0,1,0,R,R,187,179,21/7,0/0,0,0,189/110,0/6,"$11,194,480","$448,763",Nick Kyrgios,Thai-Son Kwiatkowski
+2019.07.27,Washington,Outdoor,Hard,31,82,22,22,183,196,1,1,2,1,R,R,165,172,27/15,3/12,0,0,82/77,40/62,"$3,702,937","$2,389,960",Miomir Kecmanovic,Alexei Popyrin
+2019.07.27,Washington,Outdoor,Hard,12,622,25,32,196,183,5,0,2,0,R,L,179,175,28/12,0/0,1,0,112/90,124/190,"$7,367,623","$4,675,907",Hubert Hurkacz,Donald Young
+2019.07.27,Washington,Outdoor,Hard,46,107,25,32,193,175,0,0,2,0,R,R,176,170,7/14,7/7,0,0,69/69,128/148,"$3,114,801","$4,631,891",Lloyd Harris,Ricardas Berankis
+2019.07.27,Washington,Outdoor,Hard,116,0,31,(),193,,0,0,0,0,R,U,187,kg,1/6,0/212,0,0,27/56,0/13739,"$1,990,353",,Norbert Gombos, Bye
+2019.07.27,Washington,Outdoor,Hard,93,8,33,24,188,188,1,11,1,0,R,R,183,165,2/10,31/10,0,3,74/95,216/122,"$3,598,235","$12,102,889",Peter Gojowczyk,Andrey Rublev
+2019.07.27,Washington,Outdoor,Hard,184,560,28,43,183,211,0,8,2,0,R,R,175,230,0/1,0/0,0,0,22/39,371/346,"$1,562,054","$10,160,232",Bjorn Fratangelo,Ivo Karlovic
+2019.07.27,Washington,Outdoor,Hard,326,454,31,28,191,193,0,0,1,0,R,R,195,185,0/2,0/1,0,0,66/91,5/7,"$2,676,041","$338,544",Marius Copil,Mikael Torpegaard
+2019.07.27,Washington,Outdoor,Hard,39,702,25,31,196,183,1,0,1,0,R,L,180,165,22/18,0/0,1,0,92/88,13/41,"$3,901,007","$1,666,323",Alexander Bublik,Bradley Klahn
+2019.07.27,Washington,Outdoor,Hard,29,0,24,(),188,,1,0,0,0,R,U,190,kg,15/14,0/212,0,0,117/133,0/13739,"$5,970,770",,Frances Tiafoe, Bye
+2019.07.27,Washington,Outdoor,Hard,215,0,31,(),188,,0,0,0,0,R,U,165,kg,2/3,0/212,0,0,97/123,0/13739,"$8,972,885",,Pierre-Hugues Herbert, Bye
+2019.07.27,Washington,Outdoor,Hard,122,0,32,(),193,,0,0,0,0,R,U,202,kg,2/11,0/212,0,0,166/202,0/13739,"$7,597,772",,Jan-Lennard Struff, Bye
+2019.07.27,Washington,Outdoor,Hard,497,0,27,(),188,,2,0,0,0,R,U,183,kg,0/0,0/212,0,0,117/115,0/13739,"$5,765,703",,Kyle Edmund, Bye
+2019.07.27,Washington,Outdoor,Hard,24,0,23,(),183,,5,0,0,0,R,U,152,kg,28/16,0/212,0,0,137/99,0/13739,"$7,228,398",,Alex de Minaur, Bye
+2019.07.27,Washington,Outdoor,Hard,175,0,37,(),183,,14,0,0,0,R,U,154,kg,4/6,0/212,0,0,501/392,0/13739,"$15,918,767",,Gilles Simon, Bye
+2019.07.27,Washington,Outdoor,Hard,92,0,33,(),196,,3,0,0,0,R,U,176,kg,3/17,0/212,0,0,240/286,0/13739,"$9,836,848",,Benoit Paire, Bye
+2019.07.27,Washington,Outdoor,Hard,9,0,21,(),193,,1,0,0,0,R,U,194,kg,30/17,0/212,1,0,130/93,0/13739,"$7,443,072",,Felix Auger-Aliassime, Bye
+2019.07.27,Washington,Outdoor,Hard,576,0,31,(),196,,8,0,0,0,R,U,216,kg,0/0,0/212,0,0,372/175,0/13739,"$20,218,982",,Milos Raonic, Bye
+2019.07.27,Washington,Outdoor,Hard,67,0,31,(),180,,6,0,0,0,R,U,154,kg,22/16,0/212,1,0,314/213,0/13739,"$16,255,861",,David Goffin, Bye
+2019.07.27,Washington,Outdoor,Hard,16,0,33,(),198,,20,0,0,0,R,U,196,kg,21/13,0/212,0,0,570/319,0/13739,"$30,588,972",,Marin Cilic, Bye
+2019.07.27,Washington,Outdoor,Hard,22,0,37,(),208,,16,0,0,0,R,U,238,kg,17/14,0/212,0,0,474/300,0/13739,"$21,433,777",,John Isner, Bye
+2019.07.27,Washington,Outdoor,Hard,1,0,26,(),198,,13,0,0,0,R,U,182,kg,27/10,0/212,0,0,249/109,0/13739,"$24,151,740",,Daniil Medvedev, Bye
+2019.07.27,Washington,Outdoor,Hard,26,0,26,(),198,,4,0,0,0,R,U,192,kg,22/16,0/212,0,0,196/152,0/13739,"$11,161,554",,Karen Khachanov, Bye
+2019.07.27,Washington,Outdoor,Hard,4,0,23,(),193,,9,0,0,0,R,U,198,kg,42/14,0/212,2,0,230/109,0/13739,"$19,838,180",,Stefanos Tsitsipas, Bye
+2019.07.27,Washington,Outdoor,Hard,116,80,31,34,193,180,0,1,1,0,R,L,187,174,1/6,15/16,0,0,27/56,232/278,"$1,990,353","$9,175,704",Norbert Gombos,Adrian Mannarino
+2019.07.27,Washington,Outdoor,Hard,29,39,24,25,188,196,1,1,2,1,R,R,190,180,15/14,22/18,0,1,117/133,92/88,"$5,970,770","$3,901,007",Frances Tiafoe,Alexander Bublik
+2019.07.27,Washington,Outdoor,Hard,31,215,22,31,183,188,1,0,1,0,R,R,165,165,27/15,2/3,0,0,82/77,97/123,"$3,702,937","$8,972,885",Miomir Kecmanovic,Pierre-Hugues Herbert
+2019.07.27,Washington,Outdoor,Hard,95,122,28,32,183,193,0,0,1,0,R,R,181,202,8/14,2/11,0,0,83/109,166/202,"$4,027,008","$7,597,772",Jordan Thompson,Jan-Lennard Struff
+2019.07.27,Washington,Outdoor,Hard,497,46,27,25,188,193,2,0,1,1,R,R,183,176,0/0,7/14,0,0,117/115,69/69,"$5,765,703","$3,114,801",Kyle Edmund,Lloyd Harris
+2019.07.27,Washington,Outdoor,Hard,93,24,33,23,188,183,1,5,1,0,R,R,183,152,2/10,28/16,0,0,74/95,137/99,"$3,598,235","$7,228,398",Peter Gojowczyk,Alex de Minaur
+2019.07.27,Washington,Outdoor,Hard,45,175,27,37,193,183,6,14,2,0,R,R,187,154,21/7,4/6,0,0,189/110,501/392,"$11,194,480","$15,918,767",Nick Kyrgios,Gilles Simon
+2019.07.27,Washington,Outdoor,Hard,92,388,33,25,196,188,3,0,1,0,R,R,176,172,3/17,0/0,0,0,240/286,5/14,"$9,836,848","$1,236,373",Benoit Paire,Marc Polmans
+2019.07.27,Washington,Outdoor,Hard,9,17,21,24,193,211,1,4,1,0,R,R,194,225,30/17,20/14,1,2,130/93,88/83,"$7,443,072","$4,198,775",Felix Auger-Aliassime,Reilly Opelka
+2019.07.27,Washington,Outdoor,Hard,576,858,31,34,196,175,8,0,3,0,R,R,216,160,0/0,0/0,0,0,372/175,43/85,"$20,218,982","$2,067,979",Milos Raonic,Tim Smyczek
+2019.07.27,Washington,Outdoor,Hard,97,67,26,31,170,180,1,6,1,1,L,R,141,154,5/10,22/16,0,1,80/103,314/213,"$3,805,379","$16,255,861",Yoshihito Nishioka,David Goffin
+2019.07.27,Washington,Outdoor,Hard,16,326,33,31,198,191,20,0,3,2,R,R,196,195,21/13,0/2,0,0,570/319,66/91,"$30,588,972","$2,676,041",Marin Cilic,Marius Copil
+2019.07.27,Washington,Outdoor,Hard,22,12,37,25,208,196,16,5,2,0,R,R,238,179,17/14,28/12,0,1,474/300,112/90,"$21,433,777","$7,367,623",John Isner,Hubert Hurkacz
+2019.07.27,Washington,Outdoor,Hard,1,184,26,28,198,183,13,0,1,0,R,R,182,175,27/10,0/1,0,0,249/109,22/39,"$24,151,740","$1,562,054",Daniil Medvedev,Bjorn Fratangelo
+2019.07.27,Washington,Outdoor,Hard,0,26,(1,26,188,198,18,4,3,0,R,R,205,192,2/6,22/16,0,0,467/237,196/152,"$22,458,018","$11,161,554",Jo-Wilfried Tsonga,Karen Khachanov
+2019.07.27,Washington,Outdoor,Hard,4,34,23,25,193,185,9,1,2,0,R,R,198,180,42/14,23/17,2,0,230/109,74/68,"$19,838,180","$3,092,308",Stefanos Tsitsipas,Tommy Paul
+2019.07.27,Washington,Outdoor,Hard,45,97,27,26,193,170,6,1,3,0,R,L,187,141,21/7,5/10,0,0,189/110,80/103,"$11,194,480","$3,805,379",Nick Kyrgios,Yoshihito Nishioka
+2019.07.27,Washington,Outdoor,Hard,116,31,31,22,193,183,0,1,1,0,R,R,187,165,1/6,27/15,0,0,27/56,82/77,"$1,990,353","$3,702,937",Norbert Gombos,Miomir Kecmanovic
+2019.07.27,Washington,Outdoor,Hard,497,0,27,(1,188,188,2,18,1,1,R,R,183,205,0/0,2/6,0,0,117/115,467/237,"$5,765,703","$22,458,018",Kyle Edmund,Jo-Wilfried Tsonga
+2019.07.27,Washington,Outdoor,Hard,93,576,33,31,188,196,1,8,2,1,R,R,183,216,2/10,0/0,0,0,74/95,372/175,"$3,598,235","$20,218,982",Peter Gojowczyk,Milos Raonic
+2019.07.27,Washington,Outdoor,Hard,16,9,33,21,198,193,20,1,3,1,R,R,196,194,21/13,30/17,0,1,570/319,130/93,"$30,588,972","$7,443,072",Marin Cilic,Felix Auger-Aliassime
+2019.07.27,Washington,Outdoor,Hard,92,22,33,37,196,208,3,16,2,1,R,R,176,238,3/17,17/14,0,0,240/286,474/300,"$9,836,848","$21,433,777",Benoit Paire,John Isner
+2019.07.27,Washington,Outdoor,Hard,1,29,26,24,198,188,13,1,4,0,R,R,182,190,27/10,15/14,0,0,249/109,117/133,"$24,151,740","$5,970,770",Daniil Medvedev,Frances Tiafoe
+2019.07.27,Washington,Outdoor,Hard,4,95,23,28,193,183,9,0,2,0,R,R,198,181,42/14,8/14,2,0,230/109,83/109,"$19,838,180","$4,027,008",Stefanos Tsitsipas,Jordan Thompson
+2019.07.27,Washington,Outdoor,Hard,45,116,27,31,193,193,6,0,2,0,R,R,187,187,21/7,1/6,0,0,189/110,27/56,"$11,194,480","$1,990,353",Nick Kyrgios,Norbert Gombos
+2019.07.27,Washington,Outdoor,Hard,93,497,33,27,188,188,1,2,1,2,R,R,183,183,2/10,0/0,0,0,74/95,117/115,"$3,598,235","$5,765,703",Peter Gojowczyk,Kyle Edmund
+2019.07.27,Washington,Outdoor,Hard,1,16,26,33,198,198,13,20,3,1,R,R,182,196,27/10,21/13,0,0,249/109,570/319,"$24,151,740","$30,588,972",Daniil Medvedev,Marin Cilic
+2019.07.27,Washington,Outdoor,Hard,4,92,23,33,193,196,9,3,4,1,R,R,198,176,42/14,3/17,2,0,230/109,240/286,"$19,838,180","$9,836,848",Stefanos Tsitsipas,Benoit Paire
+2019.07.27,Washington,Outdoor,Hard,1,93,26,33,198,188,13,1,1,0,R,R,182,183,27/10,2/10,0,0,249/109,74/95,"$24,151,740","$3,598,235",Daniil Medvedev,Peter Gojowczyk
+2019.07.27,Washington,Outdoor,Hard,45,4,27,23,193,193,6,9,4,1,R,R,187,198,21/7,42/14,0,2,189/110,230/109,"$11,194,480","$19,838,180",Nick Kyrgios,Stefanos Tsitsipas
+2019.07.27,Washington,Outdoor,Hard,45,1,27,26,193,198,6,13,2,1,R,R,187,182,21/7,27/10,0,0,189/110,249/109,"$11,194,480","$24,151,740",Nick Kyrgios,Daniil Medvedev
+2019.07.29,Los Cabos,Outdoor,Hard,1325,314,27,34,,188,0,0,0,0,R,R,kg,192,0/0,0/0,0,0,0/0,98/148,"$91,216","$3,601,834",Jacob Grills,Lukas Lacko
+2019.07.29,Los Cabos,Outdoor,Hard,289,0,25,22,196,0 c,0,0,0,0,R,L,187,169,0/0,0/0,0,0,0/5,0/0,"$680,319","$8,623",Maxime Janvier,Juan Ignacio Batalla
+2019.07.29,Los Cabos,Outdoor,Hard,1086,514,30,36,203,193,0,4,0,0,R,R,190,176,0/0,0/0,0,0,2/3,177/215,"$408,536","$5,606,768",Danilo Petrovic,Sergiy Stakhovsky
+2019.07.29,Los Cabos,Outdoor,Hard,1325,54,31,28,193,180,0,0,0,1,R,R,190,170,2/0,11/19,0,0,29/21,46/55,"$1,483,890","$2,311,726",Marcelo Arevalo,Marcos Giron
+2019.07.29,Los Cabos,Outdoor,Hard,339,796,33,27,180,191,0,0,0,0,R,R,152,200,0/0,0/0,0,0,11/22,5/6,"$1,072,466","$97,027",Jason Jung,Gerardo Lopez Villasenor
+2019.07.29,Los Cabos,Outdoor,Hard,159,1274,29,28,196,193,0,0,0,0,R,R,190,200,4/8,0/0,0,0,62/58,5/11,"$1,898,609","$660,596",Egor Gerasimov,Dennis Novikov
+2019.07.29,Los Cabos,Outdoor,Hard,149,1108,28,33,180,188,0,0,0,0,L,L,175,185,2/7,0/0,0,0,36/46,5/22,"$2,247,470","$1,566,128",Dominik Koepfer,John-Patrick Smith
+2019.07.29,Los Cabos,Outdoor,Hard,77,691,24,28,180,183,1,0,0,0,R,R,159,171,12/16,0/0,0,0,49/48,3/7,"$1,985,610","$134,086",Soonwoo Kwon,Luis Patino
+2019.07.29,Los Cabos,Outdoor,Hard,339,1086,33,30,180,203,0,0,0,0,R,R,152,190,0/0,0/0,0,0,11/22,2/3,"$1,072,466","$408,536",Jason Jung,Danilo Petrovic
+2019.07.29,Los Cabos,Outdoor,Hard,289,159,25,29,196,196,0,0,0,0,R,R,187,190,0/0,4/8,0,0,0/5,62/58,"$680,319","$1,898,609",Maxime Janvier,Egor Gerasimov
+2019.07.29,Los Cabos,Outdoor,Hard,149,1325,28,27,180,,0,0,0,0,L,R,175,kg,2/7,0/0,0,0,36/46,0/0,"$2,247,470","$91,216",Dominik Koepfer,Jacob Grills
+2019.07.29,Los Cabos,Outdoor,Hard,77,1325,24,31,180,193,1,0,0,0,R,R,159,190,12/16,2/0,0,0,49/48,29/21,"$1,985,610","$1,483,890",Soonwoo Kwon,Marcelo Arevalo
+2019.07.29,Los Cabos,Outdoor,Hard,11,192,26,28,188,183,4,0,1,1,L,R,181,176,32/16,1/2,2,0,135/101,12/30,"$7,012,074","$1,607,003",Cameron Norrie,Gregoire Barrere
+2019.07.29,Los Cabos,Outdoor,Hard,77,202,24,31,180,180,1,0,1,0,R,L,159,154,12/16,1/1,0,0,49/48,32/50,"$1,985,610","$1,541,967",Soonwoo Kwon,Cedrik-Marcel Stebe
+2019.07.29,Los Cabos,Outdoor,Hard,73,289,26,25,193,196,1,0,1,0,R,R,185,187,15/9,0/0,1,0,44/56,0/5,"$2,465,682","$680,319",Thanasi Kokkinakis,Maxime Janvier
+2019.07.29,Los Cabos,Outdoor,Hard,295,84,32,33,188,183,0,1,1,0,L,R,176,174,0/1,7/14,0,0,10/27,117/144,"$938,291","$5,185,800",Prajnesh Gunneswaran,John Millman
+2019.07.29,Los Cabos,Outdoor,Hard,375,339,33,33,191,180,6,0,1,0,R,R,187,152,2/0,0/0,0,0,247/239,11/22,"$7,649,959","$1,072,466",Ernests Gulbis,Jason Jung
+2019.07.29,Los Cabos,Outdoor,Hard,809,1341,36,26,191,178,4,0,1,0,R,L,176,159,0/0,0/0,0,0,202/250,3/13,"$11,983,770","$131,915",Marcel Granollers,Lucas Gomez
+2019.07.29,Los Cabos,Outdoor,Hard,18,85,31,32,191,188,8,4,5,3,R,R,179,190,18/13,11/10,0,0,364/243,190/191,"$21,498,490","$7,628,987",Grigor Dimitrov,Steve Johnson
+2019.07.29,Los Cabos,Outdoor,Hard,102,343,29,30,191,188,1,1,1,0,R,R,185,195,8/11,0/3,0,0,62/101,47/75,"$2,803,802","$3,454,806",Taro Daniel,Tennys Sandgren
+2019.07.29,Los Cabos,Outdoor,Hard,213,185,34,30,183,175,1,3,2,3,R,R,159,150,1/7,4/4,0,0,172/229,124/136,"$6,720,550","$4,662,152",Mikhail Kukushkin,Damir Dzumhur
+2019.07.29,Los Cabos,Outdoor,Hard,109,0,32,38,175,180,1,4,1,0,R,R,152,176,5/7,0/0,0,0,91/125,288/257,"$4,436,940","$8,616,024",Radu Albot,Janko Tipsarevic
+2019.07.29,Los Cabos,Outdoor,Hard,170,70,28,26,180,185,1,5,1,1,R,R,154,187,4/5,16/16,0,0,35/50,97/86,"$2,101,811","$4,824,894",Juan Ignacio Londero,Cristian Garin
+2019.07.29,Los Cabos,Outdoor,Hard,13,149,24,28,196,180,3,0,2,1,R,L,190,175,29/11,2/7,2,0,160/134,36/46,"$8,193,645","$2,247,470",Taylor Fritz,Dominik Koepfer
+2019.07.29,Los Cabos,Outdoor,Hard,210,0,28,(),185,,5,0,0,0,R,U,185,kg,3/6,0/212,0,0,139/128,0/13739,"$8,105,164",,Lucas Pouille, Bye
+2019.07.29,Los Cabos,Outdoor,Hard,14,0,29,(),170,,4,0,0,0,R,U,141,kg,26/16,0/212,0,0,232/182,0/13739,"$12,477,487",,Diego Schwartzman, Bye
+2019.07.29,Los Cabos,Outdoor,Hard,204,0,32,(),183,,1,0,0,0,L,U,174,kg,0/0,0/212,0,0,119/138,0/13739,"$5,731,930",,Guido Pella, Bye
+2019.07.29,Los Cabos,Outdoor,Hard,61,0,35,(),178,,9,0,0,0,R,U,174,kg,13/13,0/212,0,0,399/352,0/13739,"$17,144,018",,Fabio Fognini, Bye
+2019.07.29,Los Cabos,Outdoor,Hard,77,170,24,28,180,180,1,1,1,0,R,R,159,154,12/16,4/5,0,0,49/48,35/50,"$1,985,610","$2,101,811",Soonwoo Kwon,Juan Ignacio Londero
+2019.07.29,Los Cabos,Outdoor,Hard,213,11,34,26,183,188,1,4,1,0,R,L,159,181,1/7,32/16,0,2,172/229,135/101,"$6,720,550","$7,012,074",Mikhail Kukushkin,Cameron Norrie
+2019.07.29,Los Cabos,Outdoor,Hard,109,102,32,29,175,191,1,1,1,0,R,R,152,185,5/7,8/11,0,0,91/125,62/101,"$4,436,940","$2,803,802",Radu Albot,Taro Daniel
+2019.07.29,Los Cabos,Outdoor,Hard,13,295,24,32,196,188,3,0,1,0,R,L,190,176,29/11,0/1,2,0,160/134,10/27,"$8,193,645","$938,291",Taylor Fritz,Prajnesh Gunneswaran
+2019.07.29,Los Cabos,Outdoor,Hard,73,210,26,28,193,185,1,5,1,0,R,R,185,185,15/9,3/6,1,0,44/56,139/128,"$2,465,682","$8,105,164",Thanasi Kokkinakis,Lucas Pouille
+2019.07.29,Los Cabos,Outdoor,Hard,14,375,29,33,170,191,4,6,1,0,R,R,141,187,26/16,2/0,0,0,232/182,247/239,"$12,477,487","$7,649,959",Diego Schwartzman,Ernests Gulbis
+2019.07.29,Los Cabos,Outdoor,Hard,204,18,32,31,183,191,1,8,2,1,L,R,174,179,0/0,18/13,0,0,119/138,364/243,"$5,731,930","$21,498,490",Guido Pella,Grigor Dimitrov
+2019.07.29,Los Cabos,Outdoor,Hard,61,809,35,36,178,191,9,4,4,4,R,R,174,176,13/13,0/0,0,0,399/352,202/250,"$17,144,018","$11,983,770",Fabio Fognini,Marcel Granollers
+2019.07.29,Los Cabos,Outdoor,Hard,109,73,32,26,175,193,1,1,1,0,R,R,152,185,5/7,15/9,0,1,91/125,44/56,"$4,436,940","$2,465,682",Radu Albot,Thanasi Kokkinakis
+2019.07.29,Los Cabos,Outdoor,Hard,14,213,29,34,170,183,4,1,2,1,R,R,141,159,26/16,1/7,0,0,232/182,172/229,"$12,477,487","$6,720,550",Diego Schwartzman,Mikhail Kukushkin
+2019.07.29,Los Cabos,Outdoor,Hard,204,77,32,24,183,180,1,1,3,0,L,R,174,159,0/0,12/16,0,0,119/138,49/48,"$5,731,930","$1,985,610",Guido Pella,Soonwoo Kwon
+2019.07.29,Los Cabos,Outdoor,Hard,13,61,24,35,196,178,3,9,1,1,R,R,190,174,29/11,13/13,2,0,160/134,399/352,"$8,193,645","$17,144,018",Taylor Fritz,Fabio Fognini
+2019.07.29,Los Cabos,Outdoor,Hard,13,109,24,32,196,175,3,1,2,0,R,R,190,152,29/11,5/7,2,0,160/134,91/125,"$8,193,645","$4,436,940",Taylor Fritz,Radu Albot
+2019.07.29,Los Cabos,Outdoor,Hard,14,204,29,32,170,183,4,1,2,2,R,L,141,174,26/16,0/0,0,0,232/182,119/138,"$12,477,487","$5,731,930",Diego Schwartzman,Guido Pella
+2019.07.29,Los Cabos,Outdoor,Hard,14,13,29,24,170,196,4,3,2,1,R,R,141,190,26/16,29/11,0,2,232/182,160/134,"$12,477,487","$8,193,645",Diego Schwartzman,Taylor Fritz
+2019.07.29,Kitzbuhel,Outdoor,Clay,152,0,30,30,193,180,0,0,0,0,R,L,190,201,3/4,0/0,0,0,27/32,0/0,"$1,326,118","$238,180",Yannick Hanfmann,Cheng-Peng Hsieh
+2019.07.29,Kitzbuhel,Outdoor,Clay,452,1876,23,22,193,,0,0,0,0,R,R,194,kg,0/2,0/0,0,0,2/8,0/0,"$533,834","$7,506",Elliot Benchetrit,Moritz Thiem
+2019.07.29,Kitzbuhel,Outdoor,Clay,0,234,(1,34,183,185,2,0,0,0,R,R,178,174,0/0,0/0,0,0,134/193,1/2,"$4,253,764","$333,444",Carlos Berlocq,Miljan Zekic
+2019.07.29,Kitzbuhel,Outdoor,Clay,693,1325,22,31,185,193,0,0,0,0,R,R,167,194,0/0,0/0,0,0,0/0,3/6,"$28,789","$386,886",Sandro Kopp,Viktor Galovic
+2019.07.29,Kitzbuhel,Outdoor,Clay,945,0,39,39,185,198,5,0,0,0,R,R,176,194,0/0,0/0,0,0,297/354,0/0,"$8,451,851","$882,720",Guillermo Garcia-Lopez,Igor Zelenay
+2019.07.29,Kitzbuhel,Outdoor,Clay,420,99,35,26,188,196,0,0,0,0,R,L,190,189,0/0,1/3,0,0,31/55,7/11,"$1,696,974","$521,289",Matthias Bachinger,Marc-Andrea Huesler
+2019.07.29,Kitzbuhel,Outdoor,Clay,309,449,26,35,183,185,0,2,0,0,R,R,172,189,0/0,1/1,0,0,0/3,230/266,"$342,106","$6,319,460",Lucas Miedler,Denis Istomin
+2019.07.29,Kitzbuhel,Outdoor,Clay,74,393,29,27,180,183,0,0,0,0,R,R,165,176,5/11,0/0,0,0,33/47,3/4,"$1,554,024","$465,904",Hugo Dellien,Pedja Krstin
+2019.07.29,Kitzbuhel,Outdoor,Clay,309,0,26,(1,183,183,0,2,0,0,R,R,172,178,0/0,0/0,0,0,0/3,134/193,"$342,106","$4,253,764",Lucas Miedler,Carlos Berlocq
+2019.07.29,Kitzbuhel,Outdoor,Clay,945,452,39,23,185,193,5,0,0,0,R,R,176,194,0/0,0/2,0,0,297/354,2/8,"$8,451,851","$533,834",Guillermo Garcia-Lopez,Elliot Benchetrit
+2019.07.29,Kitzbuhel,Outdoor,Clay,420,152,35,30,188,193,0,0,0,0,R,R,190,190,0/0,3/4,0,0,31/55,27/32,"$1,696,974","$1,326,118",Matthias Bachinger,Yannick Hanfmann
+2019.07.29,Kitzbuhel,Outdoor,Clay,74,693,29,22,180,185,0,0,0,0,R,R,165,167,5/11,0/0,0,0,33/47,0/0,"$1,554,024","$28,789",Hugo Dellien,Sandro Kopp
+2019.07.29,Kitzbuhel,Outdoor,Clay,227,309,26,26,191,183,0,0,1,0,R,R,179,172,0/1,0/0,0,0,10/13,0/3,"$867,559","$342,106",Sebastian Ofner,Lucas Miedler
+2019.07.29,Kitzbuhel,Outdoor,Clay,154,148,28,23,183,191,0,0,2,0,R,L,178,184,2/4,1/3,0,0,26/49,7/15,"$1,636,709","$615,156",Dennis Novak,Jurij Rodionov
+2019.07.29,Kitzbuhel,Outdoor,Clay,63,223,25,33,183,173,0,0,1,0,R,R,168,154,12/14,0/1,0,0,55/81,27/63,"$2,741,436","$2,429,482",Jaume Munar,Thomas Fabbiano
+2019.07.29,Kitzbuhel,Outdoor,Clay,186,945,29,39,183,185,0,5,2,0,R,R,181,176,0/2,0/0,0,0,22/44,297/354,"$1,478,946","$8,451,851",Jozef Kovalik,Guillermo Garcia-Lopez
+2019.07.29,Kitzbuhel,Outdoor,Clay,262,64,38,36,178,183,8,15,3,2,R,R,154,174,1/3,14/11,0,0,478/387,576/357,"$13,749,731","$19,538,187",Philipp Kohlschreiber,Richard Gasquet
+2019.07.29,Kitzbuhel,Outdoor,Clay,977,147,35,29,188,185,1,3,2,0,R,R,165,171,0/0,2/6,0,0,297/303,65/111,"$10,535,763","$4,438,907",Jeremy Chardy,Marco Cecchinato
+2019.07.29,Kitzbuhel,Outdoor,Clay,88,74,29,29,183,180,1,0,1,1,R,R,170,165,5/13,5/11,0,0,68/91,33/47,"$3,099,905","$1,554,024",Roberto Carballes Baena,Hugo Dellien
+2019.07.29,Kitzbuhel,Outdoor,Clay,420,0,35,33,188,191,0,6,2,0,R,L,190,187,0/0,0/0,0,0,31/55,149/153,"$1,696,974","$5,524,410",Matthias Bachinger,Martin Klizan
+2019.07.29,Kitzbuhel,Outdoor,Clay,5,23,23,31,183,188,8,6,2,2,R,R,170,172,31/13,21/16,2,0,150/83,251/200,"$7,726,248","$13,678,168",Casper Ruud,Pablo Carreno Busta
+2019.07.29,Kitzbuhel,Outdoor,Clay,60,125,27,31,191,193,2,2,2,0,R,L,168,198,17/19,9/19,0,0,84/87,162/196,"$3,990,596","$5,904,021",Lorenzo Sonego,Federico Delbonis
+2019.07.29,Kitzbuhel,Outdoor,Clay,94,0,36,35,180,191,4,2,3,3,R,R,176,176,7/11,0/0,0,0,161/236,179/197,"$6,931,384","$7,035,294",Pablo Andujar,Leonardo Mayer
+2019.07.29,Kitzbuhel,Outdoor,Clay,40,98,34,30,188,188,4,1,1,3,L,R,168,181,15/16,13/15,1,0,256/285,122/120,"$9,448,129","$5,266,060",Albert Ramos-Vinolas,Marton Fucsovics
+2019.07.29,Kitzbuhel,Outdoor,Clay,225,0,36,(),180,,6,0,0,0,R,U,173,kg,4/7,0/212,0,0,242/224,0/13739,"$9,643,411",,Pablo Cuevas, Bye
+2019.07.29,Kitzbuhel,Outdoor,Clay,126,0,38,(),188,,7,0,0,0,L,U,198,kg,4/7,0/212,0,0,558/438,0/13739,"$18,136,660",,Fernando Verdasco, Bye
+2019.07.29,Kitzbuhel,Outdoor,Clay,75,0,32,(),183,,1,0,0,0,R,U,183,kg,8/18,0/212,0,0,160/212,0/13739,"$7,697,271",,Dusan Lajovic, Bye
+2019.07.29,Kitzbuhel,Outdoor,Clay,274,0,28,(),185,,17,0,0,0,R,U,174,kg,2/7,0/212,0,0,311/173,0/13739,"$29,015,317",,Dominic Thiem, Bye
+2019.07.29,Kitzbuhel,Outdoor,Clay,5,420,23,35,183,188,8,0,1,0,R,R,170,190,31/13,0/0,2,0,150/83,31/55,"$7,726,248","$1,696,974",Casper Ruud,Matthias Bachinger
+2019.07.29,Kitzbuhel,Outdoor,Clay,40,63,34,25,188,183,4,0,3,0,L,R,168,168,15/16,12/14,1,0,256/285,55/81,"$9,448,129","$2,741,436",Albert Ramos-Vinolas,Jaume Munar
+2019.07.29,Kitzbuhel,Outdoor,Clay,94,262,36,38,180,178,4,8,4,2,R,R,176,154,7/11,1/3,0,0,161/236,478/387,"$6,931,384","$13,749,731",Pablo Andujar,Philipp Kohlschreiber
+2019.07.29,Kitzbuhel,Outdoor,Clay,60,88,27,29,191,183,2,1,2,1,R,R,168,170,17/19,5/13,0,0,84/87,68/91,"$3,990,596","$3,099,905",Lorenzo Sonego,Roberto Carballes Baena
+2019.07.29,Kitzbuhel,Outdoor,Clay,225,154,36,28,180,183,6,0,1,1,R,R,173,178,4/7,2/4,0,0,242/224,26/49,"$9,643,411","$1,636,709",Pablo Cuevas,Dennis Novak
+2019.07.29,Kitzbuhel,Outdoor,Clay,126,186,38,29,188,183,7,0,1,0,L,R,198,181,4/7,0/2,0,0,558/438,22/44,"$18,136,660","$1,478,946",Fernando Verdasco,Jozef Kovalik
+2019.07.29,Kitzbuhel,Outdoor,Clay,977,75,35,32,188,183,1,1,3,3,R,R,165,183,0/0,8/18,0,0,297/303,160/212,"$10,535,763","$7,697,271",Jeremy Chardy,Dusan Lajovic
+2019.07.29,Kitzbuhel,Outdoor,Clay,274,227,28,26,185,191,17,0,1,0,R,R,174,179,2/7,0/1,0,0,311/173,10/13,"$29,015,317","$867,559",Dominic Thiem,Sebastian Ofner
+2019.07.29,Kitzbuhel,Outdoor,Clay,40,977,34,35,188,188,4,1,3,2,L,R,168,165,15/16,0/0,1,0,256/285,297/303,"$9,448,129","$10,535,763",Albert Ramos-Vinolas,Jeremy Chardy
+2019.07.29,Kitzbuhel,Outdoor,Clay,5,225,23,36,183,180,8,6,2,0,R,R,170,173,31/13,4/7,2,0,150/83,242/224,"$7,726,248","$9,643,411",Casper Ruud,Pablo Cuevas
+2019.07.29,Kitzbuhel,Outdoor,Clay,60,126,27,38,191,188,2,7,2,1,R,L,168,198,17/19,4/7,0,0,84/87,558/438,"$3,990,596","$18,136,660",Lorenzo Sonego,Fernando Verdasco
+2019.07.29,Kitzbuhel,Outdoor,Clay,274,94,28,36,185,180,17,4,3,1,R,R,174,176,2/7,7/11,0,0,311/173,161/236,"$29,015,317","$6,931,384",Dominic Thiem,Pablo Andujar
+2019.07.29,Kitzbuhel,Outdoor,Clay,40,5,34,23,188,183,4,8,3,2,L,R,168,170,15/16,31/13,1,2,256/285,150/83,"$9,448,129","$7,726,248",Albert Ramos-Vinolas,Casper Ruud
+2019.07.29,Kitzbuhel,Outdoor,Clay,274,60,28,27,185,191,17,2,1,1,R,R,174,168,2/7,17/19,0,0,311/173,84/87,"$29,015,317","$3,990,596",Dominic Thiem,Lorenzo Sonego
+2019.07.29,Kitzbuhel,Outdoor,Clay,274,40,28,34,185,188,17,4,2,1,R,L,174,168,2/7,15/16,0,1,311/173,256/285,"$29,015,317","$9,448,129",Dominic Thiem,Albert Ramos-Vinolas
+2019.08.05,Montreal,Outdoor,Hard,388,8,25,24,188,188,0,11,0,0,R,R,172,165,0/0,31/10,0,3,5/14,216/122,"$1,236,373","$12,102,889",Marc Polmans,Andrey Rublev
+2019.08.05,Montreal,Outdoor,Hard,518,375,29,33,196,191,4,6,1,0,R,R,201,187,0/0,2/0,0,0,186/182,247/239,"$6,291,443","$7,649,959",Bernard Tomic,Ernests Gulbis
+2019.08.05,Montreal,Outdoor,Hard,702,1450,31,36,183,193,0,3,0,0,L,R,165,189,0/0,0/0,0,0,13/41,294/273,"$1,666,323","$9,265,938",Bradley Klahn,Viktor Troicki
+2019.08.05,Montreal,Outdoor,Hard,34,82,25,22,185,196,1,1,0,1,R,R,180,172,23/17,3/12,0,0,74/68,40/62,"$3,092,308","$2,389,960",Tommy Paul,Alexei Popyrin
+2019.08.05,Montreal,Outdoor,Hard,77,253,24,35,180,191,1,2,0,0,R,R,159,170,12/16,1/1,0,0,49/48,233/271,"$1,985,610","$7,781,785",Soonwoo Kwon,Robin Haase
+2019.08.05,Montreal,Outdoor,Hard,53,46,28,25,191,193,1,0,1,0,R,R,189,176,12/14,7/14,0,0,70/64,69/69,"$2,240,209","$3,114,801",Ilya Ivashka,Lloyd Harris
+2019.08.05,Montreal,Outdoor,Hard,809,326,36,31,191,191,4,0,0,2,R,R,176,195,0/0,0/2,0,0,202/250,66/91,"$11,983,770","$2,676,041",Marcel Granollers,Marius Copil
+2019.08.05,Montreal,Outdoor,Hard,560,301,43,32,211,185,8,0,1,0,R,R,230,165,0/0,0/0,0,0,371/346,55/117,"$10,160,232","$3,321,210",Ivo Karlovic,Evgeny Donskoy
+2019.08.05,Montreal,Outdoor,Hard,107,280,32,23,175,180,0,0,0,0,R,R,170,175,7/7,0/1,0,0,128/148,0/1,"$4,631,891","$71,068",Ricardas Berankis,Alexis Galarneau
+2019.08.05,Montreal,Outdoor,Hard,97,321,26,38,170,185,1,0,0,0,L,R,141,182,5/10,2/4,0,0,80/103,104/144,"$3,805,379","$4,016,044",Yoshihito Nishioka,Malek Jaziri
+2019.08.05,Montreal,Outdoor,Hard,379,39,31,25,175,196,0,1,0,0,R,R,160,180,0/3,22/18,0,1,2/12,92/88,"$936,926","$3,901,007",Steven Diez,Alexander Bublik
+2019.08.05,Montreal,Outdoor,Hard,84,434,33,28,183,180,1,0,0,0,R,R,174,167,7/14,0/0,0,0,117/144,2/6,"$5,185,800","$335,913",John Millman,Filip Peliwo
+2019.08.05,Montreal,Outdoor,Hard,246,192,40,28,188,183,7,0,0,0,L,R,194,176,0/9,1/2,0,0,503/484,12/30,"$18,585,117","$1,607,003",Feliciano Lopez,Gregoire Barrere
+2019.08.05,Montreal,Outdoor,Hard,36,552,32,27,175,188,1,0,0,0,R,R,165,179,13/16,0/0,0,0,111/121,0/6,"$5,429,957","$448,763",Daniel Evans,Thai-Son Kwiatkowski
+2019.08.05,Montreal,Outdoor,Hard,518,388,29,25,196,188,4,0,0,0,R,R,201,172,0/0,0/0,0,0,186/182,5/14,"$6,291,443","$1,236,373",Bernard Tomic,Marc Polmans
+2019.08.05,Montreal,Outdoor,Hard,702,379,31,31,183,175,0,0,0,0,L,R,165,160,0/0,0/3,0,0,13/41,2/12,"$1,666,323","$936,926",Bradley Klahn,Steven Diez
+2019.08.05,Montreal,Outdoor,Hard,34,107,25,32,185,175,1,0,0,1,R,R,180,170,23/17,7/7,0,0,74/68,128/148,"$3,092,308","$4,631,891",Tommy Paul,Ricardas Berankis
+2019.08.05,Montreal,Outdoor,Hard,53,97,28,26,191,170,1,1,0,0,R,L,189,141,12/14,5/10,0,0,70/64,80/103,"$2,240,209","$3,805,379",Ilya Ivashka,Yoshihito Nishioka
+2019.08.05,Montreal,Outdoor,Hard,77,84,24,33,180,183,1,1,0,0,R,R,159,174,12/16,7/14,0,0,49/48,117/144,"$1,985,610","$5,185,800",Soonwoo Kwon,John Millman
+2019.08.05,Montreal,Outdoor,Hard,246,560,40,43,188,211,7,8,4,7,L,R,194,230,0/9,0/0,0,0,503/484,371/346,"$18,585,117","$10,160,232",Feliciano Lopez,Ivo Karlovic
+2019.08.05,Montreal,Outdoor,Hard,36,809,32,36,175,191,1,4,1,0,R,R,165,176,13/16,0/0,0,0,111/121,202/250,"$5,429,957","$11,983,770",Daniel Evans,Marcel Granollers
+2019.08.05,Montreal,Outdoor,Hard,290,18,37,31,183,191,16,8,7,5,R,R,179,179,3/6,18/13,0,0,536/315,364/243,"$35,058,754","$21,498,490",Stan Wawrinka,Grigor Dimitrov
+2019.08.05,Montreal,Outdoor,Hard,122,0,32,(1,193,188,0,18,2,4,R,R,202,205,2/11,2/6,0,0,166/202,467/237,"$7,597,772","$22,458,018",Jan-Lennard Struff,Jo-Wilfried Tsonga
+2019.08.05,Montreal,Outdoor,Hard,21,215,23,31,185,188,1,0,1,1,L,R,165,165,17/15,2/3,0,0,151/125,97/123,"$9,303,108","$8,972,885",Denis Shapovalov,Pierre-Hugues Herbert
+2019.08.05,Montreal,Outdoor,Hard,14,147,29,29,170,185,4,3,3,1,R,R,141,171,26/16,2/6,0,0,232/182,65/111,"$12,477,487","$4,438,907",Diego Schwartzman,Marco Cecchinato
+2019.08.05,Montreal,Outdoor,Hard,34,374,25,27,185,193,1,0,1,0,R,R,180,186,23/17,0/1,0,0,74/68,4/19,"$3,092,308","$874,128",Tommy Paul,Brayden Schnur
+2019.08.05,Montreal,Outdoor,Hard,11,98,26,30,188,188,4,1,4,0,L,R,181,181,32/16,13/15,2,0,135/101,122/120,"$7,012,074","$5,266,060",Cameron Norrie,Marton Fucsovics
+2019.08.05,Montreal,Outdoor,Hard,84,246,33,40,183,188,1,7,2,0,R,L,174,194,7/14,0/9,0,0,117/144,503/484,"$5,185,800","$18,585,117",John Millman,Feliciano Lopez
+2019.08.05,Montreal,Outdoor,Hard,80,213,34,34,180,183,1,1,4,0,L,R,174,159,15/16,1/7,0,0,232/278,172/229,"$9,175,704","$6,720,550",Adrian Mannarino,Mikhail Kukushkin
+2019.08.05,Montreal,Outdoor,Hard,53,77,28,24,191,180,1,1,2,2,R,R,189,159,12/14,12/16,0,0,70/64,49/48,"$2,240,209","$1,985,610",Ilya Ivashka,Soonwoo Kwon
+2019.08.05,Montreal,Outdoor,Hard,12,13,25,24,196,196,5,3,1,1,R,R,179,190,28/12,29/11,1,2,112/90,160/134,"$7,367,623","$8,193,645",Hubert Hurkacz,Taylor Fritz
+2019.08.05,Montreal,Outdoor,Hard,64,92,36,33,183,196,15,3,8,2,R,R,174,176,14/11,3/17,0,0,576/357,240/286,"$19,538,187","$9,836,848",Richard Gasquet,Benoit Paire
+2019.08.05,Montreal,Outdoor,Hard,70,69,26,27,185,188,5,2,1,0,R,R,187,181,16/16,14/16,0,0,97/86,89/98,"$4,824,894","$3,698,136",Cristian Garin,Laslo Djere
+2019.08.05,Montreal,Outdoor,Hard,36,24,32,23,175,183,1,5,2,0,R,R,165,152,13/16,28/16,0,0,111/121,137/99,"$5,429,957","$7,228,398",Daniel Evans,Alex de Minaur
+2019.08.05,Montreal,Outdoor,Hard,497,45,27,27,188,193,2,6,1,1,R,R,183,187,0/0,21/7,0,0,117/115,189/110,"$5,765,703","$11,194,480",Kyle Edmund,Nick Kyrgios
+2019.08.05,Montreal,Outdoor,Hard,9,139,21,32,193,193,1,0,3,1,R,R,194,194,30/17,2/1,1,0,130/93,131/169,"$7,443,072","$6,845,063",Felix Auger-Aliassime,Vasek Pospisil
+2019.08.05,Montreal,Outdoor,Hard,109,175,32,37,175,183,1,14,1,2,R,R,152,154,5/7,4/6,0,0,91/125,501/392,"$4,436,940","$15,918,767",Radu Albot,Gilles Simon
+2019.08.05,Montreal,Outdoor,Hard,576,210,31,28,196,185,8,5,4,1,R,R,216,185,0/0,3/6,0,0,372/175,139/128,"$20,218,982","$8,105,164",Milos Raonic,Lucas Pouille
+2019.08.05,Montreal,Outdoor,Hard,20,505,35,34,193,183,11,0,1,0,R,R,187,176,12/6,0/0,1,0,523/301,19/45,"$20,890,958","$1,729,767",Gael Monfils,Peter Polansky
+2019.08.05,Montreal,Outdoor,Hard,204,67,32,31,183,180,1,6,2,4,L,R,174,154,0/0,22/16,0,1,119/138,314/213,"$5,731,930","$16,255,861",Guido Pella,David Goffin
+2019.08.05,Montreal,Outdoor,Hard,16,702,33,31,198,183,20,0,1,0,R,L,196,165,21/13,0/0,0,0,570/319,13/41,"$30,588,972","$1,666,323",Marin Cilic,Bradley Klahn
+2019.08.05,Montreal,Outdoor,Hard,28,75,30,32,185,183,5,1,4,1,R,R,174,183,12/21,8/18,0,0,143/159,160/212,"$8,371,034","$7,697,271",Nikoloz Basilashvili,Dusan Lajovic
+2019.08.05,Montreal,Outdoor,Hard,22,95,37,28,208,183,16,0,3,1,R,R,238,181,17/14,8/14,0,0,474/300,83/109,"$21,433,777","$4,027,008",John Isner,Jordan Thompson
+2019.08.05,Montreal,Outdoor,Hard,183,93,25,33,188,188,2,1,1,0,R,R,187,183,2/6,2/10,0,0,170/149,74/95,"$8,749,826","$3,598,235",Borna Coric,Peter Gojowczyk
+2019.08.05,Montreal,Outdoor,Hard,19,518,34,29,183,196,10,4,2,1,R,R,165,201,23/10,0/0,1,0,359/215,186/182,"$16,083,239","$6,291,443",Roberto Bautista Agut,Bernard Tomic
+2019.08.05,Montreal,Outdoor,Hard,1,0,26,(),198,,13,0,0,0,R,U,182,kg,27/10,0/212,0,0,249/109,0/13739,"$24,151,740",,Daniil Medvedev, Bye
+2019.08.05,Montreal,Outdoor,Hard,61,0,35,(),178,,9,0,0,0,R,U,174,kg,13/13,0/212,0,0,399/352,0/13739,"$17,144,018",,Fabio Fognini, Bye
+2019.08.05,Montreal,Outdoor,Hard,26,0,26,(),198,,4,0,0,0,R,U,192,kg,22/16,0/212,0,0,196/152,0/13739,"$11,161,554",,Karen Khachanov, Bye
+2019.08.05,Montreal,Outdoor,Hard,158,0,32,(),178,,12,0,0,0,R,U,161,kg,0/0,0/212,0,0,431/211,0/13739,"$25,065,492",,Kei Nishikori, Bye
+2019.08.05,Montreal,Outdoor,Hard,4,0,23,(),193,,9,0,0,0,R,U,198,kg,42/14,0/212,2,0,230/109,0/13739,"$19,838,180",,Stefanos Tsitsipas, Bye
+2019.08.05,Montreal,Outdoor,Hard,2,0,25,(),198,,19,0,0,0,R,U,198,kg,29/10,0/212,0,0,339/150,0/13739,"$32,407,055",,Alexander Zverev, Bye
+2019.08.05,Montreal,Outdoor,Hard,274,0,28,(),185,,17,0,0,0,R,U,174,kg,2/7,0/212,0,0,311/173,0/13739,"$29,015,317",,Dominic Thiem, Bye
+2019.08.05,Montreal,Outdoor,Hard,3,0,36,(),185,,92,0,0,0,L,U,187,kg,35/3,0/212,4,0,1063/212,0/13739,"$131,338,131",,Rafael Nadal, Bye
+2019.08.05,Montreal,Outdoor,Hard,204,109,32,32,183,175,1,1,1,0,L,R,174,152,0/0,5/7,0,0,119/138,91/125,"$5,731,930","$4,436,940",Guido Pella,Radu Albot
+2019.08.05,Montreal,Outdoor,Hard,9,576,21,31,193,196,1,8,1,1,R,R,194,216,30/17,0/0,1,0,130/93,372/175,"$7,443,072","$20,218,982",Felix Auger-Aliassime,Milos Raonic
+2019.08.05,Montreal,Outdoor,Hard,20,53,35,28,193,191,11,1,1,1,R,R,187,189,12/6,12/14,1,0,523/301,70/64,"$20,890,958","$2,240,209",Gael Monfils,Ilya Ivashka
+2019.08.05,Montreal,Outdoor,Hard,16,84,33,33,198,183,20,1,2,0,R,R,196,174,21/13,7/14,0,0,570/319,117/144,"$30,588,972","$5,185,800",Marin Cilic,John Millman
+2019.08.05,Montreal,Outdoor,Hard,28,122,30,32,185,193,5,0,3,2,R,R,174,202,12/21,2/11,0,0,143/159,166/202,"$8,371,034","$7,597,772",Nikoloz Basilashvili,Jan-Lennard Struff
+2019.08.05,Montreal,Outdoor,Hard,70,22,26,37,185,208,5,16,2,2,R,R,187,238,16/16,17/14,0,0,97/86,474/300,"$4,824,894","$21,433,777",Cristian Garin,John Isner
+2019.08.05,Montreal,Outdoor,Hard,80,183,34,25,180,188,1,2,4,0,L,R,174,187,15/16,2/6,0,0,232/278,170/149,"$9,175,704","$8,749,826",Adrian Mannarino,Borna Coric
+2019.08.05,Montreal,Outdoor,Hard,19,14,34,29,183,170,10,4,2,1,R,R,165,141,23/10,26/16,1,0,359/215,232/182,"$16,083,239","$12,477,487",Roberto Bautista Agut,Diego Schwartzman
+2019.08.05,Montreal,Outdoor,Hard,1,497,26,27,198,188,13,2,2,2,R,R,182,183,27/10,0/0,0,0,249/109,117/115,"$24,151,740","$5,765,703",Daniil Medvedev,Kyle Edmund
+2019.08.05,Montreal,Outdoor,Hard,61,34,35,25,178,185,9,1,1,0,R,R,174,180,13/13,23/17,0,0,399/352,74/68,"$17,144,018","$3,092,308",Fabio Fognini,Tommy Paul
+2019.08.05,Montreal,Outdoor,Hard,26,290,26,37,198,183,4,16,2,2,R,R,192,179,22/16,3/6,0,0,196/152,536/315,"$11,161,554","$35,058,754",Karen Khachanov,Stan Wawrinka
+2019.08.05,Montreal,Outdoor,Hard,64,158,36,32,183,178,15,12,8,3,R,R,174,161,14/11,0/0,0,0,576/357,431/211,"$19,538,187","$25,065,492",Richard Gasquet,Kei Nishikori
+2019.08.05,Montreal,Outdoor,Hard,12,4,25,23,196,193,5,9,2,6,R,R,179,198,28/12,42/14,1,2,112/90,230/109,"$7,367,623","$19,838,180",Hubert Hurkacz,Stefanos Tsitsipas
+2019.08.05,Montreal,Outdoor,Hard,2,11,25,26,198,188,19,4,3,0,R,L,198,181,29/10,32/16,0,2,339/150,135/101,"$32,407,055","$7,012,074",Alexander Zverev,Cameron Norrie
+2019.08.05,Montreal,Outdoor,Hard,274,21,28,23,185,185,17,1,3,0,R,L,174,165,2/7,17/15,0,0,311/173,151/125,"$29,015,317","$9,303,108",Dominic Thiem,Denis Shapovalov
+2019.08.05,Montreal,Outdoor,Hard,3,36,36,32,185,175,92,1,3,0,L,R,187,165,35/3,13/16,4,0,1063/212,111/121,"$131,338,131","$5,429,957",Rafael Nadal,Daniel Evans
+2019.08.05,Montreal,Outdoor,Hard,20,12,35,25,193,196,11,5,1,1,R,R,187,179,12/6,28/12,1,1,523/301,112/90,"$20,890,958","$7,367,623",Gael Monfils,Hubert Hurkacz
+2019.08.05,Montreal,Outdoor,Hard,19,64,34,36,183,183,10,15,7,2,R,R,165,174,23/10,14/11,1,0,359/215,576/357,"$16,083,239","$19,538,187",Roberto Bautista Agut,Richard Gasquet
+2019.08.05,Montreal,Outdoor,Hard,1,70,26,26,198,185,13,5,2,1,R,R,182,187,27/10,16/16,0,0,249/109,97/86,"$24,151,740","$4,824,894",Daniil Medvedev,Cristian Garin
+2019.08.05,Montreal,Outdoor,Hard,61,80,35,34,178,180,9,1,3,2,R,L,174,174,13/13,15/16,0,0,399/352,232/278,"$17,144,018","$9,175,704",Fabio Fognini,Adrian Mannarino
+2019.08.05,Montreal,Outdoor,Hard,26,9,26,21,198,193,4,1,1,2,R,R,192,194,22/16,30/17,0,1,196/152,130/93,"$11,161,554","$7,443,072",Karen Khachanov,Felix Auger-Aliassime
+2019.08.05,Montreal,Outdoor,Hard,2,28,25,30,198,185,19,5,3,1,R,R,198,174,29/10,12/21,0,0,339/150,143/159,"$32,407,055","$8,371,034",Alexander Zverev,Nikoloz Basilashvili
+2019.08.05,Montreal,Outdoor,Hard,274,16,28,33,185,198,17,20,4,0,R,R,174,196,2/7,21/13,0,0,311/173,570/319,"$29,015,317","$30,588,972",Dominic Thiem,Marin Cilic
+2019.08.05,Montreal,Outdoor,Hard,3,204,36,32,185,183,92,1,4,0,L,L,187,174,35/3,0/0,4,0,1063/212,119/138,"$131,338,131","$5,731,930",Rafael Nadal,Guido Pella
+2019.08.05,Montreal,Outdoor,Hard,20,19,35,34,193,183,11,10,4,1,R,R,187,165,12/6,23/10,1,1,523/301,359/215,"$20,890,958","$16,083,239",Gael Monfils,Roberto Bautista Agut
+2019.08.05,Montreal,Outdoor,Hard,26,2,26,25,198,198,4,19,2,3,R,R,192,198,22/16,29/10,0,0,196/152,339/150,"$11,161,554","$32,407,055",Karen Khachanov,Alexander Zverev
+2019.08.05,Montreal,Outdoor,Hard,1,274,26,28,198,185,13,17,2,3,R,R,182,174,27/10,2/7,0,0,249/109,311/173,"$24,151,740","$29,015,317",Daniil Medvedev,Dominic Thiem
+2019.08.05,Montreal,Outdoor,Hard,3,61,36,35,185,178,92,9,1,4,L,R,187,174,35/3,13/13,4,0,1063/212,399/352,"$131,338,131","$17,144,018",Rafael Nadal,Fabio Fognini
+2019.08.05,Montreal,Outdoor,Hard,1,26,26,26,198,198,13,4,2,1,R,R,182,192,27/10,22/16,0,0,249/109,196/152,"$24,151,740","$11,161,554",Daniil Medvedev,Karen Khachanov
+2019.08.05,Montreal,Outdoor,Hard,3,20,36,35,185,193,92,11,1,2,L,R,187,187,35/3,12/6,4,1,1063/212,523/301,"$131,338,131","$20,890,958",Rafael Nadal,Gael Monfils
+2019.08.05,Montreal,Outdoor,Hard,3,1,36,26,185,198,92,13,5,1,L,R,187,182,35/3,27/10,4,0,1063/212,249/109,"$131,338,131","$24,151,740",Rafael Nadal,Daniil Medvedev
+2019.08.11,Cincinnati,Outdoor,Hard,560,343,43,30,211,188,8,1,0,1,R,R,230,195,0/0,0/3,0,0,371/346,47/75,"$10,160,232","$3,454,806",Ivo Karlovic,Tennys Sandgren
+2019.08.11,Cincinnati,Outdoor,Hard,105,39,23,25,183,196,0,1,0,0,R,R,170,180,4/4,22/18,0,1,6/10,92/88,"$596,925","$3,901,007",J.J. Wolf,Alexander Bublik
+2019.08.11,Cincinnati,Outdoor,Hard,8,518,24,29,188,196,11,4,0,0,R,R,165,201,31/10,0/0,3,0,216/122,186/182,"$12,102,889","$6,291,443",Andrey Rublev,Bernard Tomic
+2019.08.11,Cincinnati,Outdoor,Hard,246,46,40,25,188,193,7,0,0,1,L,R,194,176,0/9,7/14,0,0,503/484,69/69,"$18,585,117","$3,114,801",Feliciano Lopez,Lloyd Harris
+2019.08.11,Cincinnati,Outdoor,Hard,97,84,26,33,170,183,1,1,1,1,L,R,141,174,5/10,7/14,0,0,80/103,117/144,"$3,805,379","$5,185,800",Yoshihito Nishioka,John Millman
+2019.08.11,Cincinnati,Outdoor,Hard,125,584,31,23,193,183,2,0,0,0,L,R,198,180,9/19,0/0,0,0,162/196,0/0,"$5,904,021","$48,235",Federico Delbonis,John McNally
+2019.08.11,Cincinnati,Outdoor,Hard,83,11,29,26,180,188,0,4,0,0,R,L,175,181,4/11,32/16,0,2,65/119,135/101,"$3,999,705","$7,012,074",Denis Kudla,Cameron Norrie
+2019.08.11,Cincinnati,Outdoor,Hard,31,460,22,26,183,183,1,0,0,0,R,R,165,168,27/15,0/0,0,0,82/77,6/13,"$3,702,937","$1,063,485",Miomir Kecmanovic,Antoine Hoang
+2019.08.11,Cincinnati,Outdoor,Hard,5,702,23,31,183,183,8,0,0,0,R,L,170,165,31/13,0/0,2,0,150/83,13/41,"$7,726,248","$1,666,323",Casper Ruud,Bradley Klahn
+2019.08.11,Cincinnati,Outdoor,Hard,82,98,22,30,196,188,1,1,0,0,R,R,172,181,3/12,13/15,0,0,40/62,122/120,"$2,389,960","$5,266,060",Alexei Popyrin,Marton Fucsovics
+2019.08.11,Cincinnati,Outdoor,Hard,262,36,38,32,178,175,8,1,0,2,R,R,154,165,1/3,13/16,0,0,478/387,111/121,"$13,749,731","$5,429,957",Philipp Kohlschreiber,Daniel Evans
+2019.08.11,Cincinnati,Outdoor,Hard,23,326,31,31,188,191,6,0,1,0,R,R,172,195,21/16,0/2,0,0,251/200,66/91,"$13,678,168","$2,676,041",Pablo Carreno Busta,Marius Copil
+2019.08.11,Cincinnati,Outdoor,Hard,58,57,33,22,185,196,4,1,0,0,R,R,163,175,12/12,17/13,1,0,212/250,51/35,"$7,851,170","$2,249,982",Joao Sousa,Sebastian Korda
+2019.08.11,Cincinnati,Outdoor,Hard,213,104,34,29,183,191,1,4,0,0,R,R,159,195,1/7,6/7,0,0,172/229,178/146,"$6,720,550","$11,630,641",Mikhail Kukushkin,Jack Sock
+2019.08.11,Cincinnati,Outdoor,Hard,83,82,29,22,180,196,0,1,0,1,R,R,175,172,4/11,3/12,0,0,65/119,40/62,"$3,999,705","$2,389,960",Denis Kudla,Alexei Popyrin
+2019.08.11,Cincinnati,Outdoor,Hard,560,262,43,38,211,178,8,8,2,4,R,R,230,154,0/0,1/3,0,0,371/346,478/387,"$10,160,232","$13,749,731",Ivo Karlovic,Philipp Kohlschreiber
+2019.08.11,Cincinnati,Outdoor,Hard,31,246,22,40,183,188,1,7,1,0,R,L,165,194,27/15,0/9,0,0,82/77,503/484,"$3,702,937","$18,585,117",Miomir Kecmanovic,Feliciano Lopez
+2019.08.11,Cincinnati,Outdoor,Hard,5,125,23,31,183,193,8,2,2,1,R,L,170,198,31/13,9/19,2,0,150/83,162/196,"$7,726,248","$5,904,021",Casper Ruud,Federico Delbonis
+2019.08.11,Cincinnati,Outdoor,Hard,23,105,31,23,188,183,6,0,0,0,R,R,172,170,21/16,4/4,0,0,251/200,6/10,"$13,678,168","$596,925",Pablo Carreno Busta,J.J. Wolf
+2019.08.11,Cincinnati,Outdoor,Hard,97,58,26,33,170,185,1,4,1,0,L,R,141,163,5/10,12/12,0,1,80/103,212/250,"$3,805,379","$7,851,170",Yoshihito Nishioka,Joao Sousa
+2019.08.11,Cincinnati,Outdoor,Hard,8,213,24,34,188,183,11,1,2,3,R,R,165,159,31/10,1/7,3,0,216/122,172/229,"$12,102,889","$6,720,550",Andrey Rublev,Mikhail Kukushkin
+2019.08.11,Cincinnati,Outdoor,Hard,290,18,37,31,183,191,16,8,7,5,R,R,179,179,3/6,18/13,0,0,536/315,364/243,"$35,058,754","$21,498,490",Stan Wawrinka,Grigor Dimitrov
+2019.08.11,Cincinnati,Outdoor,Hard,29,20,24,35,188,193,1,11,1,1,R,R,190,187,15/14,12/6,0,1,117/133,523/301,"$5,970,770","$20,890,958",Frances Tiafoe,Gael Monfils
+2019.08.11,Cincinnati,Outdoor,Hard,122,560,32,43,193,211,0,8,2,0,R,R,202,230,2/11,0/0,0,0,166/202,371/346,"$7,597,772","$10,160,232",Jan-Lennard Struff,Ivo Karlovic
+2019.08.11,Cincinnati,Outdoor,Hard,21,58,23,33,185,185,1,4,1,1,L,R,165,163,17/15,12/12,0,1,151/125,212/250,"$9,303,108","$7,851,170",Denis Shapovalov,Joao Sousa
+2019.08.11,Cincinnati,Outdoor,Hard,14,69,29,27,170,188,4,2,2,1,R,R,141,181,26/16,14/16,0,0,232/182,89/98,"$12,477,487","$3,698,136",Diego Schwartzman,Laslo Djere
+2019.08.11,Cincinnati,Outdoor,Hard,282,215,34,31,198,188,10,0,2,1,R,R,209,165,4/9,2/3,0,0,385/329,97/123,"$13,588,615","$8,972,885",Sam Querrey,Pierre-Hugues Herbert
+2019.08.11,Cincinnati,Outdoor,Hard,210,83,28,29,185,180,5,0,2,1,R,R,185,175,3/6,4/11,0,0,139/128,65/119,"$8,105,164","$3,999,705",Lucas Pouille,Denis Kudla
+2019.08.11,Cincinnati,Outdoor,Hard,204,5,32,23,183,183,1,8,2,0,L,R,174,170,0/0,31/13,0,2,119/138,150/83,"$5,731,930","$7,726,248",Guido Pella,Casper Ruud
+2019.08.11,Cincinnati,Outdoor,Hard,92,126,33,38,196,188,3,7,1,0,R,L,176,198,3/17,4/7,0,0,240/286,558/438,"$9,836,848","$18,136,660",Benoit Paire,Fernando Verdasco
+2019.08.11,Cincinnati,Outdoor,Hard,97,95,26,28,170,183,1,0,3,0,L,R,141,181,5/10,8/14,0,0,80/103,83/109,"$3,805,379","$4,027,008",Yoshihito Nishioka,Jordan Thompson
+2019.08.11,Cincinnati,Outdoor,Hard,80,70,34,26,180,185,1,5,2,0,L,R,174,187,15/16,16/16,0,0,232/278,97/86,"$9,175,704","$4,824,894",Adrian Mannarino,Cristian Garin
+2019.08.11,Cincinnati,Outdoor,Hard,170,15,28,26,180,196,1,7,1,0,R,R,154,209,4/5,18/6,0,2,35/50,130/69,"$2,101,811","$9,911,546",Juan Ignacio Londero,Matteo Berrettini
+2019.08.11,Cincinnati,Outdoor,Hard,45,60,27,27,193,191,6,2,2,0,R,R,187,168,21/7,17/19,0,0,189/110,84/87,"$11,194,480","$3,990,596",Nick Kyrgios,Lorenzo Sonego
+2019.08.11,Cincinnati,Outdoor,Hard,213,0,34,(),183,,1,0,0,0,R,U,159,kg,1/7,0/212,0,0,172/229,0/13739,"$6,720,550",,Mikhail Kukushkin, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,31,9,22,21,183,193,1,1,2,0,R,R,165,194,27/15,30/17,0,1,82/77,130/93,"$3,702,937","$7,443,072",Miomir Kecmanovic,Felix Auger-Aliassime
+2019.08.11,Cincinnati,Outdoor,Hard,64,50,36,35,183,191,15,46,4,9,R,R,174,181,14/11,19/11,0,0,576/357,710/225,"$19,538,187","$62,913,301",Richard Gasquet,Andy Murray
+2019.08.11,Cincinnati,Outdoor,Hard,125,0,31,(),193,,2,0,0,0,L,U,198,kg,9/19,0/212,0,0,162/196,0/13739,"$5,904,021",,Federico Delbonis, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,24,147,23,29,183,185,5,3,3,3,R,R,152,171,28/16,2/6,0,0,137/99,65/111,"$7,228,398","$4,438,907",Alex de Minaur,Marco Cecchinato
+2019.08.11,Cincinnati,Outdoor,Hard,23,175,31,37,188,183,6,14,4,3,R,R,172,154,21/16,4/6,0,0,251/200,501/392,"$13,678,168","$15,918,767",Pablo Carreno Busta,Gilles Simon
+2019.08.11,Cincinnati,Outdoor,Hard,67,13,31,24,180,196,6,3,1,1,R,R,154,190,22/16,29/11,1,2,314/213,160/134,"$16,255,861","$8,193,645",David Goffin,Taylor Fritz
+2019.08.11,Cincinnati,Outdoor,Hard,8,28,24,30,188,185,11,5,3,3,R,R,165,174,31/10,12/21,3,0,216/122,143/159,"$12,102,889","$8,371,034",Andrey Rublev,Nikoloz Basilashvili
+2019.08.11,Cincinnati,Outdoor,Hard,109,16,32,33,175,198,1,20,1,1,R,R,152,196,5/7,21/13,0,0,91/125,570/319,"$4,436,940","$30,588,972",Radu Albot,Marin Cilic
+2019.08.11,Cincinnati,Outdoor,Hard,22,75,37,32,208,183,16,1,6,1,R,R,238,183,17/14,8/18,0,0,474/300,160/212,"$21,433,777","$7,697,271",John Isner,Dusan Lajovic
+2019.08.11,Cincinnati,Outdoor,Hard,17,183,24,25,211,188,4,2,1,1,R,R,225,187,20/14,2/6,2,0,88/83,170/149,"$4,198,775","$8,749,826",Reilly Opelka,Borna Coric
+2019.08.11,Cincinnati,Outdoor,Hard,19,12,34,25,183,196,10,5,3,0,R,R,165,179,23/10,28/12,1,1,359/215,112/90,"$16,083,239","$7,367,623",Roberto Bautista Agut,Hubert Hurkacz
+2019.08.11,Cincinnati,Outdoor,Hard,1,497,26,27,198,188,13,2,2,2,R,R,182,183,27/10,0/0,0,0,249/109,117/115,"$24,151,740","$5,765,703",Daniil Medvedev,Kyle Edmund
+2019.08.11,Cincinnati,Outdoor,Hard,26,0,26,(),198,,4,0,0,0,R,U,192,kg,22/16,0/212,0,0,196/152,0/13739,"$11,161,554",,Karen Khachanov, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,2,0,25,(),198,,19,0,0,0,R,U,198,kg,29/10,0/212,0,0,339/150,0/13739,"$32,407,055",,Alexander Zverev, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,158,0,32,(),178,,12,0,0,0,R,U,161,kg,0/0,0/212,0,0,431/211,0/13739,"$25,065,492",,Kei Nishikori, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,4,0,23,(),193,,9,0,0,0,R,U,198,kg,42/14,0/212,2,0,230/109,0/13739,"$19,838,180",,Stefanos Tsitsipas, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,0,0,(1,(),185,,103,0,0,0,R,U,187,kg,0/0,0/212,0,0,1251/275,0/13739,"$130,594,339",,Roger Federer, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,7,0,35,(),188,,88,0,0,0,R,U,170,kg,23/5,0/212,2,0,1012/204,0/13739,"$158,996,253",,Novak Djokovic, Bye
+2019.08.11,Cincinnati,Outdoor,Hard,14,109,29,32,170,175,4,1,1,0,R,R,141,152,26/16,5/7,0,0,232/182,91/125,"$12,477,487","$4,436,940",Diego Schwartzman,Radu Albot
+2019.08.11,Cincinnati,Outdoor,Hard,8,290,24,37,188,183,11,16,1,2,R,R,165,179,31/10,3/6,3,0,216/122,536/315,"$12,102,889","$35,058,754",Andrey Rublev,Stan Wawrinka
+2019.08.11,Cincinnati,Outdoor,Hard,210,21,28,23,185,185,5,1,1,0,R,L,185,165,3/6,17/15,0,0,139/128,151/125,"$8,105,164","$9,303,108",Lucas Pouille,Denis Shapovalov
+2019.08.11,Cincinnati,Outdoor,Hard,80,213,34,34,180,183,1,1,4,0,L,R,174,159,15/16,1/7,0,0,232/278,172/229,"$9,175,704","$6,720,550",Adrian Mannarino,Mikhail Kukushkin
+2019.08.11,Cincinnati,Outdoor,Hard,64,125,36,31,183,193,15,2,1,0,R,L,174,198,14/11,9/19,0,0,576/357,162/196,"$19,538,187","$5,904,021",Richard Gasquet,Federico Delbonis
+2019.08.11,Cincinnati,Outdoor,Hard,24,17,23,24,183,211,5,4,5,0,R,R,152,225,28/16,20/14,0,2,137/99,88/83,"$7,228,398","$4,198,775",Alex de Minaur,Reilly Opelka
+2019.08.11,Cincinnati,Outdoor,Hard,67,204,31,32,180,183,6,1,4,2,R,L,154,174,22/16,0/0,1,0,314/213,119/138,"$16,255,861","$5,731,930",David Goffin,Guido Pella
+2019.08.11,Cincinnati,Outdoor,Hard,23,22,31,37,188,208,6,16,1,0,R,R,172,238,21/16,17/14,0,0,251/200,474/300,"$13,678,168","$21,433,777",Pablo Carreno Busta,John Isner
+2019.08.11,Cincinnati,Outdoor,Hard,19,29,34,24,183,188,10,1,1,0,R,R,165,190,23/10,15/14,1,0,359/215,117/133,"$16,083,239","$5,970,770",Roberto Bautista Agut,Frances Tiafoe
+2019.08.11,Cincinnati,Outdoor,Hard,1,92,26,33,198,196,13,3,3,0,R,R,182,176,27/10,3/17,0,0,249/109,240/286,"$24,151,740","$9,836,848",Daniil Medvedev,Benoit Paire
+2019.08.11,Cincinnati,Outdoor,Hard,26,45,26,27,198,193,4,6,1,1,R,R,192,187,22/16,21/7,0,0,196/152,189/110,"$11,161,554","$11,194,480",Karen Khachanov,Nick Kyrgios
+2019.08.11,Cincinnati,Outdoor,Hard,31,2,22,25,183,198,1,19,1,1,R,R,165,198,27/15,29/10,0,0,82/77,339/150,"$3,702,937","$32,407,055",Miomir Kecmanovic,Alexander Zverev
+2019.08.11,Cincinnati,Outdoor,Hard,97,158,26,32,170,178,1,12,1,0,L,R,141,161,5/10,0/0,0,0,80/103,431/211,"$3,805,379","$25,065,492",Yoshihito Nishioka,Kei Nishikori
+2019.08.11,Cincinnati,Outdoor,Hard,122,4,32,23,193,193,0,9,2,3,R,R,202,198,2/11,42/14,0,2,166/202,230/109,"$7,597,772","$19,838,180",Jan-Lennard Struff,Stefanos Tsitsipas
+2019.08.11,Cincinnati,Outdoor,Hard,0,170,(1,28,185,180,103,1,1,0,R,R,187,154,0/0,4/5,0,0,1251/275,35/50,"$130,594,339","$2,101,811",Roger Federer,Juan Ignacio Londero
+2019.08.11,Cincinnati,Outdoor,Hard,7,282,35,34,188,198,88,10,9,2,R,R,170,209,23/5,4/9,2,0,1012/204,385/329,"$158,996,253","$13,588,615",Novak Djokovic,Sam Querrey
+2019.08.11,Cincinnati,Outdoor,Hard,97,24,26,23,170,183,1,5,2,0,L,R,141,152,5/10,28/16,0,0,80/103,137/99,"$3,805,379","$7,228,398",Yoshihito Nishioka,Alex de Minaur
+2019.08.11,Cincinnati,Outdoor,Hard,64,14,36,29,183,170,15,4,4,1,R,R,174,141,14/11,26/16,0,0,576/357,232/182,"$19,538,187","$12,477,487",Richard Gasquet,Diego Schwartzman
+2019.08.11,Cincinnati,Outdoor,Hard,67,80,31,34,180,180,6,1,5,2,R,L,154,174,22/16,15/16,1,0,314/213,232/278,"$16,255,861","$9,175,704",David Goffin,Adrian Mannarino
+2019.08.11,Cincinnati,Outdoor,Hard,19,31,34,22,183,183,10,1,3,0,R,R,165,165,23/10,27/15,1,0,359/215,82/77,"$16,083,239","$3,702,937",Roberto Bautista Agut,Miomir Kecmanovic
+2019.08.11,Cincinnati,Outdoor,Hard,1,122,26,32,198,193,13,0,5,1,R,R,182,202,27/10,2/11,0,0,249/109,166/202,"$24,151,740","$7,597,772",Daniil Medvedev,Jan-Lennard Struff
+2019.08.11,Cincinnati,Outdoor,Hard,210,26,28,26,185,198,5,4,3,3,R,R,185,192,3/6,22/16,0,0,139/128,196/152,"$8,105,164","$11,161,554",Lucas Pouille,Karen Khachanov
+2019.08.11,Cincinnati,Outdoor,Hard,8,0,24,(1,188,185,11,103,1,0,R,R,165,187,31/10,0/0,3,0,216/122,1251/275,"$12,102,889","$130,594,339",Andrey Rublev,Roger Federer
+2019.08.11,Cincinnati,Outdoor,Hard,7,23,35,31,188,188,88,6,4,2,R,R,170,172,23/5,21/16,2,0,1012/204,251/200,"$158,996,253","$13,678,168",Novak Djokovic,Pablo Carreno Busta
+2019.08.11,Cincinnati,Outdoor,Hard,67,97,31,26,180,170,6,1,1,1,R,L,154,141,22/16,5/10,1,0,314/213,80/103,"$16,255,861","$3,805,379",David Goffin,Yoshihito Nishioka
+2019.08.11,Cincinnati,Outdoor,Hard,64,19,36,34,183,183,15,10,2,7,R,R,174,165,14/11,23/10,0,1,576/357,359/215,"$19,538,187","$16,083,239",Richard Gasquet,Roberto Bautista Agut
+2019.08.11,Cincinnati,Outdoor,Hard,1,8,26,24,198,188,13,11,4,1,R,R,182,165,27/10,31/10,0,3,249/109,216/122,"$24,151,740","$12,102,889",Daniil Medvedev,Andrey Rublev
+2019.08.11,Cincinnati,Outdoor,Hard,7,210,35,28,188,185,88,5,3,0,R,R,170,185,23/5,3/6,2,0,1012/204,139/128,"$158,996,253","$8,105,164",Novak Djokovic,Lucas Pouille
+2019.08.11,Cincinnati,Outdoor,Hard,67,64,31,36,180,183,6,15,3,1,R,R,154,174,22/16,14/11,1,0,314/213,576/357,"$16,255,861","$19,538,187",David Goffin,Richard Gasquet
+2019.08.11,Cincinnati,Outdoor,Hard,1,7,26,35,198,188,13,88,4,6,R,R,182,170,27/10,23/5,0,2,249/109,1012/204,"$24,151,740","$158,996,253",Daniil Medvedev,Novak Djokovic
+2019.08.11,Cincinnati,Outdoor,Hard,1,67,26,31,198,180,13,6,3,1,R,R,182,154,27/10,22/16,0,1,249/109,314/213,"$24,151,740","$16,255,861",Daniil Medvedev,David Goffin
+2019.08.18,Winston-Salem,Outdoor,Hard,525,0,27,30,185,188,0,0,0,0,R,R,175,187,0/0,0/0,0,0,0/0,1/4,"$68,139","$2,132,971",Strong Kirchheimer,Kevin Krawietz
+2019.08.18,Winston-Salem,Outdoor,Hard,181,845,24,20,196,183,0,0,0,0,R,R,198,162,1/1,0/0,0,0,5/7,0/0,"$311,972","$12,585",Borna Gojo,Taha Baadi
+2019.08.18,Winston-Salem,Outdoor,Hard,0,1325,(1,31,173,193,0,0,0,0,R,R,160,190,0/0,2/0,0,0,0/0,29/21,"$207,521","$1,483,890",Daniel Nguyen,Marcelo Arevalo
+2019.08.18,Winston-Salem,Outdoor,Hard,651,434,26,28,185,180,0,0,0,0,R,R,185,167,1/1,0/0,0,0,4/8,2/6,"$73,870","$335,913",Petros Chrysochos,Filip Peliwo
+2019.08.18,Winston-Salem,Outdoor,Hard,882,153,29,26,178,201,0,0,0,0,R,R,150,180,0/0,2/3,0,0,0/1,7/20,"$111,191","$975,573",Raymond Sarmiento,Christopher Eubanks
+2019.08.18,Winston-Salem,Outdoor,Hard,54,634,28,23,180,191,0,0,0,0,R,L,170,165,11/19,0/0,0,0,46/55,0/0,"$2,311,726","$54,023",Marcos Giron,Roy Smith
+2019.08.18,Winston-Salem,Outdoor,Hard,184,0,28,41,183,183,0,5,0,0,R,L,175,176,0/1,0/0,0,0,22/39,350/334,"$1,562,054","$10,739,212",Bjorn Fratangelo,Jurgen Melzer
+2019.08.18,Winston-Salem,Outdoor,Hard,185,808,30,31,175,191,3,0,0,0,R,L,150,190,4/4,0/0,0,0,124/136,1/6,"$4,662,152","$311,198",Damir Dzumhur,Kevin King
+2019.08.18,Winston-Salem,Outdoor,Hard,882,0,29,(1,178,173,0,0,0,0,R,R,150,160,0/0,0/0,0,0,0/1,0/0,"$111,191","$207,521",Raymond Sarmiento,Daniel Nguyen
+2019.08.18,Winston-Salem,Outdoor,Hard,54,181,28,24,180,196,0,0,0,0,R,R,170,198,11/19,1/1,0,0,46/55,5/7,"$2,311,726","$311,972",Marcos Giron,Borna Gojo
+2019.08.18,Winston-Salem,Outdoor,Hard,184,651,28,26,183,185,0,0,0,0,R,R,175,185,0/1,1/1,0,0,22/39,4/8,"$1,562,054","$73,870",Bjorn Fratangelo,Petros Chrysochos
+2019.08.18,Winston-Salem,Outdoor,Hard,185,525,30,27,175,185,3,0,0,0,R,R,150,175,4/4,0/0,0,0,124/136,0/0,"$4,662,152","$68,139",Damir Dzumhur,Strong Kirchheimer
+2019.08.18,Winston-Salem,Outdoor,Hard,343,50,30,35,188,191,1,46,1,1,R,R,195,181,0/3,19/11,0,0,47/75,710/225,"$3,454,806","$62,913,301",Tennys Sandgren,Andy Murray
+2019.08.18,Winston-Salem,Outdoor,Hard,8,223,24,33,188,173,11,0,1,0,R,R,165,154,31/10,0/1,3,0,216/122,27/63,"$12,102,889","$2,429,482",Andrey Rublev,Thomas Fabbiano
+2019.08.18,Winston-Salem,Outdoor,Hard,82,72,22,28,196,183,1,0,1,0,R,L,172,172,3/12,11/11,0,0,40/62,66/90,"$2,389,960","$2,483,692",Alexei Popyrin,Thiago Monteiro
+2019.08.18,Winston-Salem,Outdoor,Hard,546,108,24,30,175,185,0,0,1,0,R,R,165,172,0/0,5/10,0,0,3/3,51/70,"$411,740","$2,204,392",Duckhee Lee,Henri Laaksonen
+2019.08.18,Winston-Salem,Outdoor,Hard,85,112,32,23,188,175,4,0,1,0,R,L,190,156,11/10,6/6,0,0,190/191,36/50,"$7,628,987","$2,192,336",Steve Johnson,Corentin Moutet
+2019.08.18,Winston-Salem,Outdoor,Hard,46,63,25,25,193,183,0,0,1,0,R,R,176,168,7/14,12/14,0,0,69/69,55/81,"$3,114,801","$2,741,436",Lloyd Harris,Jaume Munar
+2019.08.18,Winston-Salem,Outdoor,Hard,253,83,35,29,191,180,2,0,1,0,R,R,170,175,1/1,4/11,0,0,233/271,65/119,"$7,781,785","$3,999,705",Robin Haase,Denis Kudla
+2019.08.18,Winston-Salem,Outdoor,Hard,295,202,32,31,188,180,0,0,1,0,L,L,176,154,0/1,1/1,0,0,10/27,32/50,"$938,291","$1,541,967",Prajnesh Gunneswaran,Cedrik-Marcel Stebe
+2019.08.18,Winston-Salem,Outdoor,Hard,184,0,28,35,183,185,0,0,1,0,R,R,175,176,0/1,0/0,0,0,22/39,11/11,"$1,562,054","$478,456",Bjorn Fratangelo,Amir Weintraub
+2019.08.18,Winston-Salem,Outdoor,Hard,185,460,30,26,175,183,3,0,1,1,R,R,150,168,4/4,0/0,0,0,124/136,6/13,"$4,662,152","$1,063,485",Damir Dzumhur,Antoine Hoang
+2019.08.18,Winston-Salem,Outdoor,Hard,326,0,31,33,191,191,0,6,1,1,R,L,195,187,0/2,0/0,0,0,66/91,149/153,"$2,676,041","$5,524,410",Marius Copil,Martin Klizan
+2019.08.18,Winston-Salem,Outdoor,Hard,977,882,35,29,188,178,1,0,1,0,R,R,165,150,0/0,0/0,0,0,297/303,0/1,"$10,535,763","$111,191",Jeremy Chardy,Raymond Sarmiento
+2019.08.18,Winston-Salem,Outdoor,Hard,147,39,29,25,185,196,3,1,1,0,R,R,171,180,2/6,22/18,0,1,65/111,92/88,"$4,438,907","$3,901,007",Marco Cecchinato,Alexander Bublik
+2019.08.18,Winston-Salem,Outdoor,Hard,88,54,29,28,183,180,1,0,1,0,R,R,170,170,5/13,11/19,0,0,68/91,46/55,"$3,099,905","$2,311,726",Roberto Carballes Baena,Marcos Giron
+2019.08.18,Winston-Salem,Outdoor,Hard,0,173,(1,38,196,191,13,3,9,2,R,R,200,172,0/0,2/5,0,0,640/342,386/422,"$29,491,328","$11,763,421",Tomas Berdych,Andreas Seppi
+2019.08.18,Winston-Salem,Outdoor,Hard,94,118,36,26,180,198,4,1,1,1,R,R,176,198,7/11,1/3,0,0,161/236,53/62,"$6,931,384","$2,282,706",Pablo Andujar,Nicolas Jarry
+2019.08.18,Winston-Salem,Outdoor,Hard,246,0,40,(),188,,7,0,0,0,L,U,194,kg,0/9,0/212,0,0,503/484,0/13739,"$18,585,117",,Feliciano Lopez, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,157,0,24,(),188,,3,0,0,0,L,U,160,kg,7/17,0/212,0,0,69/74,0/13739,"$3,203,437",,Ugo Humbert, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,84,0,33,(),183,,1,0,0,0,R,U,174,kg,7/14,0/212,0,0,117/144,0/13739,"$5,185,800",,John Millman, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,31,0,22,(),183,,1,0,0,0,R,U,165,kg,27/15,0/212,0,0,82/77,0/13739,"$3,702,937",,Miomir Kecmanovic, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,5,0,23,(),183,,8,0,0,0,R,U,170,kg,31/13,0/212,2,0,150/83,0/13739,"$7,726,248",,Casper Ruud, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,23,0,31,(),188,,6,0,0,0,R,U,172,kg,21/16,0/212,0,0,251/200,0/13739,"$13,678,168",,Pablo Carreno Busta, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,29,0,24,(),188,,1,0,0,0,R,U,190,kg,15/14,0/212,0,0,117/133,0/13739,"$5,970,770",,Frances Tiafoe, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,40,0,34,(),188,,4,0,0,0,L,U,168,kg,15/16,0/212,1,0,256/285,0/13739,"$9,448,129",,Albert Ramos-Vinolas, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,43,0,30,(),185,,0,0,0,0,R,U,165,kg,17/13,0/212,0,0,118/115,0/13739,"$5,670,895",,Filip Krajinovic, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,60,0,27,(),191,,2,0,0,0,R,U,168,kg,17/19,0/212,0,0,84/87,0/13739,"$3,990,596",,Lorenzo Sonego, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,282,0,34,(),198,,10,0,0,0,R,U,209,kg,4/9,0/212,0,0,385/329,0/13739,"$13,588,615",,Sam Querrey, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,36,0,32,(),175,,1,0,0,0,R,U,165,kg,13/16,0/212,0,0,111/121,0/13739,"$5,429,957",,Daniel Evans, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,58,0,33,(),185,,4,0,0,0,R,U,163,kg,12/12,0/212,1,0,212/250,0/13739,"$7,851,170",,Joao Sousa, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,12,0,25,(),196,,5,0,0,0,R,U,179,kg,28/12,0/212,1,0,112/90,0/13739,"$7,367,623",,Hubert Hurkacz, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,21,0,23,(),185,,1,0,0,0,L,U,165,kg,17/15,0/212,0,0,151/125,0/13739,"$9,303,108",,Denis Shapovalov, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,92,0,33,(),196,,3,0,0,0,R,U,176,kg,3/17,0/212,0,0,240/286,0/13739,"$9,836,848",,Benoit Paire, Bye
+2019.08.18,Winston-Salem,Outdoor,Hard,246,94,40,36,188,180,7,4,4,1,L,R,194,176,0/9,7/11,0,0,503/484,161/236,"$18,585,117","$6,931,384",Feliciano Lopez,Pablo Andujar
+2019.08.18,Winston-Salem,Outdoor,Hard,157,184,24,28,188,183,3,0,1,0,L,R,160,175,7/17,0/1,0,0,69/74,22/39,"$3,203,437","$1,562,054",Ugo Humbert,Bjorn Fratangelo
+2019.08.18,Winston-Salem,Outdoor,Hard,84,147,33,29,183,185,1,3,1,2,R,R,174,171,7/14,2/6,0,0,117/144,65/111,"$5,185,800","$4,438,907",John Millman,Marco Cecchinato
+2019.08.18,Winston-Salem,Outdoor,Hard,31,82,22,22,183,196,1,1,2,1,R,R,165,172,27/15,3/12,0,0,82/77,40/62,"$3,702,937","$2,389,960",Miomir Kecmanovic,Alexei Popyrin
+2019.08.18,Winston-Salem,Outdoor,Hard,5,46,23,25,183,193,8,0,3,0,R,R,170,176,31/13,7/14,2,0,150/83,69/69,"$7,726,248","$3,114,801",Casper Ruud,Lloyd Harris
+2019.08.18,Winston-Salem,Outdoor,Hard,23,326,31,31,188,191,6,0,1,0,R,R,172,195,21/16,0/2,0,0,251/200,66/91,"$13,678,168","$2,676,041",Pablo Carreno Busta,Marius Copil
+2019.08.18,Winston-Salem,Outdoor,Hard,29,977,24,35,188,188,1,1,1,1,R,R,190,165,15/14,0/0,0,0,117/133,297/303,"$5,970,770","$10,535,763",Frances Tiafoe,Jeremy Chardy
+2019.08.18,Winston-Salem,Outdoor,Hard,8,40,24,34,188,188,11,4,3,1,R,L,165,168,31/10,15/16,3,1,216/122,256/285,"$12,102,889","$9,448,129",Andrey Rublev,Albert Ramos-Vinolas
+2019.08.18,Winston-Salem,Outdoor,Hard,43,0,30,(1,185,196,0,13,1,1,R,R,165,200,17/13,0/0,0,0,118/115,640/342,"$5,670,895","$29,491,328",Filip Krajinovic,Tomas Berdych
+2019.08.18,Winston-Salem,Outdoor,Hard,60,185,27,30,191,175,2,3,1,0,R,R,168,150,17/19,4/4,0,0,84/87,124/136,"$3,990,596","$4,662,152",Lorenzo Sonego,Damir Dzumhur
+2019.08.18,Winston-Salem,Outdoor,Hard,282,88,34,29,198,183,10,1,2,0,R,R,209,170,4/9,5/13,0,0,385/329,68/91,"$13,588,615","$3,099,905",Sam Querrey,Roberto Carballes Baena
+2019.08.18,Winston-Salem,Outdoor,Hard,85,36,32,32,188,175,4,1,1,0,R,R,190,165,11/10,13/16,0,0,190/191,111/121,"$7,628,987","$5,429,957",Steve Johnson,Daniel Evans
+2019.08.18,Winston-Salem,Outdoor,Hard,253,58,35,33,191,185,2,4,3,2,R,R,170,163,1/1,12/12,0,1,233/271,212/250,"$7,781,785","$7,851,170",Robin Haase,Joao Sousa
+2019.08.18,Winston-Salem,Outdoor,Hard,12,546,25,24,196,175,5,0,1,0,R,R,179,165,28/12,0/0,1,0,112/90,3/3,"$7,367,623","$411,740",Hubert Hurkacz,Duckhee Lee
+2019.08.18,Winston-Salem,Outdoor,Hard,21,343,23,30,185,188,1,1,2,0,L,R,165,195,17/15,0/3,0,0,151/125,47/75,"$9,303,108","$3,454,806",Denis Shapovalov,Tennys Sandgren
+2019.08.18,Winston-Salem,Outdoor,Hard,92,295,33,32,196,188,3,0,1,1,R,L,176,176,3/17,0/1,0,0,240/286,10/27,"$9,836,848","$938,291",Benoit Paire,Prajnesh Gunneswaran
+2019.08.18,Winston-Salem,Outdoor,Hard,84,253,33,35,183,191,1,2,1,0,R,R,174,170,7/14,1/1,0,0,117/144,233/271,"$5,185,800","$7,781,785",John Millman,Robin Haase
+2019.08.18,Winston-Salem,Outdoor,Hard,85,5,32,23,188,183,4,8,1,0,R,R,190,170,11/10,31/13,0,2,190/191,150/83,"$7,628,987","$7,726,248",Steve Johnson,Casper Ruud
+2019.08.18,Winston-Salem,Outdoor,Hard,29,43,24,30,188,185,1,0,1,2,R,R,190,165,15/14,17/13,0,0,117/133,118/115,"$5,970,770","$5,670,895",Frances Tiafoe,Filip Krajinovic
+2019.08.18,Winston-Salem,Outdoor,Hard,23,60,31,27,188,191,6,2,2,1,R,R,172,168,21/16,17/19,0,0,251/200,84/87,"$13,678,168","$3,990,596",Pablo Carreno Busta,Lorenzo Sonego
+2019.08.18,Winston-Salem,Outdoor,Hard,8,282,24,34,188,198,11,10,3,1,R,R,165,209,31/10,4/9,3,0,216/122,385/329,"$12,102,889","$13,588,615",Andrey Rublev,Sam Querrey
+2019.08.18,Winston-Salem,Outdoor,Hard,12,246,25,40,196,188,5,7,2,0,R,L,179,194,28/12,0/9,1,0,112/90,503/484,"$7,367,623","$18,585,117",Hubert Hurkacz,Feliciano Lopez
+2019.08.18,Winston-Salem,Outdoor,Hard,21,31,23,22,185,183,1,1,2,0,L,R,165,165,17/15,27/15,0,0,151/125,82/77,"$9,303,108","$3,702,937",Denis Shapovalov,Miomir Kecmanovic
+2019.08.18,Winston-Salem,Outdoor,Hard,92,157,33,24,196,188,3,3,1,1,R,L,176,160,3/17,7/17,0,0,240/286,69/74,"$9,836,848","$3,203,437",Benoit Paire,Ugo Humbert
+2019.08.18,Winston-Salem,Outdoor,Hard,85,84,32,33,188,183,4,1,4,1,R,R,190,174,11/10,7/14,0,0,190/191,117/144,"$7,628,987","$5,185,800",Steve Johnson,John Millman
+2019.08.18,Winston-Salem,Outdoor,Hard,12,29,25,24,196,188,5,1,2,2,R,R,179,190,28/12,15/14,1,0,112/90,117/133,"$7,367,623","$5,970,770",Hubert Hurkacz,Frances Tiafoe
+2019.08.18,Winston-Salem,Outdoor,Hard,21,8,23,24,185,188,1,11,2,2,L,R,165,165,17/15,31/10,0,3,151/125,216/122,"$9,303,108","$12,102,889",Denis Shapovalov,Andrey Rublev
+2019.08.18,Winston-Salem,Outdoor,Hard,92,23,33,31,196,188,3,6,8,5,R,R,176,172,3/17,21/16,0,0,240/286,251/200,"$9,836,848","$13,678,168",Benoit Paire,Pablo Carreno Busta
+2019.08.18,Winston-Salem,Outdoor,Hard,12,21,25,23,196,185,5,1,3,1,R,L,179,165,28/12,17/15,1,0,112/90,151/125,"$7,367,623","$9,303,108",Hubert Hurkacz,Denis Shapovalov
+2019.08.18,Winston-Salem,Outdoor,Hard,92,85,33,32,196,188,3,4,3,1,R,R,176,190,3/17,11/10,0,0,240/286,190/191,"$9,836,848","$7,628,987",Benoit Paire,Steve Johnson
+2019.08.18,Winston-Salem,Outdoor,Hard,12,92,25,33,196,196,5,3,1,1,R,R,179,176,28/12,3/17,1,0,112/90,240/286,"$7,367,623","$9,836,848",Hubert Hurkacz,Benoit Paire
