@@ -290,5 +290,5 @@ for dates_des_tournois, tournament_name, court, surface, number in zip(dates_des
     table1['Loser'] = x[1]
 
     table = table.append(table1, ignore_index=True)
-    table.to_csv('out5.csv', index=False)
+    table.to_csv('out.csv', index=False)
     
