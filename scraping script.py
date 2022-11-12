@@ -232,8 +232,7 @@ for element in classes:
         result = re.findall('[0-9]+', a['href'])
         liste_des_nombres.append(result[0])
 
-for dates_des_tournois, tournament_name, court, surface, number in zip(dates_des_tournois, tournament_name, court,
-                                                                       surface, liste_des_nombres[59:]):
+for dates_des_tournois, tournament_name, court, surface, number in zip(dates_des_tournois, tournament_name, court, surface, liste_des_nombres):
     table1 = pd.DataFrame()
 
     html = 'https://www.atptour.com/en/scores/archive/delray-beach/' + number + '/' + str(year) + '/results'
