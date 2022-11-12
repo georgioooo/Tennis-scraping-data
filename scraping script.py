@@ -187,8 +187,6 @@ def information(link_list):
 
 
 table = pd.DataFrame()
-
-
 html = 'https://www.atptour.com/en/scores/results-archive?year=year'
 req = Request(html, headers={'User-Agent': 'Mozilla/5.0'})
 webpage = urlopen(req)
